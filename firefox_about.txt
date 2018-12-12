@@ -1,0 +1,15 @@
+prefs.js
+--------
+
+about:
+about:blank
+about:buildconfig
+about:cache
+about:cache?device=disk
+about:cache?device=memory
+about:config
+about:credits
+about:license
+about:mozilla
+about:plugins
+
