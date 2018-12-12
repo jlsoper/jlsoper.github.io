@@ -1,0 +1,247 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=Windows-1252">
+<TITLE>Regular Expressions</TITLE>
+<LINK REL="StyleSheet" TYPE="text/css" HREF="../styles.css">
+</HEAD>
+
+<noframes>
+<body>
+</noframes>
+
+<BODY>
+
+
+
+<H1><A NAME="Regular_Expressions"></A>Regular Expressions<BR>
+</H1>
+
+<P>A regular expression (RE) is a mechanism for describing patterns in text when executing the <A HREF="./Finding_Text.html">Find</A>, the <A HREF="./Replacing_Text.html">Replace</A>, and the "Find in Files" commands.  An RE is made up of ordinary characters, some of which take on the special meanings described below.</P>
+
+<P>See <A HREF="./Use_Regular_Expressions.html">How to Use Regular Expressions</A> for the differences between the default syntax and POSIX syntax.</P>
+
+<H3>Ordinary Characters</H3>
+
+<P>An ordinary character is an RE that matches itself.  It can be any character, except &lt;newline&gt; and the special characters listed below.  An ordinary character preceded by a backslash is treated as the ordinary character itself, except when the character is <B>(</B>, <B>)</B>, <B>&lt;</B>, <B>&gt;</B>, or the letters <B>f</B>, <B>n,</B> <B>t</B> and <B>x</B>, or the digits <B>1</B> through <B>9</B>.</P>
+
+<H3>Hex Characters</H3>
+
+<P>Any character can be represented by its hex value.  This is specified with the pattern <CODE>\x<I>dd</I></CODE>, where <I><CODE>dd </CODE></I>is any 2-digit hexadecimal number, excluding zero.</P>
+
+<H3>Tabs</H3>
+
+<P>A tab character is represented by the pattern <CODE>\t</CODE>.</P>
+
+<H3>Page Breaks</H3>
+
+<P>A page break (form feed) character is represented by the pattern <CODE>\f</CODE>.</P>
+
+<H3>Line Breaks</H3>
+
+<P>A line break is represented by the pattern <CODE>\n</CODE>.  This matches carriage return and line feed characters.  Note that these cannot be combined with repetition operators (see below), so you can only match an exact number of them (e.g. <CODE>\n\n</CODE> will match a single blank line.) <B> Do not </B>use this for constraining matches to the end of a line, as it's much more efficient to use "$" (see Expression Anchoring below).  This pattern should only be used to match text that spans line boundaries.</P>
+
+<H3>Special Characters</H3>
+
+<P>These special characters, can be rendered ordinary by preceding them with a backslash (<B>\</B>), if they are single special characters, or removing the preceding backslash if they are compound special characters.</P>
+
+<TABLE cols=2>
+
+<TR>
+<TH>Character</TH>
+<TH>Context</TH>
+</TR>
+
+<TR>
+<TD>. [ \</TD>
+<TD>The period, left square bracket, and backslash are special except when used in a Class Expression.</TD>
+</TR>
+
+<TR>
+<TD>* ? +</TD>
+<TD>Asterisk, question mark and plus are special except when used in a class expression, as the first character of an RE, or as the first character of a Tagged Expression.</TD>
+</TR>
+
+<TR>
+<TD>-</TD>
+<TD>The hyphen is special in a Class Expression, except as the first or last character of that expression.</TD>
+</TR>
+
+<TR>
+<TD>^</TD>
+<TD>The circumflex is special when used as the first character of an entire RE (see Expression Anchoring), or as the first character of a Class Expression.</TD>
+</TR>
+
+<TR>
+<TD>$</TD>
+<TD>The dollar sign is special when used as the last character of an entire RE (see Expression Anchoring).</TD>
+</TR>
+</TABLE><BR>
+
+<H3>Wildcard Character</H3>
+
+<P>The period (<B>.</B>), when used outside of a class expression, matches any character except newline.</P>
+
+<H3>Repetition Operators</H3>
+
+<P>The asterisk (<B>*</B>) matches zero or more occurrences of the smallest possible preceding regular expression, while the question mark (?) matches zero or one, and the plus sign (<B>+</B>) matches at least one occurrence.  For example, A*b+ matches zero or more A's followed by one or more b's.</P>
+
+<H3>Interval Operator</H3>
+
+<P>Repeats the smallest possible preceding regular expression the given number of times.  The options are:</P>
+
+<TABLE cols=2>
+
+<TR>
+<TD>\{count\}</TD>
+<TD>Matches exactly count times.</TD>
+</TR>
+
+<TR>
+<TD>\{min,\}</TD>
+<TD>Matches at least min times.</TD>
+</TR>
+
+<TR>
+<TD>\{min,max\}</TD>
+<TD>Matches between min and max times.</TD>
+</TR>
+</TABLE><BR>
+
+<H3>Alternation Operator</H3>
+
+<P>The alternation operator (\|) matches either the expression to its left or the one to its right. It has a lower precedence of any other regular expression operator, so the surrounding RE's must be bracketed with \(...\) if only a part of them is to be matched.</P>
+
+<H3>Class Expressions</H3>
+
+<P>A class expression is a RE, enclosed in square brackets (<B>[…]</B>), that matches any one of the elements contained in the brackets.  The permitted elements of a class expression are:</P>
+
+<H3>Simple Characters:</H3>
+
+<P>These are single characters that match themselves.  To match a right square bracket (<B>]</B>), it must be the first character of the class expression, after any initial circumflex (see Negated Class Expressions).  To match a hyphen, it must be either the first or the last character of the class expression.  For example [AaBb] matches upper or lower case A or B.</P>
+
+<H3>Negated Class Expressions:</H3>
+
+<P>If the first character of a class expression is the circumflex (<B>^</B>), the expression matches any character not in the class.  For example [^AB^] matches any character except A, B and the circumflex itself.</P>
+
+<H3>Range Expressions:</H3>
+
+<P>A range expression is two characters separated by a hyphen (<B>-</B>).  It matches any characters with code points between those of the two characters.  For example, [A-Za-z0-9-] matches any upper or lower case letter or digit, or the hyphen itself. Note that [a-z] also matches upper case letters, unless the option to match case is selected.</P>
+
+<H3>Character Class Operators:</H3>
+
+<P>These can be used as an alternative way of representing classes of characters.  For example, [a-z] is equivalent to [[:lower:]] and [a-z0-9] is equivalent to [[:lower:][:digit:]].  (<I>Note the extra pairs of brackets.)  </I> The defined classes are:</P>
+
+<TABLE cols=2>
+
+<TR>
+<TH>Expression</TH>
+<TH>Description</TH>
+</TR>
+
+<TR>
+<TD>[:alpha:]</TD>
+<TD>Any letter.</TD>
+</TR>
+
+<TR>
+<TD>[:lower:]</TD>
+<TD>Any lower case letter.</TD>
+</TR>
+
+<TR>
+<TD>[:upper:]</TD>
+<TD>Any upper case letter.</TD>
+</TR>
+
+<TR>
+<TD>[:alnum:]</TD>
+<TD>Any digit or letter.</TD>
+</TR>
+
+<TR>
+<TD>[:digit:]</TD>
+<TD>Any digit.</TD>
+</TR>
+
+<TR>
+<TD>[:xdigit:]</TD>
+<TD>Any hexadecimal digit (0-9, a-f or A-F).</TD>
+</TR>
+
+<TR>
+<TD>[:blank:]</TD>
+<TD>Space or tab.</TD>
+</TR>
+
+<TR>
+<TD>[:space:]</TD>
+<TD>Space, tab, vertical tab or form feed.</TD>
+</TR>
+
+<TR>
+<TD>[:cntrl:]</TD>
+<TD>Control characters (Delete and ASCII codes less than space).</TD>
+</TR>
+
+<TR>
+<TD>[:print:]</TD>
+<TD>Printable characters, including space.</TD>
+</TR>
+
+<TR>
+<TD>[:graph:]</TD>
+<TD>Printable characters, excluding space.</TD>
+</TR>
+
+<TR>
+<TD>[:punct:]</TD>
+<TD>Anything that is not a control or alphanumeric character.</TD>
+</TR>
+
+<TR>
+<TD>[:word:]</TD>
+<TD>Letters, hypens and apostrophes.</TD>
+</TR>
+
+<TR>
+<TD>[:token:]</TD>
+<TD>Any of the characters defined on the Syntax page for the document class, or in the syntax definition file if syntax highlighting is enabled for the document class.</TD>
+</TR>
+</TABLE><BR>
+
+<H3>Expression Anchoring</H3>
+
+<P>An RE can be restricted to matching strings that begin or end a line or word, as follows:</P>
+
+<TABLE cols=2>
+
+<TR>
+<TH>^</TH>
+<TD>A circumflex as the first character of an RE anchors the expression to the beginning of the line.</TD>
+</TR>
+
+<TR>
+<TH>$</TH>
+<TD>A dollar sign as the last character of an RE anchors the expression to the end of the line.</TD>
+</TR>
+
+<TR>
+<TH>\&lt;</TH>
+<TD>The character pair <B>\&lt;</B> anchors the next RE to the start of a word.</TD>
+</TR>
+
+<TR>
+<TH>\&gt;</TH>
+<TD>The character pair <B>\&gt;</B> anchors the previous RE to the end of a word.</TD>
+</TR>
+</TABLE><BR>
+
+<H3>Tagged Expressions</H3>
+
+<P>A tagged expression is an RE that starts with the pair <B>\(</B> and ends with the pair <B>\)</B>.  There can be up to nine such expressions in a complete RE.  Such an expression matches the same as the expression without the surrounding <B>\(</B> and <B>\)</B>.  The first expression defined in this way can be referenced as <B>\1</B> later in the RE, and so on up to <B>\9</B> for the ninth tagged expression.  Each such reference matches the same string as its original tagged expression.  For example \(tu\) \1 matches the string "tu tu".</P>
+
+<P>References to tagged expressions can also be used in <A HREF="./Replacement_Expressions.html">Replacement Expressions</A>.</P>
+
+</BODY>
+</HTML>

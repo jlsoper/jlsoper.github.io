@@ -1,0 +1,68 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=Windows-1252">
+<TITLE>Examples: Replacing Text</TITLE>
+<LINK REL="StyleSheet" TYPE="text/css" HREF="../styles.css">
+</HEAD>
+
+<noframes>
+<body>
+</noframes>
+
+<BODY>
+
+
+
+<H1><A NAME="Replacing_Text"></A>Replacing Text<BR>
+See Also: <A HREF="./Finding_Text.html">Finding Text</A></H1>
+
+<P>These examples all use UNIX extended regular expression syntax.</P>
+
+<H3>1. Find any alphabetic word starting with an upper case letter:</H3>
+
+<PRE><CODE>[A-Z][a-z]+</CODE></PRE>
+
+<P>and replace with the same word all in upper case:</P>
+
+<PRE><CODE>\U&amp;</CODE></PRE>
+
+<H3>2. Find a C language variable name starting with a lower case letter:</H3>
+
+<PRE><CODE>\&lt;[a-z][<U> </U>a-zA-Z0-9]*</CODE></PRE>
+
+<P>and make the first letter upper case:</P>
+
+<PRE><CODE>\u&amp;</CODE></PRE>
+
+<H3>3. Find two numeric strings separated by one or more spaces:</H3>
+
+<PRE><CODE>\([0-9]+\) +\([0-9]+\)</CODE></PRE>
+
+<P>and swap them around, using a tab to separate them:</P>
+
+<PRE><CODE>\2\t\1</CODE></PRE>
+
+<H3>4. Find "paste":</H3>
+
+<PRE><CODE>paste</CODE></PRE>
+
+<P>and replace with the contents of the clipboard:</P>
+
+<PRE><CODE>\p</CODE></PRE>
+
+<H3>5. To change:</H3>
+
+<TABLE COLS=3>
+<TR><TD>X100000</TD><TD>&nbsp;&nbsp;<EM>to</EM>&nbsp;&nbsp;</TD><TD>X100.000</TD></TR>
+<TR><TD>Y100123</TD><TD>&nbsp;</TD><TD>Y100.123</TD></TR>
+<TR><TD>Z600</TD><TD>&nbsp;</TD><TD>Z.600</TD></TR>
+</TABLE>
+
+<TABLE COLS=2>
+<TR><TD><EM>Find:</EM></TD><TD><CODE>\([XYZ]\)\([0-9]*\)\([0-9][0-9][0-9]\)</CODE></TD></TR>
+<TR><TD><EM>Replace:</EM></TD><TD><CODE>\1\2.\3</CODE></TD></TR>
+</TABLE>
+
+</BODY>
+</HTML>

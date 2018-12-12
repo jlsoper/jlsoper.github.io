@@ -1,0 +1,256 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=Windows-1252">
+<TITLE>How to Use Regular Expressions</TITLE>
+<LINK REL="StyleSheet" TYPE="text/css" HREF="../styles.css">
+</HEAD>
+
+<noframes>
+<body>
+</noframes>
+
+<BODY>
+
+
+
+<H1><A NAME="Use_Regular_Expressions"></A>How to Use Regular Expressions</H1>
+
+<P>A regular expression (RE) is a search string that uses special characters to match patterns of text. You can use them with the Find, and Find in Files commands, and with the Replace command in conjunction with replacement expressions.  TextPad's regular expressions are based on POSIX standard P1003.2, but the syntax can be that of POSIX, or UNIX extended regular expressions (the default).  The choice can be made on the Editor page of the Preferences dialog box.</P>
+
+<H3>To use a regular expression:</H3>
+
+<OL>
+<LI>From the Search menu, choose Find, Replace, or Find in Files.</LI>
+
+<LI>In the Find What box, type a regular expression.</LI>
+
+<LI>Check the "Regular expression" box.</LI>
+</OL>
+
+<H3>Summary of regular expressions:</H3>
+
+<TABLE cols=3>
+
+<TR>
+<TH>Default Operator:</TH> <TH>POSIX Operator:</TH> <TH>Description:</TH>
+</TR>
+
+<TR>
+<TD>.</TD>
+<TD>.</TD>
+<TD>Any single character.<I> Example: </I><CODE>h.t</CODE><I> </I>matches hat, hit, hot and hut.</TD>
+</TR>
+
+<TR>
+<TD>[ ]</TD>
+<TD>[ ]</TD>
+<TD>Any one of the characters in the brackets, or any of a range of characters separated by a hyphen (-), or a character class operator (see below).  <I>Examples: </I><CODE>h[aeiou][a-z]</CODE> matches hat, hip, hit, hop, and hut; <CODE>[A-Za-z]</CODE> matches any single letter; <CODE>x[0-9]</CODE> matches x0, x1, …, x9.</TD>
+</TR>
+
+<TR>
+<TD>[^]</TD>
+<TD>[^]</TD>
+<TD>Any characters except for those after the caret "^".  <I>Example: </I><CODE>h[^u]t</CODE> matches hat, hit, and hot, but not hut.</TD>
+</TR>
+
+<TR>
+<TD>^</TD>
+<TD>^</TD>
+<TD>The start of a line (column 1).</TD>
+</TR>
+
+<TR>
+<TD>$</TD>
+<TD>$</TD>
+<TD>The end of a line (<I>not </I>the line break characters).  Use this for restricting matches to characters at the end of a line. <I>Example: </I><CODE>end$ </CODE>only matches "end" when it's the last word on a line, and <CODE>^end </CODE>only matches "end" when it's the first word on a line.</TD>
+</TR>
+
+<TR>
+<TD>\&lt;</TD>
+<TD>\&lt;</TD>
+<TD>The start of a word.</TD>
+</TR>
+
+<TR>
+<TD>\&gt;</TD>
+<TD>\&gt;</TD>
+<TD>The end of a word.</TD>
+</TR>
+
+<TR>
+<TD>\t</TD>
+<TD>\t</TD>
+<TD>The tab character.</TD>
+</TR>
+
+<TR>
+<TD>\f</TD>
+<TD>\f</TD>
+<TD>The page break (form feed) character.</TD>
+</TR>
+
+<TR>
+<TD>\n</TD>
+<TD>\n</TD>
+<TD>A new line character, for matching expressions that span line boundaries.  This cannot be followed by operators '*', '+' or {}.  <B>Do not </B>use this for constraining matches to the end of a line.  It's much more efficient to use "$".</TD>
+</TR>
+
+<TR>
+<TD>\xdd</TD>
+<TD>\xdd</TD>
+<TD>"dd" is the two-digit hexadecimal code for any character.</TD>
+</TR>
+
+<TR>
+<TD>\( \)</TD>
+<TD>( )</TD>
+<TD>Groups a tagged expression to use in replacement expressions.  An RE can have up to 9 tagged expressions, numbered according to their order in the RE.  The corresponding replacement expression is \x, for x in the range 1-9.  <I>Example: </I>If <CODE>\([a-z]+\) \([a-z]+\)</CODE> matches "way wrong", <CODE>\2 \1</CODE> would replace it with "wrong way".</TD>
+</TR>
+
+<TR>
+<TD>*</TD>
+<TD>*</TD>
+<TD>Matches zero or more of the preceding characters or expressions.  <I>Example: </I><CODE>ho*p</CODE> matches hp, hop and hoop.</TD>
+</TR>
+
+<TR>
+<TD>?</TD>
+<TD>?</TD>
+<TD>Matches zero or one of the preceding characters or expressions.  <I>Example: </I><CODE>ho?p</CODE> matches hp, and hop, but not hoop.</TD>
+</TR>
+
+<TR>
+<TD>+</TD>
+<TD>+</TD>
+<TD>Matches one or more of the preceding characters or expressions.  <I>Example: </I><CODE>ho+p</CODE> matches hop, and hoop, but not hp.</TD>
+</TR>
+
+<TR>
+<TD>\{count\}</TD>
+<TD>{count}</TD>
+<TD>Matches the specified number of the preceding characters or expressions.  <I>Example: </I><CODE>ho\{2\}p</CODE> matches hoop, but not hop.</TD>
+</TR>
+
+<TR>
+<TD>\{min,\}</TD>
+<TD>{min,}</TD>
+<TD>Matches at least the specified number of the preceding characters or expressions.  <I>Example: </I><CODE>ho\{1,\}p</CODE> matches hop and hoop, but not hp.</TD>
+</TR>
+
+<TR>
+<TD>\{min,max\}</TD>
+<TD>{min,max}</TD>
+<TD>Matches between min and max of the preceding characters or expressions.  <I>Example: </I><CODE>ho\{1,2\}p</CODE> matches hop and hoop, but not hp or hooop.</TD>
+</TR>
+
+<TR>
+<TD>\|</TD>
+<TD>|</TD>
+<TD>Matches either the expression to its left or its right.  <I>Example: </I><CODE>hop\|hoop</CODE> matches hop, or hoop.</TD>
+</TR>
+
+<TR>
+<TD>\</TD>
+<TD>\</TD>
+<TD>"Escapes" the special meaning of the above expressions, so that they can be matched as literal characters.  Hence, to match a literal "\", you must use "\\".  <I>Example: </I><CODE>\&lt;</CODE> matches the start of a word, but <CODE>\\&lt;</CODE> matches "\&lt;".</TD>
+</TR>
+</TABLE><BR>
+
+<H3>Character Class Operators "[: ... :]":</H3>
+
+<P>These can be used in class expressions as an alternative way of representing classes of characters.  For example, [a-z0-9] is equivalent to [[:lower:][:digit:]].  (<I>Note the extra pairs of brackets.)  </I>The defined classes are:</P>
+
+<TABLE cols=2>
+
+<TR>
+<TH>Expression:</TH> <TH>Description:</TH>
+</TR>
+
+<TR>
+<TD>[:alpha:]</TD>
+<TD>Any letter.</TD>
+</TR>
+
+<TR>
+<TD>[:lower:]</TD>
+<TD>Any lower case letter.</TD>
+</TR>
+
+<TR>
+<TD>[:upper:]</TD>
+<TD>Any upper case letter.</TD>
+</TR>
+
+<TR>
+<TD>[:alnum:]</TD>
+<TD>Any digit or letter.</TD>
+</TR>
+
+<TR>
+<TD>[:digit:]</TD>
+<TD>Any digit.</TD>
+</TR>
+
+<TR>
+<TD>[:xdigit:]</TD>
+<TD>Any hexadecimal digit (0-9, a-f or A-F).</TD>
+</TR>
+
+<TR>
+<TD>[:blank:]</TD>
+<TD>Space or tab.</TD>
+</TR>
+
+<TR>
+<TD>[:space:]</TD>
+<TD>Space, tab, vertical tab, return, line feed, form feed.</TD>
+</TR>
+
+<TR>
+<TD>[:cntrl:]</TD>
+<TD>Control characters (Delete and ASCII codes less than space).</TD>
+</TR>
+
+<TR>
+<TD>[:print:]</TD>
+<TD>Printable characters, including space.</TD>
+</TR>
+
+<TR>
+<TD>[:graph:]</TD>
+<TD>Printable characters, excluding space.</TD>
+</TR>
+
+<TR>
+<TD>[:punct:]</TD>
+<TD>Anything that is not a control or alphanumeric character.</TD>
+</TR>
+
+<TR>
+<TD>[:word:]</TD>
+<TD>Letters, hypens and apostrophes.</TD>
+</TR>
+
+<TR>
+<TD>[:token:]</TD>
+<TD>Any of the characters defined on the Syntax page for the document class, or in the syntax definition file if syntax highlighting is enabled for the document class.</TD>
+</TR>
+</TABLE><BR>
+
+<H3>Example:</H3>
+
+<P>HTML tags are in matched pairs of &lt;…&gt;, such as &lt;FONT SIZE=+1&gt;.  To match any tag that begins and ends on the same line, use the regular expression:</P>
+
+<P>&lt;[^&gt;]*&gt;</P>
+
+<P>This matches a "&lt;", followed by zero or more characters, excluding "&gt;", followed by a "&gt;".  Note that "*" finds the longest matching sequence on a line, so the regular expression:</P>
+
+<P>&lt;.*&gt;</P>
+
+<P>would be incorrect, because it would not stop at the first "&gt;", if there was more than one on the line.</P>
+
+<P>For more information and examples, see <A HREF="./Regular_Expressions.html">regular expressions</A>, and <A HREF="./Replacement_Expressions.html">replacement expressions</A> in the Reference section.</P>
+
+</BODY>
+</HTML>

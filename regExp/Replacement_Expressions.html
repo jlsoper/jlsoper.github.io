@@ -1,0 +1,101 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=Windows-1252">
+<TITLE>Replacement Expressions</TITLE>
+<LINK REL="StyleSheet" TYPE="text/css" HREF="../styles.css">
+</HEAD>
+
+<noframes>
+<body>
+</noframes>
+
+<BODY>
+
+
+
+<H1><A NAME="Replacement_Expressions"></A>Replacement Expressions</H1>
+
+<P>Replacement expressions are used to substitute text in conjunction with Tagged <A HREF="./Regular_Expressions.html">Regular Expressions</A>, when using the Replace command.</P>
+
+<TABLE cols=2>
+
+<TR>
+<TH>Expression</TH>
+<TH>Definition</TH>
+</TR>
+
+<TR>
+<TD>&amp;</TD>
+<TD>Substitute the text matching the entire search pattern.</TD>
+</TR>
+
+<TR>
+<TD>\0 to \9</TD>
+<TD>Substitute the text matching tagged expression 0 through 9.  \0 is equivalent to &amp;.</TD>
+</TR>
+
+<TR>
+<TD>\f</TD>
+<TD>Substitute a page break (form feed).</TD>
+</TR>
+
+<TR>
+<TD>\i&lt;<I>expression&gt;</I></TD>
+<TD>Substitute a sequence number.</TD>
+</TR>
+
+<TR>
+<TD>\n</TD>
+<TD>Substitute a newline.</TD>
+</TR>
+
+<TR>
+<TD>\p</TD>
+<TD>Substitute the contents of the clipboard.</TD>
+</TR>
+
+<TR>
+<TD>\t</TD>
+<TD>Substitute a tab.</TD>
+</TR>
+
+<TR>
+<TD>\x<I>dd</I></TD>
+<TD>Substitute the character with hex code <I>dd</I> (must be 2 hex digits, excluding 00).</TD>
+</TR>
+
+<TR>
+<TD>\u</TD>
+<TD>Force the next substituted character to be in upper case.</TD>
+</TR>
+
+<TR>
+<TD>\l</TD>
+<TD>Force the next substituted character to be in lower case.</TD>
+</TR>
+
+<TR>
+<TD>\U</TD>
+<TD>Force all subsequent substituted characters to be in upper case.</TD>
+</TR>
+
+<TR>
+<TD>\L</TD>
+<TD>Force all subsequent substituted characters to be in lower case.</TD>
+</TR>
+
+<TR>
+<TD>\E or \e</TD>
+<TD>Turns off previous \U or \L.</TD>
+</TR>
+</TABLE><BR>
+
+<P>To substitute a literal <B>\</B> or <B>&amp;</B>, use <B>\\</B> and <B>\&amp;</B>.</P>
+
+<H3>Warning:</H3>
+
+<P>Beware of replacing a pattern that is matched with a regular expression that can optionally match nothing, such as ".?" or "a*".  In these degenerate cases, TextPad can go into a loop, until the line becomes too long.</P>
+
+</BODY>
+</HTML>
