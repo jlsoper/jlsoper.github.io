@@ -1,0 +1,105 @@
+<html>
+<head>
+<title>maps</title>
+
+<script language="JavaScript" type="text/javascript">
+<!--
+
+function replaceSpacePlus(str)
+{
+  var output = "";
+
+  var space = 32;
+  var plus  = 43;
+
+  str = str.trim();
+  var length = str.length;
+
+  if (length == 0)
+    return str;
+
+  for (i = 0;i < length;i++)
+  {
+    var nbr = str.charCodeAt(i);
+
+    if (nbr == space)
+      output = output + String.fromCharCode(plus);
+    else
+      output = output + String.fromCharCode(nbr);
+  }
+
+  return output;
+}
+
+function mapDirections()
+{
+  var str1 = "https://maps.google.com/maps?";
+  var str2 = "saddr=";
+
+  var str3 = replaceSpacePlus(document.form01.start.value);
+  var str4 = "&daddr=";
+
+  var str5 = replaceSpacePlus(document.form01.end.value);
+  var str6 = "&hl=en&output=classic"
+
+  window.open(str1 + str2 + str3 + str4 + str5 + str6, "_self");
+}
+
+function mapsEmbed()
+{
+  var str1 = "http://maps.google.com/?q=";
+
+  var str2 = replaceSpacePlus(document.form01.start.value);
+  var str3 = "&output=embedmfe";
+
+  window.open(str1 + str2 + str3, "_self");
+}
+
+// -->
+</script>
+</head>
+
+
+
+<body>
+<form name="form01" action="">
+<table>
+  <tr>
+    <td>Google maps (start)</td>
+    <td>&nbsp;&nbsp;&nbsp;
+      <input type="text" size="80" name="start" value="">
+    </td>
+  </tr>
+  <tr>
+    <td>Google maps (end)</td>
+    <td>&nbsp;&nbsp;&nbsp;
+      <input type="text" size="80" name="end" value="">
+    </td>
+  </tr>
+  <tr><td>&nbsp;</td></tr>
+  <tr>
+    <td>
+      <input type="button" name="button1" value="Map (directions)" onclick="mapDirections()">
+    </td>
+  </tr>
+</table>
+
+<hr>
+
+<table>
+  <tr>
+    <td>
+      <input type="button" name="button2" value="Google Maps (embed)" onclick="mapsEmbed()">
+    </td>
+  </tr>
+</table>
+
+<hr>
+
+<a href="https://www.google.com/maps/dir/?force=lite">Google Maps (lite)</a>
+<br>
+
+</form>
+
+</body>
+</html>

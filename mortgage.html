@@ -1,0 +1,108 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+
+<head>
+<title>mortgage</title>
+
+<script language="JavaScript" type="text/javascript">
+<!--
+
+function Morgcal()
+{
+  form = document.myform;
+  LoanAmount = form.LoanAmount.value;
+
+  DownPayment = "0";
+  AnnualInterestRate = form.InterestRate.value / 100;
+  Years = form.NumberOfYears.value;
+
+  MonthRate = AnnualInterestRate / 12;
+  NumPayments = Years * 12;
+  Prin = LoanAmount - DownPayment;
+
+  MonthPayment = Math.floor((Prin * MonthRate) / (1 - Math.pow((1 + MonthRate), (-1 * NumPayments))) * 100) / 100;
+
+  InterestPaid = MonthPayment * NumPayments - LoanAmount;
+
+  form.NumberOfPayments.value = NumPayments;
+  form.MonthlyPayment.value = MonthPayment;
+  form.InterestPaid.value = InterestPaid;
+}
+
+// -->
+</script>
+
+</head>
+
+
+
+<body>
+
+<form action="POST" name="myform">
+  <table>
+    <tr>
+      <td>
+        <strong>Mortgage Calculator</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Loan Amount $</td>
+      <td>
+        <input type="text" size="14" name="LoanAmount" value="150000" onblur="Morgcal()" onchange="Morgcal()">
+      </td>
+    </tr>
+    <tr>
+      <td>Annual Interest Rate</td>
+      <td>
+        <input type="text" size="7" name="InterestRate" value="6.0" onblur="Morgcal()" onchange="Morgcal()"> %
+      </td>
+    </tr>
+    <tr>
+      <td>Term of Loan</td>
+      <td>
+        <input type="text" size="7" name="NumberOfYears" value="30" onblur="Morgcal()" onchange="Morgcal()"> Years
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <input type="button" name="morgcal" value="Calculate" onclick="Morgcal()">
+      </td>
+    </tr>
+    <tr>
+      <td>Number of Payments</td>
+      <td>
+        <input type="text" size="14" name="NumberOfPayments">
+      </td>
+    </tr>
+    <tr>
+      <td>Monthly Payment $</td>
+      <td>
+        <input type="text" size="14" name="MonthlyPayment">
+      </td>
+    </tr>
+    <tr>
+      <td>Interest Paid $</td>
+      <td>
+        <input type="text" size="14" name="InterestPaid">
+      </td>
+    </tr>
+  </table>
+</form>
+
+<hr>
+
+<h2>
+  <i>p</i> = <i>L</i> [ <i>(r/n)</i>(1 + <i>r/n</i>)<sup>ny</sup> ] / [ (1 + <i>r/n</i>)<sup>ny</sup> - 1 ]
+</h2>
+
+<pre>
+p = payment
+L = Loan
+r = interest rate
+n = # payments per year
+y = years
+</pre>
+
+
+</body>
+</html>

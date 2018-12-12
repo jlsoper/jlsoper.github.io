@@ -1,0 +1,53 @@
+<html>
+
+<head>
+  <title>regExpr</title>
+</head>
+
+
+
+<body>
+
+<h1>my Regular Expressions</h1>
+<hr>
+
+<DL><p>
+    <DT><A HREF="http://regexpal.com/">RegexPal - Javascript regular expression tester</A>
+    <DT><A HREF="regExp/Regular_Expressions.html">Regular Expressions</A>
+</DL><p>
+<hr>
+
+<PRE>  <!-- preformatted text (fixed width font, preserve whitespace) -->
+
+
+expression           // comments   (replace_expression)
+----------------------------------------------------------
+.ADD_DATE[^>]*       // modify Netscape bookmarks.html file
+
+[\t ]+$              // trim whitespace characters at end of line
+
+^[\t ]*;+$           // remove lines with just a semicolon
+
+[\t ]+;$             // remove whitespace before the last semicolon of a line (;)
+
+^    return;         // remove 'return;' at the end of methods
+
+^    return;\r\n     // remove 'return;' at the end of methods
+
+
+^[\t ]*// aaaaaaaa[^\r]*         // remove line comment which starts with text 'aaaaaaaa', keep line
+
+^[\t ]*// aaaaaaaa[^\r]*\r\n     // remove line comment which starts with text 'aaaaaaaa', delete line
+
+^[\t ]*/\* aaaaaaaa[^\r]*\r\n    // remove line comment (/* */) which starts with text 'aaaaaaaa', delete line
+
+^[\t ]*\r\n                      // remove blank lines or lines with just spaces or tabs
+
+[^\x00-\x7e]         // find all special char's outside of 7-bit Ascii table
+
+\bsearchWord\b       // whole word search for 'searchWord'
+
+
+</body>
+</html>
+

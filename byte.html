@@ -1,0 +1,129 @@
+<html>
+
+<head>
+  <title>byte</title>
+</head>
+
+
+
+<body>
+
+<form>
+  <table bordercolor="#ff9900" cellspacing="0" cellpadding="5" width="550" border="1">
+    <tr>
+      <td align="middle" bgcolor="#ffffff">
+        <font face="Arial, Helvetica, sans-serif" color="#000000" size="4">
+          <b>Byte</b>
+        </font>
+      </td>
+      <td align="middle" bgcolor="#ffffff">
+        <font face="Arial, Helvetica, sans-serif" color="#000000" size="4">
+          <b>Kilobyte<br />(KB)</b>
+        </font>
+      </td>
+      <td align="middle" bgcolor="#ffffff">
+        <font face="Arial, Helvetica, sans-serif" color="#000000" size="4">
+          <b>Megabyte<br />(MB)</b>
+        </font>
+      </td>
+      <td align="middle" bgcolor="#ffffff">
+        <font face="Arial, Helvetica, sans-serif" color="#000000" size="4">
+          <b>Gigabyte<br />(GB)</b>
+        </font>
+      </td>
+    </tr>
+
+    <tr>
+      <td align="middle" bgcolor="#ffffff">
+        <input style="FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #000000; BACKGROUND-COLOR: #ffffff"
+               size="12" value="0" name="byte" />
+      </td>
+      <td align="middle" bgcolor="#ffffff">
+        <input style="FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #000000; BACKGROUND-COLOR: #ffffff"
+               size="12" value="0" name="kb" />
+      </td>
+      <td align="middle" bgcolor="#ffffff">
+        <input style="FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #000000; BACKGROUND-COLOR: #ffffff"
+               size="12" value="0" name="mb" />
+      </td>
+      <td align="middle" bgcolor="#ffffff">
+        <input style="FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #000000; BACKGROUND-COLOR: #ffffff"
+               size="12" value="0" name="gb" />
+      </td>
+    </tr>
+
+    <tr>
+      <td align="middle" bgcolor="#ffffff">
+        <input style="FONT-WEIGHT: bold; FONT-SIZE: 11pt; COLOR: #ffffff; BACKGROUND-COLOR: #ff9900"
+               onclick="convert(this.form)" type="button" value="   &gt;   " name="buttonB" />
+      </td>
+      <td align="middle" bgcolor="#ffffff">
+        <input style="FONT-WEIGHT: bold; FONT-SIZE: 11pt; COLOR: #ffffff; BACKGROUND-COLOR: #ff9900"
+               onclick="convertkb(this.form)" type="button" value="   &lt; &gt;   " name="buttonKB" />
+      </td>
+      <td align="middle" bgcolor="#ffffff">
+        <input style="FONT-WEIGHT: bold; FONT-SIZE: 11pt; COLOR: #ffffff; BACKGROUND-COLOR: #ff9900"
+               onclick="convertmb(this.form)" type="button" value="   &lt; &gt;   " name="buttonMB" />
+      </td>
+      <td align="middle" bgcolor="#ffffff">
+        <input style="FONT-WEIGHT: bold; FONT-SIZE: 11pt; COLOR: #ffffff; BACKGROUND-COLOR: #ff9900"
+               onclick="convertgb(this.form)" type="button" value="   &lt;   " name="buttonGB" />
+      </td>
+    </tr>
+
+    <tr>
+      <td align="middle" bgcolor="#ffffff" colspan="4">
+        <input style="FONT-WEIGHT: bold; FONT-SIZE: 11pt; COLOR: #ffffff; BACKGROUND-COLOR: #ff9900"
+               type="reset" value="Reset The Converter" name="reset" />
+      </td>
+    </tr>
+  </table>
+</form>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      <b><font face="verdana, Helvetica, sans-serif" color="#000000" size="2">
+        1 Byte = 8 Bits<br />
+        1 Kilobyte = 1024 Bytes<br />
+        1 Megabyte = 1048576 Bytes<br />
+        1 Gigabyte = 1073741824 Bytes
+      </font></b>
+    </td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+
+function convert(f)
+{
+  f.kb.value=Math.round(f.byte.value/1024*100000)/100000
+  f.mb.value=Math.round(f.byte.value/1048576*100000)/100000
+  f.gb.value=Math.round(f.byte.value/1073741824*100000)/100000
+}
+
+function convertkb(f)
+{
+  f.byte.value=Math.round(f.kb.value*1024*100000)/100000
+  f.mb.value=Math.round(f.kb.value/1024*100000)/100000
+  f.gb.value=Math.round(f.kb.value/1048576*100000)/100000
+}
+
+function convertmb(f)
+{
+  f.byte.value=Math.round(f.mb.value*1048576*100000)/100000
+  f.kb.value=Math.round(f.mb.value*1024*100000)/100000
+  f.gb.value=Math.round(f.mb.value/1024*100000)/100000
+}
+
+function convertgb(f)
+{
+  f.byte.value=Math.round(f.gb.value*1073741824*100000)/100000
+  f.kb.value=Math.round(f.gb.value*1048576*100000)/100000
+  f.mb.value=Math.round(f.gb.value*1024*100000)/100000
+}
+
+</script>
+
+</body>
+</html>

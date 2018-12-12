@@ -1,0 +1,101 @@
+<html>
+<head>
+<title>relocate</title>
+
+<script language="JavaScript" type="text/javascript">
+<!--
+function limitText(limitField, limitCount, limitNum)
+{
+  if (limitField.value.length > limitNum)
+  {
+    limitField.value = limitField.value.substring(0, limitNum);
+  }
+  else
+  {
+    limitCount.value = limitNum - limitField.value.length;
+  }
+}
+
+function GotoURL()
+{
+  var str1 = "http://www.bestplaces.net/cost-of-living/";
+
+  document.location = str1 + document.form01.city1.value  + "-"
+                           + document.form01.state1.value + "/"
+                           + document.form01.city2.value  + "-"
+                           + document.form01.state2.value + "/"
+                           + document.form01.salary.value;
+}
+// -->
+</script>
+</head>
+
+
+
+<body>
+
+<h1>Cost of Living Comparison</h1>
+
+<a href="http://www.bestplaces.net/cost-of-living/kansas-city-mo/st.-louis-mo/100000">http://www.bestplaces.net/cost-of-living/kansas-city-mo/st.-louis-mo/100000</a>
+<br>
+<br>
+
+<form action="POST" name="form01">
+
+<table cellpadding='1' cellspacing='1' border='0'>
+  <tr>
+    <td></td>
+    <td>City</td>
+    <td>State</td>
+  </tr>
+  <tr>
+    <td>Origin:</td>
+    <td>
+      <input type="text" size="30" name="city1" value="">
+    </td>
+    <td>
+      <input name="state1" type="text" size="3"
+        onKeyDown="limitText(this.form.state1,this.form.countdown,2);"
+        onKeyUp="limitText(this.form.state1,this.form.countdown,2);"
+        maxlength="2">
+    </td>
+  </tr>
+  <tr>
+    <td>Destination:</td>
+    <td>
+      <input type="text" size="30" name="city2" value="">
+    </td>
+    <td>
+      <input name="state2" type="text" size="3"
+        onKeyDown="limitText(this.form.state2,this.form.countdown,2);"
+        onKeyUp="limitText(this.form.state2,this.form.countdown,2);"
+        maxlength="2">
+    </td>
+  </tr>
+  <tr>
+    <td>Annual Salary ($):</td>
+    <td>
+      <input type="text" size="30" name="salary" value="">
+    </td>
+  </tr>
+</table>
+
+<input type="button" name="button1" value="Calculate" onclick="GotoURL()">
+
+</table>
+
+<br>
+<br>
+<a href="https://www.expatistan.com/cost-of-living/comparison/kansas-city/st-louis">https://www.expatistan.com/cost-of-living/comparison/kansas-city/st-louis</a>
+
+<br>
+<br>
+<a href="https://www.google.com/search?hl=en&q=jobs+near+75063">Google search - Jobs near 75063</a>
+
+<br>
+<br>
+<a href="https://remote.co/">Remote Work - jobs</a>
+
+</form>
+</body>
+</html>

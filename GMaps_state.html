@@ -1,0 +1,94 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+<title>
+	Google Map State Borders
+</title>
+
+<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+<script type="text/javascript" src="gmaps/GoogleMap.js"></script>
+
+<script type="text/javascript" language="javascript">
+    function content_onload()
+    {
+        initialize(document.getElementById('StateName'));
+    }
+</script>
+
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-17190454-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function()
+    {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+
+<script type="text/javascript" language="javascript">
+    function masterpage_onload()
+    {
+      if(window.content_onload != null) //does onload exist
+          window.content_onload();
+    }
+</script>
+</head>
+
+
+
+<body id="ctl00_MyBody" onload="masterpage_onload()">
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+	if (!theForm)
+	{
+    theForm = document.aspnetForm;
+  }
+
+function __doPostBack(eventTarget, eventArgument)
+{
+  if (!theForm.onsubmit || (theForm.onsubmit() != false))
+  {
+    theForm.__EVENTTARGET.value = eventTarget;
+    theForm.__EVENTARGUMENT.value = eventArgument;
+    theForm.submit();
+  }
+}
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+  if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<div id="container">
+<script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', document.getElementById('aspnetForm'));
+Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
+	//]]>
+</script>
+
+
+<div>
+    <h1>Google Map US State Borders</h1>
+    <div id="map_canvas" class="subset" style="width:1024px;height:768px"></div>
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
+</script>
+
+
+</body>
+</html>

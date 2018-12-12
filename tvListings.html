@@ -1,0 +1,53 @@
+<html>
+<head>
+<title>tvListings</title>
+
+<script language="JavaScript" type="text/javascript">
+<!--
+
+function isNumberKey(evt)
+{
+  var charCode = (evt.which) ? evt.which : event.keyCode;
+
+  if (charCode > 31 && (charCode < 48 || charCode > 57))
+    return false;
+
+  return true;
+}
+
+function getListings()
+{
+  var zipcode = document.form01.zip.value;
+
+  var str1 = "http://tvlistings.zap2it.com/tvlistings/ZCGrid.do?method=decideFwdForLineup&aid=zap2it&setMyPreference=false&lineupId=PC:";
+  var str2 = "&zipcode=";
+
+  window.open(str1 + zipcode + str2 + zipcode);
+}
+
+// -->
+</script>
+</head>
+
+
+
+<body>
+<form name="form01" action="">
+<table>
+  <tr>
+    <td>Zip Code</td>
+    <td>
+      <input type="text" size="7" name="zip" value="78208" onkeypress="return isNumberKey(event)">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <input type="button" name="button1" value="Get TV Listings" onclick="getListings()">
+    </td>
+  </tr>
+</table>
+
+</form>
+
+</body>
+</html>
