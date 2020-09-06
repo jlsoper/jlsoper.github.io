@@ -1,15 +1,53 @@
-prefs.js
+prefs.js  ( http://kb.mozillazine.org/Prefs.js_file )
 --------
 
-about:
-about:blank
-about:buildconfig
-about:cache
-about:cache?device=disk
-about:cache?device=memory
-about:config
-about:credits
-about:license
-about:mozilla
-about:plugins
+
+
+Available about: URLs depend on your specific Firefox version. Here is a complete list of URLs in the about: pseudo protocol:
+
+
+about: page             Description
+-----------             -----------
+about:about             Provides an overview of all about: pages available for your current Firefox version
+about:addons            Add-ons Manager
+about:buildconfig       Displays the configuration and platform used to build Firefox
+about:cache             Displays information about the memory, disk, and appcache
+about:checkerboard      Switches to the checkerboarding measurement page, which allows to detect checkerboarding issues
+
+about:config            Provides a way to inspect and change Firefox preferences and settings
+
+about:compat            Lists overriding site compatability fixes, linked to specific bug issues.
+about:crashes           Lists all crashes, which happened during the runtime of Firefox (in case the user enabled the crash reporter)
+about:credits           Lists all contributors to the Firefox project
+about:debugging         Switches to the Developer Tools debugging page, which allows you to debug add-ons, tabs and Service Workers
+about:devtools          Summarizes the developer tools and provides links to documentation for each tool
+about:downloads         Displays all downloads done within Firefox
+about:home              Start page of Firefox when opening a new window
+about:license           Displays licensing information
+about:logo              Firefox logo
+about:memory            Provides a way to display memory usage, save it as report and run the GC and CC
+about:mozilla           Special page showing a message from "The Book of Mozilla"
+about:networking        Displays networking information
+about:newtab            Start page when opening a new tab
+about:performance       Displays memory and performance information about Firefox subprocesses/add-ons/tabs
+about:plugins           Displays information about installed plugins
+about:policies          Lists out the Firefox for Enterprise policies
+about:preferences       Firefox settings (also available through Firefox menu > Options)
+about:privatebrowsing   Start page when opening a private window
+about:profiles          Display and manage Firefox profiles
+about:protections       Privacy Protections report consisting of Enhanced Tracking Protection, Firefox Monitor and Firefox Lockwise data
+about:restartrequired   A page users are sent to when Firefox requires a restart due to an update
+about:reader            Indicates a web page has Firefox Reader View turned on. See Firefox Reader View for clutter-free web pages
+about:rights            Displays rights information
+about:robots            Special page showing notes about robots
+about:serviceworkers    Displays currently running Service Workers
+about:studies           Lists the Shield Studies that are installed
+about:sessionrestore    Session restoration (displayed after a Firefox crash)
+about:support           Troubleshooting information (also available through Firefox menu > ? (question mark) > Troubleshooting Information)
+about:sync-log          Displays a synchronization protocol related to the Sync feature
+about:telemetry         Displays telemetry data collected and sent to Mozilla while Firefox is running (in case the user enabled telemetry)
+about:url-classifier    Displays the status of the URL Classifier services that Firefox uses (for example for Safe Browsing)
+about:webrtc            Information about WebRTC usage
+about:welcome           Page first displayed when Firefox is installed
+about:welcomeback       Information page displayed after Firefox is reset
 
