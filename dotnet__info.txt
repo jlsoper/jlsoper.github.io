@@ -1,0 +1,25 @@
+.NET Core SDK (reflecting any global.json):
+ Version:   3.1.402
+ Commit:    9b5de826fd
+
+Runtime Environment:
+ OS Name:     Windows
+ OS Version:  10.0.17763
+ OS Platform: Windows
+ RID:         win10-x64
+ Base Path:   C:\Program Files\dotnet\sdk\3.1.402\
+
+Host (useful for support):
+  Version: 3.1.8
+  Commit:  9c1330dedd
+
+.NET Core SDKs installed:
+  3.1.402 [C:\Program Files\dotnet\sdk]
+
+.NET Core runtimes installed:
+  Microsoft.AspNetCore.App 3.1.8 [C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App]
+  Microsoft.NETCore.App 3.1.8 [C:\Program Files\dotnet\shared\Microsoft.NETCore.App]
+  Microsoft.WindowsDesktop.App 3.1.8 [C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App]
+
+To install additional .NET Core runtimes or SDKs:
+  https://aka.ms/dotnet-download
