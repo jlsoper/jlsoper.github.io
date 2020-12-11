@@ -1,0 +1,17 @@
+
+C:\Windows\System32\shell32.dll
+
+
+
+%SystemRoot%\explorer.exe /n,/e,C:\
+
+%windir%\System32\rundll32.exe sysdm.cpl,EditEnvironmentVariables
+
+
+
+
+
+
+
+
+
