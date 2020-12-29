@@ -23,7 +23,7 @@
 ./talker_on_the_airplane.mp3
 ./talking_in_your_sleep.mp3
 ./terminating_a_relationship.mp3
-./that's_not_my_kid.mp3
+./thats_not_my_kid.mp3
 ./the_broken_down_car.mp3
 ./the_car_breaks_down.mp3
 ./the_company_picnic.mp3
@@ -39,7 +39,7 @@
 ./the_unmanly_dream.mp3
 ./the_viscious_sneeze.mp3
 ./the_water_aerobics_class.mp3
-./uh_oh_you're_late_for_work.mp3
+./uh_oh_youre_late_for_work.mp3
 ./wife_asks_if_she_is_fat.mp3
 ./woman_with_a_shaved_head.mp3
 ./xwife_and_your_young_friend.mp3
