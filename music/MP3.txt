@@ -326,7 +326,7 @@
 ./DefLeppard/VaultGreatestHits1980-1995/13Hysteria.mp3
 ./DefLeppard/VaultGreatestHits1980-1995/14MissYouInAHeartbeat.mp3
 ./DefLeppard/VaultGreatestHits1980-1995/15BringinOnTheHeartbreak.mp3
-./DonHenley/04-DonHenley-TheLastWorthlessEvening.mp3
+./DonHenley/04TheLastWorthlessEvening.mp3
 ./DonJuanDeMarco/DonJuanDeMarco/05HasAmadoUnaMujerDeVeras.mp3
 ./DonMcLean/BestofDonMcLean/01AmericanPie.mp3
 ./DonMcLean/BestofDonMcLean/02Vincent.mp3
@@ -438,6 +438,7 @@
 ./Erasure/TheInnocents/01-Erasure-ALittleRespect.mp3
 ./EricClapton/TheCreamofClapton/17WonderfulTonight.mp3
 ./EricClapton/Unplugged/04TearsinHeaven.mp3
+./EttaJames/07AtLast.mp3
 ./Extreme/05MorethanWords.mp3
 ./FireHouse/05WhenILookIntoYourEyes.mp3
 ./FireHouse/11LoveofaLifetime.mp3
@@ -840,6 +841,8 @@
 ./MotleyCrue/DrFeelgood/10DontGoAwayMadJustGoAway.mp3
 ./MrMister/TheBestofMrMister/01BrokenWings.mp3
 ./MyDarkestDays/02PornStarDancing.mp3
+./NakedEyes/01AlwaysSomethingThereToRemindMe.mp3
+./NakedEyes/06PromisesPromises.mp3
 ./Nazareth/DazedAndConfused/06LoveHurts.mp3
 ./Nena/0699Luftballons.mp3
 ./NoDoubt/10DontSpeak.mp3
