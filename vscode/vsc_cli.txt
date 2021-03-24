@@ -1,4 +1,4 @@
-::  W:\VSCode\bin>code -h > vscode_cli.txt
+::  W:\VSCode\bin>code -h > vsc_cli.txt
 
 Visual Studio Code 1.25.1
 

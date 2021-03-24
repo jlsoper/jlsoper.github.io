@@ -1,0 +1,8 @@
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master-bd
+> git rev-parse --symbolic-full-name master-bd@{u}
+> git rev-list --left-right master-bd...refs/remotes/origin/master-bd
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+

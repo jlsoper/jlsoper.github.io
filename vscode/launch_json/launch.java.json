@@ -1,0 +1,30 @@
+{
+  // Use IntelliSense to learn about possible attributes. (Ctrl-space)
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Detab<Misc>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "Detab",
+      "projectName": "Misc",
+      "args": "4 connection-tabs.xml"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-ReadString<Misc>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",  // Debug Console in VS Code doesn't support inputs (use integratedTerminal or externalTerminal)
+      "stopOnEntry": false,
+      "mainClass": "ReadString",
+      "projectName": "Misc",
+      "args": ""
+    }
+  ]
+}
