@@ -1,65 +1,65 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
-<HTML>
-<HEAD>
-<META HTTP-EQUIV="Content-Type" Content="text/html; charset=Windows-1252">
-<TITLE>Examples: Finding Text</TITLE>
-<LINK REL="StyleSheet" TYPE="text/css" HREF="../styles.css">
-</HEAD>
-
-<noframes>
-<body>
-</noframes>
-
-<BODY>
-
-
-
-<H1><A NAME="Finding_Text"></A>Finding Text<BR>
-See Also: <A HREF="./Replacing_Text.html">Replacing Text</A></H1>
-
-<P>These examples all use UNIX extended regular expression syntax.</P>
-
-<P>1.  Find all trailing spaces:</P>
-
-<PRE><CODE>[ \t]+$</CODE></PRE>
-
-<P>finds one or more spaces or tabs followed by the end of line.</P>
-
-<P>2.  Find an empty line:</P>
-
-<PRE><CODE>^$</CODE></PRE>
-
-<P>finds the beginning of a line immediately followed by its end.</P>
-
-<P>3.  Find everything on a line:</P>
-
-<PRE><CODE>^.*</CODE></PRE>
-
-<P>finds the beginning of a line, followed by zero or more of any characters, up to the end of the line.</P>
-
-<P>4.  Find "$12.34":</P>
-
-<PRE><CODE>\$12\.34</CODE></PRE>
-
-<P>Note that '.' and '$' have been escaped using the backslash to hide their regular expression meanings.</P>
-
-<P>5.  Find any valid C language variable name:</P>
-
-<PRE><CODE>\&lt;[<U> </U>a-zA-Z][<U> </U>a-zA-Z0-9]*</CODE></PRE>
-
-<P>finds a word starting with an underscore or alphabetic character, followed by zero or more underscores or alphanumeric characters.</P>
-
-<P>6.  Find an inner-most bracketed expression:</P>
-
-<PRE><CODE>([^()]*)</CODE></PRE>
-
-<P>finds a left bracket, followed by zero or more characters excluding left and right brackets, followed by a right bracket.</P>
-
-<P>7.  Find a repeated expression:</P>
-
-<PRE><CODE>\([0-9]+\)-\1</CODE></PRE>
-
-<P>This uses a tagged expression "\(...\)" to find one or more digits, followed by a hyphen, followed by the string matched by the tagged expression.  So this regular expression will find 12-12, but not 12-34.</P>
-
-</BODY>
-</HTML>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=Windows-1252">
+<TITLE>Examples: Finding Text</TITLE>
+<LINK REL="StyleSheet" TYPE="text/css" HREF="../styles.css">
+</HEAD>
+
+<noframes>
+<body>
+</noframes>
+
+<BODY>
+
+
+
+<H1><A NAME="Finding_Text"></A>Finding Text<BR>
+See Also: <A HREF="./Replacing_Text.html">Replacing Text</A></H1>
+
+<P>These examples all use UNIX extended regular expression syntax.</P>
+
+<P>1.  Find all trailing spaces:</P>
+
+<PRE><CODE>[ \t]+$</CODE></PRE>
+
+<P>finds one or more spaces or tabs followed by the end of line.</P>
+
+<P>2.  Find an empty line:</P>
+
+<PRE><CODE>^$</CODE></PRE>
+
+<P>finds the beginning of a line immediately followed by its end.</P>
+
+<P>3.  Find everything on a line:</P>
+
+<PRE><CODE>^.*</CODE></PRE>
+
+<P>finds the beginning of a line, followed by zero or more of any characters, up to the end of the line.</P>
+
+<P>4.  Find "$12.34":</P>
+
+<PRE><CODE>\$12\.34</CODE></PRE>
+
+<P>Note that '.' and '$' have been escaped using the backslash to hide their regular expression meanings.</P>
+
+<P>5.  Find any valid C language variable name:</P>
+
+<PRE><CODE>\&lt;[<U> </U>a-zA-Z][<U> </U>a-zA-Z0-9]*</CODE></PRE>
+
+<P>finds a word starting with an underscore or alphabetic character, followed by zero or more underscores or alphanumeric characters.</P>
+
+<P>6.  Find an inner-most bracketed expression:</P>
+
+<PRE><CODE>([^()]*)</CODE></PRE>
+
+<P>finds a left bracket, followed by zero or more characters excluding left and right brackets, followed by a right bracket.</P>
+
+<P>7.  Find a repeated expression:</P>
+
+<PRE><CODE>\([0-9]+\)-\1</CODE></PRE>
+
+<P>This uses a tagged expression "\(...\)" to find one or more digits, followed by a hyphen, followed by the string matched by the tagged expression.  So this regular expression will find 12-12, but not 12-34.</P>
+
+</BODY>
+</HTML>
