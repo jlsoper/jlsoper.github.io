@@ -1,0 +1,116 @@
+
+lrwxr-xr-x  1 root  wheel    64B Jul 12 16:12 2to3 -> ../../Library/Frameworks/Python3.framework/Versions/3.8/bin/2to3
+lrwxr-xr-x  1 root  wheel    68B Jul 12 16:12 2to3-3.8 -> ../../Library/Frameworks/Python3.framework/Versions/3.8/bin/2to3-3.8
+-rwxr-xr-x  1 root  wheel   328K Apr 30 00:31 DeRez
+-rwxr-xr-x  1 root  wheel   163K Apr 30 00:31 GetFileInfo
+-rwxr-xr-x  1 root  wheel   165K Apr 30 00:31 ResMerger
+-rwxr-xr-x  1 root  wheel   330K Apr 30 00:31 Rez
+-rwxr-xr-x  1 root  wheel   163K Apr 30 00:31 SetFile
+-rwxr-xr-x  1 root  wheel   164K Apr 30 00:31 SplitForks
+-rwxr-xr-x  1 root  wheel   168K Apr 30 00:31 ar
+-rwxr-xr-x  1 root  wheel   150K Apr 30 00:31 as
+-rwxr-xr-x  1 root  wheel   163K Apr 30 00:31 asa
+-rwxr-xr-x  1 root  wheel   520K Apr 30 00:31 bison
+-rwxr-xr-x  1 root  wheel   449K Apr 30 00:31 bitcode_strip
+lrwxr-xr-x  1 root  wheel     5B Jul 12 16:12 c++ -> clang
+lrwxr-xr-x  1 root  wheel    12B Jul 12 16:12 c++filt -> llvm-cxxfilt
+-rwxr-xr-x  1 root  admin   164K Apr 30 00:31 c89
+-rwxr-xr-x  1 root  admin   164K Apr 30 00:31 c99
+lrwxr-xr-x  1 root  wheel     5B Jul 12 16:12 cc -> clang
+-rwxr-xr-x  1 root  wheel   180M Apr 30 00:31 clang
+lrwxr-xr-x  1 root  wheel     5B Jul 12 16:12 clang++ -> clang
+-rwxr-xr-x  1 root  wheel    82M Apr 30 00:31 clangd
+-rwxr-xr-x  1 root  wheel   350K Apr 30 00:31 cmpdylib
+-rwxr-xr-x  1 root  wheel   382K Apr 30 00:31 codesign_allocate
+lrwxr-xr-x  1 root  wheel    17B Jul 12 16:12 codesign_allocate-p -> codesign_allocate
+-rwxr-xr-x  1 root  admin   3.3K Apr 13 09:21 cpp
+lrwxr-xr-x  1 root  wheel    98B Jul 12 16:12 crashlog -> ../../../SharedFrameworks/LLDB.framework/Versions/Current/Resources/Python/lldb/macosx/crashlog.py
+-rwxr-xr-x  1 root  wheel   164K Apr 30 00:31 ctags
+-rwxr-xr-x  1 root  wheel   433K Apr 30 00:31 ctf_insert
+-rwxr-xr-x  1 root  wheel    62M Apr 30 00:31 dsymutil
+lrwxr-xr-x  1 root  wheel    14B Jul 12 16:12 dwarfdump -> llvm-dwarfdump
+-rwxr-xr-x  1 root  wheel   1.5M Apr 30 00:31 dwarfdump-classic
+-rwxr-xr-x  1 root  wheel   499K Apr 30 00:31 dyldinfo
+-rwxr-xr-x  1 root  wheel   236B Apr 13 11:55 easy_install-3.8
+-rwxr-xr-x  1 root  wheel   681K Apr 30 00:31 flex
+-rwxr-xr-x  1 root  wheel   681K Apr 30 00:31 flex++
+lrwxr-xr-x  1 root  wheel     3B Jul 12 16:12 g++ -> gcc
+-rwxr-xr-x  1 root  wheel   101K Apr 13 09:35 gatherheaderdoc
+-rwxr-xr-x  1 root  admin   163K Apr 30 00:31 gcc
+lrwxr-xr-x  1 root  wheel     8B Jul 12 16:12 gcov -> llvm-cov
+-rwxr-xr-x  1 root  wheel   5.9M Apr 30 00:31 git
+lrwxr-xr-x  1 root  wheel     3B Jul 12 16:12 git-receive-pack -> git
+-rwxr-xr-x  1 root  wheel   3.2M Apr 30 00:31 git-shell
+lrwxr-xr-x  1 root  wheel     3B Jul 12 16:12 git-upload-archive -> git
+lrwxr-xr-x  1 root  wheel     3B Jul 12 16:12 git-upload-pack -> git
+-rwxr-xr-x  1 root  wheel   392K Apr 30 00:31 gm4
+-rwxr-xr-x  1 root  wheel   426K Apr 30 00:31 gnumake
+-rwxr-xr-x  1 root  wheel   294K Apr 30 00:31 gperf
+-rwxr-xr-x  1 root  wheel   165K Apr 30 00:31 hdxml2manxml
+-rwxr-xr-x  1 root  wheel   158K Apr 13 09:35 headerdoc2html
+-rwxr-xr-x  1 root  wheel   229K Apr 30 00:31 indent
+-rwxr-xr-x  1 root  wheel   433K Apr 30 00:31 install_name_tool
+-rwxr-xr-x  1 root  wheel   5.7M Apr 30 00:31 ld
+-rwxr-xr-x  1 root  wheel   230B Apr 13 09:31 lex
+-rwxr-xr-x  1 root  wheel   434K Apr 30 00:31 libtool
+-rwxr-xr-x  1 root  wheel   253K Apr 30 00:31 lipo
+-rwxr-xr-x  1 root  wheel   676K Apr 30 00:31 lldb
+-rwxr-xr-x  1 root  wheel   8.3M Apr 30 00:31 llvm-cov
+-rwxr-xr-x  1 root  wheel   894K Apr 30 00:31 llvm-cxxfilt
+-rwxr-xr-x  1 root  wheel    17M Apr 30 00:31 llvm-dwarfdump
+-rwxr-xr-x  1 root  wheel    21M Apr 30 00:31 llvm-nm
+-rwxr-xr-x  1 root  wheel    23M Apr 30 00:31 llvm-objdump
+-rwxr-xr-x  1 root  wheel   184K Apr 30 00:31 llvm-otool
+-rwxr-xr-x  1 root  wheel   3.6M Apr 30 00:31 llvm-profdata
+-rwxr-xr-x  1 root  wheel   6.6M Apr 30 00:31 llvm-size
+-rwxr-xr-x  1 root  wheel   3.5K Apr 13 09:46 lorder
+-rwxr-xr-x  1 root  wheel   392K Apr 30 00:31 m4
+-rwxr-xr-x  1 root  wheel   426K Apr 30 00:31 make
+-rwxr-xr-x  1 root  wheel   7.7K Apr 13 09:26 mig
+lrwxr-xr-x  1 root  wheel     7B Jul 12 16:12 nm -> llvm-nm
+-rwxr-xr-x  1 root  wheel   383K Apr 30 00:31 nm-classic
+-rwxr-xr-x  1 root  wheel   467K Apr 30 00:31 nmedit
+-rwxr-xr-x  1 root  admin    48M Apr 30 00:31 notarytool
+lrwxr-xr-x  1 root  wheel    12B Jul 12 16:12 objdump -> llvm-objdump
+lrwxr-xr-x  1 root  wheel    10B Jul 12 16:12 otool -> llvm-otool
+-rwxr-xr-x  1 root  wheel   1.4M Apr 30 00:31 otool-classic
+-rwxr-xr-x  1 root  wheel   382K Apr 30 00:31 pagestuff
+-rwxr-xr-x  1 root  wheel   227B Apr 13 11:55 pip3
+-rwxr-xr-x  1 root  wheel   227B Apr 13 11:55 pip3.8
+lrwxr-xr-x  1 root  wheel    66B Jul 12 16:12 pydoc3 -> ../../Library/Frameworks/Python3.framework/Versions/3.8/bin/pydoc3
+lrwxr-xr-x  1 root  wheel    68B Jul 12 16:12 pydoc3.8 -> ../../Library/Frameworks/Python3.framework/Versions/3.8/bin/pydoc3.8
+lrwxr-xr-x  1 root  wheel    67B Jul 12 16:12 python3 -> ../../Library/Frameworks/Python3.framework/Versions/3.8/bin/python3
+lrwxr-xr-x  1 root  wheel    69B Jul 12 16:12 python3.8 -> ../../Library/Frameworks/Python3.framework/Versions/3.8/bin/python3.8
+lrwxr-xr-x  1 root  wheel     7B Jul 12 16:12 ranlib -> libtool
+-rwxr-xr-x  1 root  wheel   234K Apr 30 00:31 resolveLinks
+-rwxr-xr-x  1 root  wheel   261K Apr 30 00:31 rpcgen
+-rwxr-xr-x  1 root  wheel   186K Apr 30 00:31 segedit
+lrwxr-xr-x  1 root  wheel    12B Jul 12 16:12 size -> size-classic
+-rwxr-xr-x  1 root  wheel   349K Apr 30 00:31 size-classic
+-rwxr-xr-x  1 root  wheel    33M Apr 30 00:31 sourcekit-lsp
+-rwxr-xr-x  1 root  admin   335K Apr 30 00:31 stapler
+-rwxr-xr-x  1 root  wheel   350K Apr 30 00:31 strings
+-rwxr-xr-x  1 root  wheel   521K Apr 30 00:31 strip
+lrwxr-xr-x  1 root  wheel    14B Jul 12 16:12 swift -> swift-frontend
+lrwxr-xr-x  1 root  wheel    14B Jul 12 16:12 swift-api-digester -> swift-frontend
+lrwxr-xr-x  1 root  wheel    14B Jul 12 16:12 swift-api-extract -> swift-frontend
+-rwxr-xr-x  1 root  admin    72M Apr 30 00:31 swift-build
+-rwxr-xr-x  1 root  wheel   1.6M Apr 30 00:31 swift-demangle
+-rwxr-xr-x  1 root  wheel   230M Apr 30 00:31 swift-frontend
+-rwxr-xr-x  1 root  admin    72M Apr 30 00:31 swift-package
+-rwxr-xr-x  1 root  admin    72M Apr 30 00:31 swift-package-collection
+-rwxr-xr-x  1 root  admin    72M Apr 30 00:31 swift-run
+-rwxr-xr-x  1 root  wheel   237K Apr 30 00:31 swift-stdlib-tool
+lrwxr-xr-x  1 root  wheel    14B Jul 12 16:12 swift-symbolgraph-extract -> swift-frontend
+-rwxr-xr-x  1 root  admin    72M Apr 30 00:31 swift-test
+lrwxr-xr-x  1 root  wheel    14B Jul 12 16:12 swiftc -> swift-frontend
+-rwxr-xr-x  1 root  wheel    39M Apr 30 00:31 tapi
+-rwxr-xr-x  1 root  wheel   3.1M Apr 30 00:31 tapi-analyze
+-rwxr-xr-x  1 root  wheel   165K Apr 30 00:31 unifdef
+-rwxr-xr-x  1 root  wheel   2.9K Apr 13 09:46 unifdefall
+-rwxr-xr-x  1 root  wheel   203K Apr 30 00:31 unwinddump
+-rwxr-xr-x  1 root  wheel   220K Apr 30 00:31 vtool
+-rwxr-xr-x  1 root  wheel   832K Apr 30 00:31 xcindex-test
+-rwxr-xr-x  1 root  wheel   197K Apr 30 00:31 xml2man
+-rwxr-xr-x  1 root  wheel   135B Apr 13 09:43 yacc
+
