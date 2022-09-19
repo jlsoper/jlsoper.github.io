@@ -19,7 +19,7 @@ nfl
 fox sports
 mlb
 
-kanopy
+cbs sports
 youtube
 youtube TV
 
@@ -45,13 +45,15 @@ hbo max
 
 filmrise
 fawesome
-abc news live
-
-cbs news
-nbc news
 the CW
 
+kanopy
 stirr
+weather nation
+
+abc news live
+cbs news
+nbc news
 
 
 
