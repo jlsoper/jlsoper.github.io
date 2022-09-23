@@ -55,5 +55,7 @@ abc news live
 cbs news
 nbc news
 
+philo
+frndly TV
 
 
