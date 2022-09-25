@@ -4,58 +4,60 @@ cbs
 nbc
 
 fox now
-paramount +
+pbs
 peacock
 
-pbs
 roku channel
 live TV - roku channel
-
 pluto
+
 plex
 redbox
+stirr
 
 nfl
 fox sports
 mlb
 
 cbs sports
+espn
 youtube
-youtube TV
 
 hulu
 sling
+youtube TV
+
+prime video - amazon
 fubo TV
+philo
+
+freevee
+xumo
+frndly TV
 
 tubi
-netflix
-prime video - amazon
-
-espn
 crackle
-freevee
+filmrise
+
+netflix
+vudu fandango
+hbo max
 
 ewtn
 catholicTV network
 catholic channel
 
-haystack news
-vudu fandango
-hbo max
-
-filmrise
 fawesome
 the CW
+haystack news
 
+cnn
 kanopy
-stirr
 weather nation
 
 abc news live
 cbs news
 nbc news
 
-philo
-frndly TV
 
 
