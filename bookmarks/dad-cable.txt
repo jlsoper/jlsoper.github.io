@@ -1,0 +1,50 @@
+
+MidCo channel lineup
+--------------------
+
+2    WEATHER CHANNEL
+3    My TV
+4    FOX
+5    CBS
+7    PBS
+9    ABC
+10   QVC
+11   PBS - Topeka
+13   CBS - Topeka
+14   NBC 
+15   KMCI
+17   The CW 
+18   ION
+91   EWTN
+97   HSN
+587  GRIT
+588  COURT TV
+589  ANTENNA TV
+591  Me TV
+594  TRUE CRIME NETWORK
+595  PBS 2
+596  PBS CREATE
+597  PBS WORLD - Topeka
+598  PBS Enhanced - Topeka
+
+
+
+MidCo music
+-----------
+
+913  Rock
+917  Rock Hits
+918  Classic Rock
+920  Love Songs
+928  80's
+929  70's
+930  Solid Gold Oldies
+944  Smooth Jazz
+945  Jazz
+946  Blues
+947  Singers & Swing
+948  Easy Listening
+949  Classical Masterpieces
+950  Light Classical
+
+
