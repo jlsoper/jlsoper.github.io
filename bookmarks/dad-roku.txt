@@ -51,7 +51,7 @@ fawesome
 the CW
 haystack news
 
-cnn
+sky news
 kanopy
 weather nation
 
