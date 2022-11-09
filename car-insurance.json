@@ -1,0 +1,33 @@
+{
+
+    "Insurance" : "Auto",
+    "Policy"    : "Texas",
+
+    "Year"      : "2013",
+    "Make"      : "Chevrolet",
+    "Model"     : "Corvette",
+
+    "VIN"       : "1G1YB2DW7D5104865",
+
+
+    "Bodily injury liability"   : "$ 50,000 / $ 100,000",
+
+    "Property damage liability" : "$ 50,000",
+
+
+    "Uninsured Motorists Bodily Injury" : "$ 50,000 / $ 100,000",
+
+    "Uninsured Motorists Property Damage $ 250 deductible" : "rejects",
+
+
+    "Comprehensive" : "$ 500",
+    "Collision"     : "$ 1000",
+
+    "Emergency Road Service - towing"   : "full",
+    "Emergency Road Service - distance" : "15 miles",
+
+
+    "Total 6 month premium" : "$ 447.91"
+
+}
+
