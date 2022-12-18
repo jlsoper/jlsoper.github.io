@@ -1,0 +1,45 @@
+#  Check Virtualization Extension - output > 0
+
+alias vt-x='egrep -c "(vmx|svm)" /proc/cpuinfo'
+
+
+#  Install QEMU and Virtual Machine Manager
+
+pkg-install  bridge-utils  libvirt-clients libvirt-daemon libvirt-daemon-system  qemu-kvm qemu-system qemu-utils  virt-manager virtinst
+
+
+#  Verify that Libvirtd service is started - daemon = running
+#    sudo systemctl status libvirtd.service
+
+service libvirtd status
+
+
+#  Start Default Network for Networking
+
+sudo virsh net-start default
+
+  [sudo] password for $USER:
+  Network default started
+
+
+sudo virsh net-autostart default
+
+  Network default marked as autostarted
+
+
+sudo virsh net-list --all
+
+   Name      State    Autostart   Persistent
+   --------------------------------------------
+   default   active   yes         yes
+
+
+#  Add $USER to following groups, access to VMs (Reboot)
+
+sudo usermod -aG disk         $USER
+sudo usermod -aG input        $USER
+sudo usermod -aG kvm          $USER
+sudo usermod -aG libvirt      $USER
+sudo usermod -aG libvirt-qemu $USER
+
+
