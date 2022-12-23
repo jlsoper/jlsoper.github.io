@@ -10,24 +10,24 @@
     "VIN"       : "1G1YB2DW7D5104865",
 
 
-    "Bodily injury liability"   : "$ 50,000 / $ 100,000",
+    "Bodily injury liability"   : "$ 30,000 / $ 60,000",
 
-    "Property damage liability" : "$ 50,000",
-
-
-    "Uninsured Motorists Bodily Injury" : "$ 50,000 / $ 100,000",
-
-    "Uninsured Motorists Property Damage $ 250 deductible" : "rejects",
+    "Property damage liability" : "$ 25,000",
 
 
-    "Comprehensive" : "$ 500",
-    "Collision"     : "$ 1000",
+    "Uninsured Motorists Bodily Injury" : "$ 30,000 / $ 60,000",
+
+    "Uninsured Motorists Property Damage $ 250 deductible" : "$ 25,000",
+
+
+    "Comprehensive" : "$ 2000",
+    "Collision"     : "rejects",
 
     "Emergency Road Service - towing"   : "full",
-    "Emergency Road Service - distance" : "20 miles",
+    "Emergency Road Service - distance" : "15 miles",
 
 
-    "Total 6 month premium" : "$ 447.91"
+    "Total 6 month premium" : "$ 376.00"
 
 }
 
