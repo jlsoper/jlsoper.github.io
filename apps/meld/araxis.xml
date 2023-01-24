@@ -1,0 +1,24 @@
+<style-scheme id="araxis" _name="araxis" version="1.0">
+  <author>JS</author>
+  <_description>based on Meld dark scheme</_description>
+
+  <!-- Meld -->
+  <!-- C:\Program Files (x86)\Meld\share\gtksourceview-3.0\styles -->
+
+  <style name="meld:insert"   background="#00FF00" foreground="#008000" line-background="#00FF00"/><!-- js -->
+  <style name="meld:replace"  background="#008080" foreground="#0000FF" line-background="#008080"/><!-- js -->
+  <style name="meld:conflict" background="#7a2a28" foreground="#000000" line-background="#7a2a28"/>
+  <style name="meld:delete"   background="#faad3d" foreground="#000000" line-background="#faad3d"/>
+  <style name="meld:error"    background="#ff0000" foreground="#000000" line-background="#ff0000"/>
+  <style name="meld:inline"   background="#C4C4FF"/><!-- js -->
+  <style name="meld:current-line-highlight"  background="#111100"/>
+  <style name="meld:unknown-text"      foreground="#aaaaaa"/>
+  <style name="meld:syncpoint-outline" foreground="#bbbbbb"/>
+  <style name="meld:current-chunk-highlight" background="#rgba(255, 255, 255, 0.1)"/>
+  <style name="meld:dimmed"            foreground="#999999"/>
+
+  <!-- Search Matching -->
+  <style name="search-match"                 background="#FFFF00"/>
+
+</style-scheme>
+
