@@ -1,0 +1,29 @@
+Windows Registry Editor Version 5.00
+
+; ***********************************************
+;
+;
+;  Meld\Data\settings\Meld.reg
+;
+;
+;
+;
+; ***********************************************
+
+
+[HKEY_CURRENT_USER\Software\GSettings\org\gnome\meld]
+"wrap-mode"="none"
+"style-scheme"="araxis"
+"indent-width"=dword:00000004
+"use-system-font"=dword:00000000
+"custom-font"="Monospace Bold 14"
+"enable-space-drawer"=dword:00000001
+
+
+[HKEY_CURRENT_USER\Software\GSettings\org\gnome\meld\window-state]
+"width"=dword:00000712
+"height"=dword:000003c4
+"is-maximized"=dword:00000000
+"is-fullscreen"=dword:00000000
+
+
