@@ -9,19 +9,19 @@ peacock
 
 roku channel
 live TV - roku channel
-pluto
+youtube
 
+pluto
 plex
 redbox
-stirr
 
+stirr
+xumo play
 nfl
-fox sports
-mlb
 
 cbs sports
+fox sports
 espn
-youtube
 
 hulu
 sling
@@ -32,12 +32,12 @@ fubo TV
 philo
 
 freevee
-xumo
 frndly TV
-
 tubi
+
 crackle
 filmrise
+watch free flix
 
 netflix
 vudu fandango
@@ -48,8 +48,8 @@ catholicTV network
 catholic channel
 
 fawesome
-watch free flix
 the CW
+haystack news
 
 abc news live
 cbs news
@@ -57,13 +57,13 @@ nbc news
 
 cnn
 sky news
-haystack news
+scripps news
 
 audacy
 tune in
-weather nation
-
 kanopy
+
+weather nation
 
 
 
