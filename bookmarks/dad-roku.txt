@@ -17,39 +17,39 @@ redbox
 
 stirr
 xumo play
-nfl
+tubi
 
 cbs sports
 fox sports
 espn
 
+nfl
 hulu
 sling
-youtube TV
 
 prime video - amazon
 fubo TV
-philo
+youtube TV
 
 freevee
 frndly TV
-tubi
+philo
 
 crackle
-filmrise
+netflix
 watch free flix
 
-netflix
+chicken soup for the soul
+filmrise
+fawesome
+
+the CW
 vudu fandango
-hbo max
+kanopy
 
 ewtn
 catholicTV network
 catholic channel
-
-fawesome
-the CW
-haystack news
 
 abc news live
 cbs news
@@ -59,9 +59,9 @@ cnn
 sky news
 scripps news
 
+haystack news
 audacy
 tune in
-kanopy
 
 weather nation
 
