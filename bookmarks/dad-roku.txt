@@ -51,6 +51,10 @@ ewtn
 catholicTV network
 catholic channel
 
+formed
+audacy
+tune in
+
 abc news live
 cbs news
 nbc news
@@ -59,10 +63,11 @@ cnn
 sky news
 scripps news
 
-haystack news
-audacy
-tune in
+a&e
+freeform
+fx now
 
+nat geo TV
 weather nation
 
 
