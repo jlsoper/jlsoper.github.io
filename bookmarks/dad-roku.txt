@@ -43,9 +43,9 @@ chicken soup for the soul
 filmrise
 fawesome
 
+popcornflix
 the CW
 vudu fandango
-kanopy
 
 ewtn
 catholicTV network
@@ -68,6 +68,7 @@ freeform
 fx now
 
 nat geo TV
+kanopy
 weather nation
 
 
