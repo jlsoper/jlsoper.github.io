@@ -8,52 +8,40 @@ pbs
 peacock
 
 roku channel
-live TV - roku channel
 youtube
-
-pluto
-plex
-redbox
-
-stirr
-xumo play
 tubi
 
+pluto
+redbox
+stirr
+
+xumo play
+sling
+the CW
+
 cbs sports
+nbc sports
 fox sports
-espn
 
 nfl
+espn
 hulu
-sling
 
 prime video - amazon
-fubo TV
-youtube TV
+netflix
+crackle
 
 freevee
-frndly TV
-philo
-
-crackle
-netflix
 watch free flix
-
 chicken soup for the soul
+
 filmrise
 fawesome
-
 popcornflix
-the CW
-vudu fandango
 
 ewtn
 catholicTV network
-catholic channel
-
 formed
-audacy
-tune in
 
 abc news live
 cbs news
@@ -63,11 +51,7 @@ cnn
 sky news
 scripps news
 
-a&e
-freeform
-fx now
-
-nat geo TV
+local now
 kanopy
 weather nation
 
