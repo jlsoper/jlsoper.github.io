@@ -1,0 +1,169 @@
+<html>
+
+<head>
+
+<title>gitCompare</title>
+
+
+<script language="JavaScript" type="text/javascript">
+<!--
+
+function whichRepo()
+{
+  if (document.form01.rbutton1.value == "Github")
+    openGithub();
+  else
+    opengitLab();
+
+}
+
+function openGithub()
+{
+  var str1 = "https://github.com/";
+
+  var str2 = document.form01.user.value;
+
+  var str3 = document.form01.repo.value;
+
+  var str4 = document.form01.website1.value;
+
+  var str5 = document.form01.rbutton2.value;
+
+  var str6 = document.form01.website2.value;
+
+  if ((str2 + str3 + str4 + str6).length != 0)
+    window.open(str1 + str2 + "/" + str3 + "/compare/" + str4 + str5 + str6, "_blank");
+}
+
+function opengitLab()
+{
+  var str1 = "https://gitlab.com/";
+
+  var str2 = document.form01.user.value;
+
+  var str3 = document.form01.repo.value;
+
+  var str4 = document.form01.website1.value;
+
+  var str5 = document.form01.rbutton2.value;
+
+  var str6 = document.form01.website2.value;
+
+  if ((str2 + str3 + str4 + str6).length != 0)
+    window.open(str1 + str2 + "/" + str3 + "-/compare/" + str4 + str5 + str6, "_blank");
+}
+
+
+// -->
+</script>
+</head>
+
+
+<body>
+
+<h1>Git Compare ( Github / gitLab )</h1>
+
+
+<form name="form01" action="">
+
+<table>
+  <tr>
+    <td>
+      <input type="radio" id="Github" name="rbutton1" value="Github"  checked>
+
+      <label for="Github">Github</label><br>
+
+      <input type="radio" id="gitLab" name="rbutton1" value="gitLab">
+
+      <label for="gitLab">gitLab</label><br>
+    </td>
+    <td>
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+    </td>
+    <td>
+      <input type="radio" id="dot2" name="rbutton2" value=".."  checked>
+
+      <label for="..">2 dot ( .. )</label><br>
+
+      <input type="radio" id="dot3" name="rbutton2" value="...">
+
+      <label for="...">3 dot ( ... )</label><br>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<strong>UserID:</strong>
+<br>
+<input type="text" size="25" name="user" value="">
+<br>
+<br>
+
+
+<strong>Repo:</strong>
+<br>
+<input type="text" size="25" name="repo" value="">
+<br>
+<br>
+
+
+<table>
+  <tr>
+    <td>URL # 1</td>
+    <td>
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+    </td>
+    <td>
+      <input type="text" size="88" name="website1" value="">
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      &nbsp;
+    </td>
+  </tr>
+
+  <tr>
+    <td>URL # 2</td>
+    <td>
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+    </td>
+    <td>
+      <input type="text" size="88" name="website2" value="">
+    </td>
+  </tr>
+
+</table>
+
+
+<br>
+<br>
+
+
+<input type="button" name="button1" value="Compare" onclick="whichRepo()">
+
+
+</form>
+
+</body>
+</html>
+
