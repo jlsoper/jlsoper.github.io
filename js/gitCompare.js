@@ -16,14 +16,14 @@ function openGithub()
 
   var str3 = document.form01.repo.value;
 
-  var str4 = document.form01.website1.value;
+  var str4 = document.form01.textfield1.value;
 
   var str5 = document.form01.rbutton2.value;
 
-  var str6 = document.form01.website2.value;
+  var str6 = document.form01.textfield2.value;
 
   if ((str2 + str3 + str4 + str6).length != 0)
-    window.open(str1 + str2 + "/" + str3 + "/compare/" + str4 + str5 + str6, "_blank");
+    window.open(str1 + str2 + "/" + str3 + "/compare/" + str4 + str5 + str6 + "?diff=split" , "_blank");
 }
 
 function opengitLab()
@@ -34,13 +34,13 @@ function opengitLab()
 
   var str3 = document.form01.repo.value;
 
-  var str4 = document.form01.website1.value;
+  var str4 = document.form01.textfield1.value;
 
   var str5 = document.form01.rbutton2.value;
 
-  var str6 = document.form01.website2.value;
+  var str6 = document.form01.textfield2.value;
 
   if ((str2 + str3 + str4 + str6).length != 0)
-    window.open(str1 + str2 + "/" + str3 + "-/compare/" + str4 + str5 + str6, "_blank");
+    window.open(str1 + str2 + "/" + str3 + "-/compare/" + str4 + str5 + str6 , "_blank");
 }
 
