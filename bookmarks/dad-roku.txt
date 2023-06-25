@@ -52,7 +52,9 @@ sky news
 scripps news
 
 local now
+true crime network
 kanopy
+
 weather nation
 
 
