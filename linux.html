@@ -4,10 +4,29 @@
 
 
 <head>
-  <title>linux</title>
+<title>linux</title>
+
+
+<script language="JavaScript" type="text/javascript">
+<!--
+
+function dSearch()
+{
+  var str1 = "https://packages.debian.org/search?suite=sid&arch=amd64&searchon=contents&keywords=";
+
+  var str2 = document.form01.fname.value;
+
+  window.open(str1 + str2, "_blank");
+}
+
+// -->
+</script>
+
+
 </head>
 
 <body>
+<form name="form01" action="">
 
 <h1>Linux Links ( / : )</h1>
 
@@ -103,6 +122,15 @@ Alt F1-F6, F7
     <DT><A HREF="https://packages.debian.org/sid/devel/build-essential">Package: build-essential (gcc, g++)</A>
         <DD>apt  install build-essential gdb</A>
     <DT><A HREF="https://tracker.debian.org/pkg/sysvinit">Debian Package Tracker: sysvinit</A>
+
+    <br><b>
+      Debian - find package which contains file
+    <br></b>
+        <DD>
+          <input type="text" size="30" name="fname" value="">
+          <input type="button" name="button1" value="Search" onclick="dSearch()">
+        </DD>
+
     <DT><A HREF="https://gitlab.com/volian/nala">Nala - apt API ( python-apt )</A>
         <DD><A HREF="text/nala--help.txt">nala --help</A>
     <DT><A HREF="https://wiki.debian.org/LTS">Debian LTS</A>
@@ -167,5 +195,6 @@ Alt F1-F6, F7
         <DD><A HREF="https://wiki.archlinux.org/title/Chromium#Force_a_password_store">Chromium --password-store=basic</A></DD>
 </DL><p>
 
+</form>
 </body>
 </html>
