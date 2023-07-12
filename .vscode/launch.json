@@ -13,7 +13,8 @@
       "name": "Chrome debug",
       "type": "chrome",
       "request": "launch",
-      "url": "file://${workspaceFolder}/index.html",
+      "file": "${workspaceFolder}/index.html",
+  //  "url": "file://${workspaceFolder}/index.html",
       "webRoot": "${workspaceFolder}"
     }
   ]
