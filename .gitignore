@@ -1,0 +1,12 @@
+# ignore these folders
+
+
+
+
+# ignore these files
+**/.DS_Store
+**/.localized
+
+
+.vscode/bookmarks.json
+
