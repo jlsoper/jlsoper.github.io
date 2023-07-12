@@ -3,6 +3,7 @@
   //   "name": "Edge debug",
   //   "type": "msedge",
   //   "request": "launch",
+
   //   "url": "http://localhost:8080",
   //   "webRoot": "${workspaceFolder}"
   // }
@@ -14,8 +15,9 @@
       "type": "chrome",
       "request": "launch",
       "file": "${workspaceFolder}/index.html",
+
   //  "url": "file://${workspaceFolder}/index.html",
-      "webRoot": "${workspaceFolder}"
+  //  "webRoot": "${workspaceFolder}"
     }
   ]
 }
