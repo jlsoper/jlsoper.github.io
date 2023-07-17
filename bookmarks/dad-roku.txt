@@ -3,13 +3,13 @@ abc
 cbs
 nbc
 
-fox now
+roku channel
 pbs
 peacock
 
-roku channel
 youtube
 tubi
+kanopy
 
 pluto
 redbox
@@ -53,9 +53,6 @@ scripps news
 
 local now
 true crime network
-PhotoView - Google Photos
-
-kanopy
 weather nation
 
 
