@@ -45,7 +45,7 @@
           onMouseOut="window.status = ''; return true;"
           onClick="window.open('http://maps.google.com?q=Plano+Tx&output=embedmfe', 'New', 'toolbar=no, status=no, height=600, width=800, resizable=yes, menubar=no, titleBar=no');">(map it)</a>
       </font><br>
-      <a href="mailto:jlsoper@tutamail.com">jlsoper@tutamail.com</a><br>
+      <a href="mailto:jlsoper@gmail.com">jlsoper@gmail.com</a><br>
 
       <a href="https://freetubeapp.io/" target="_blank"><img border=0 src="img/freeTube.png" alt="(FreeTube)"></a>
  <!--      5 GB   <a href="https://outlook.live.com/owa/?nlp=1">Outlook email</a><br>    -->
@@ -81,6 +81,44 @@
 
 <table cellpadding=5 border=0 width="90%">
   <tr>
+    <td valign=top>
+    <h3 align=left>
+      my <font color=purple>Google</font> services..
+      <form name="googleform" action="">
+        <select name="dropdownlist">
+          <option selected="selected" value="https://voice.google.com/">Voice</option>
+          <option value="cal.html">Calendar</option>
+          <option value="https://drive.google.com/">Drive</option>
+          <option value="https://photos.google.com/albums">Photos (web)</option>
+          <option value="https://contacts.google.com/">Contacts</option>
+          <option value="https://keep.google.com/">Keep (notes)</option>
+          <option value="https://pay.google.com/">Pay</option>
+          <option value="https://podcasts.google.com/subscriptions">Podcasts</option>
+          <option value="https://music.youtube.com/library">Music</option>
+          <option value="gmaps.html">Maps +</option>
+          <option value="https://www.youtube.com/channel/UCcLJyvIZ98bzcIwRxbdqY3g/playlists">YouTube (soapman)</option>
+          <option value="https://www.google.com/travel/flights">Flights (search)</option>
+    <!--  <option value="https://sites.google.com/view/jlsoper/">Sites</option>  -->
+          <option value="https://docs.google.com/">Docs</option>
+          <option value="http://groups.google.com/forum/#!myforums">Groups</option>
+          <option value="http://news.google.com/">News</option>
+          <option value="http://code.google.com/">Code</option>
+          <option value="https://android.com/find">Find my Device</option>
+          <option value="https://myaccount.google.com/device-activity">Devices (active)</option>
+        </select>
+
+        <input type="button" value="Go!" onclick="GotoURL(this.form)">
+
+        <script type="text/javascript">
+          function GotoURL(dl)
+          {
+            // top.location.href = dl.dropdownlist.options[dl.dropdownlist.selectedIndex].value;
+            window.open(dl.dropdownlist.options[dl.dropdownlist.selectedIndex].value, "_blank");
+          }
+        </script>
+      </form>
+    </h3>
+    </td>
     <td>
       <p align=right>
         <a href="https://www.startpage.com/do/mypage.pl?prfe=c66835fbb8df62b7da3160a02bfac8c62aae5bde2c11dbc2ed56604972bcad4c20f80aa3575994c02d55b3544be1a5d8578c83e031b343680bfd431ee249420d43560fe028426092040d0ee4" target="_blank"><img border=0 src="img/search.png" alt="https://www.startpage.com/"></a>
@@ -93,16 +131,19 @@
 <table cellpadding=5 border=0 width="95%">
   <tr>
     <td width="20%">
-      <a href="https://mail.tutanota.com/login" target="_blank"><img border=0 src="img/mail.png" alt="https://mail.tutanota.com/login"></a>
+      <a href="http://mail.google.com/" target="_blank"><img border=0 src="img/gmail.png" alt="http://mail.google.com/"></a>
     </td>
     <td width="20%">
-      <a href="https://outlook.live.com/owa/calendar/b7210380-5089-4853-ae4a-fa484710ed19/49eea919-92dd-4285-8514-61f99fb7826a/cid-3FE3A341D8C984BA/index.html" target="_blank"><img border=0 src="img/cal.png" alt="calendar"></a>
-    </td>
-    <td width="20%">
-      <a href="https://duckduckgo.com/Map?q=&ia=web&iaxm=start" target="_blank"><img border=0 src="img/amaps.png" alt="https://duckduckgo.com/Map?q=&ia=web&iaxm=start"></a>
+      <a href="https://www.google.com/maps/?force=lite" target="_blank"><img border=0 src="img/gmaps.png" alt="https://www.google.com/maps/?force=lite"></a>
     </td>
     <td width="20%">
       <a href="https://wego.here.com/" target="_blank"><img border=0 src="img/here.png" alt="https://wego.here.com/"></a>
+    </td>
+    <td width="20%">
+      <a href="https://calendar.google.com/calendar/embed?src=jlsoper@gmail.com&src=jsoper70@gmail.com&ctz=America/Chicago" target="_blank"><img border=0 src="img/cal.png" alt="calendar"></a>
+    </td>
+    <td width="20%">
+      <a href="https://accounts.zoho.com/signin?serviceurl=https%3A%2F%2Fmail.zoho.com" target="_blank"><img border=0 src="img/zohoMail.png" alt="https://accounts.zoho.com/signin?serviceurl=https%3A%2F%2Fmail.zoho.com"></a>
     </td>
   </tr>
 </table>
@@ -118,21 +159,21 @@
     <a href="favorite.html">Favorite Links</a><br>
     <a href="sports.html">Sport Links</a><br>
     <a href="tennis.html">Tennis Links</a><br>
-    <a href="cars.html">Car Links</a><br>
+    <a href="movies.html">Movies</a><br>
     <a href="cell.html">Cell Phone Links</a><br>
     <a href="mobile.html">Mobile Links</a><br>
     </td>
 
     <td valign=top>
-    <a href="https://fileinfo.com/">FileInfo.com - file extensions</a><br>
+    <a href="imap.html">IMAP server settings</a><br>
     <a href="router.html">Router IP</a><br>
     <a href="https://geoiptool.com/">Geo IP tool</a><br>
     <a href="chat.html">Chat Links</a><br>
     <a href="browser.html">Browser Links</a><br>
     <a href="audio.html">Audio Links</a><br>
-    <a href="guitar.html">Guitar Links</a><br>
     <a href="video.html">Video Links</a><br>
-    <a href="library.html">Library Links</a><br>
+    <a href="guitar.html">Guitar Links</a><br>
+    <a href="cars.html">Car Links</a><br>
     <a href="http://www.bandwidthplace.com/">Broadband Speed Test</a><br>
     <a href="https://html5test.com/">HTML5 Test</a><br>
     </td>
@@ -153,6 +194,7 @@
     </td>
 
     <td valign=top>
+    <a href="https://fileinfo.com/">FileInfo.com - file extensions</a><br>
     <a href="https://travelmaps.state.gov/TSGMap/">US State Department (Map)</a><br>
     <a href="https://www.tomtom.com/en_gb/traffic-index/ranking/?country=US">TomTom traffic index (USA)</a><br>
     <a href="relocate.html">Relocation Calculator</a><br>
@@ -160,7 +202,7 @@
     <a href="salary.html">Salary Calculator</a><br>
     <a href="mortgage.html">Mortgage Calculator</a><br>
     <a href="byte.html">Bit Calculator</a><br>
-    <a href="movies.html">Movies</a><br>
+    <a href="library.html">Library Links</a><br>
     <a href="http://tvlistings.zap2it.com/tvlistings/ZCGrid.do?lineupId=DFLTC%3a-&aid=zap2it&zipcode=75093">TV Listings (CST)</a><br>
     <a href="https://www.youtube.com/watch?v=incSwssUyp4">The Universal Hot vs Crazy Matrix</a><br>
     </td>
