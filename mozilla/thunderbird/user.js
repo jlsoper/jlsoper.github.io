@@ -13,4 +13,5 @@ user_pref("mail.folderpane.showColumns", true);
 user_pref("mail.identity.default.suppress_signature_separator", true);
 
 user_pref("mailnews.default_view_flags", 0);
+user_pref("mailnews.message_display.disable_remote_image", false);
 
