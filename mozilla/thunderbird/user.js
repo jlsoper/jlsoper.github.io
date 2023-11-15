@@ -11,3 +11,6 @@ user_pref("layout.css.devPixelsPerPx", "1.15");
 user_pref("mail.folderpane.showColumns", true);
 
 user_pref("mail.identity.default.suppress_signature_separator", true);
+
+user_pref("mailnews.default_view_flags", 0);
+
