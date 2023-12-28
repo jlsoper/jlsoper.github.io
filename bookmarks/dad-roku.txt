@@ -9,7 +9,7 @@ peacock
 
 youtube
 tubi
-kanopy
+the CW
 
 pluto
 redbox
@@ -17,14 +17,14 @@ stirr
 
 xumo play
 sling
-the CW
+espn
 
 cbs sports
-nbc sports
 fox sports
-
 nfl
-espn
+
+kanopy
+hoopla
 hulu
 
 prime video - amazon
