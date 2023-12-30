@@ -21,11 +21,11 @@ espn
 
 cbs sports
 fox sports
-nfl
+tennis channel
 
+nfl
 kanopy
 hoopla
-hulu
 
 prime video - amazon
 netflix
@@ -51,8 +51,10 @@ cnn
 sky news
 scripps news
 
-local now
+hulu
 true crime network
+local now
+
 weather nation
 
 
