@@ -1,105 +1,32 @@
 BEGIN:VCARD
 VERSION:3.0
-FN:Cheryl Hicklin
-N:Hicklin;Cheryl;;;
-EMAIL;TYPE=INTERNET;TYPE=HOME:chicklin8566@gmail.com
-EMAIL;TYPE=INTERNET:LeilaCheryl8566@gmail.com
-TEL;TYPE=CELL:(785) 691-5607
-TEL;TYPE=HOME:(785) 842-1564
-ADR;TYPE=HOME:;;1570 N. 962 Road;Lawrence;KS;66046;US;1570 N. 962 Road\nLaw
- rence\, KS 66046\nUS
-BDAY:19660922
-NOTE:Ty\nJedzia\nMariana\n2117
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhLUE-QXMtpKhwK15_DgrT
- 7AI-C9-LLB7R7C8YrUBSNQnDIMFuxe
-CATEGORIES:family,myContacts,starred
-END:VCARD
-BEGIN:VCARD
-VERSION:3.0
-FN:Leila Soper
-N:Soper;Leila;;;
-item1.EMAIL;TYPE=INTERNET:soperleila@gmail.com
-item1.X-ABLabel:Mom
-TEL;TYPE=CELL:(785) 842-8919
-ADR;TYPE=HOME:;;1208 West 27th St;Lawrence;KS;66046;US;1208 West 27th St\nL
- awrence\, KS 66046\nUS
-URL:http\://www.google.com/profiles/112382818811160531170
-NOTE:* vm pwd #\nDon't call after 9 pm\n----\n90d 4-14-2019: 785-813-1411
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhJbLiJWw6bgAjvY0lUbpu
- znsqO_CGuLjitfCmX9wcD7YTbd7K_Y
-CATEGORIES:gDuo,family,myContacts,starred
-END:VCARD
-BEGIN:VCARD
-VERSION:3.0
-FN:Steve Soper
-N:Soper;Steve;;;
-item1.EMAIL;TYPE=INTERNET:soper1979@gmail.com
-item1.X-ABLabel:
-TEL;TYPE=MAIN:402-915-1979
-item2.ADR:;;6200 S 31st St 4621;Lincoln;NE;68516;US;6200 S 31st St\nLincoln
- \, NE 68516-4621\nUS
-item2.X-ABLabel:
-item3.ADR:;;6200 S 31st St 4621;Lincoln;NE;68516;US;6200 S 31st St\nLincoln
- \, NE 68516-4621\nUS
-item3.X-ABLabel:
-BDAY:19790107
-URL;TYPE=WORK:https\://www.linkedin.com/in/stevenpaulsoper/
-item4.URL:https\://www.youtube.com/@Soper79
-item4.X-ABLabel:homePage
-NOTE:Savannah\nNorah Jo
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhKTLf7dHyLt81nQP33GGM
- F5PRtNsavZayp1Vb9yQtxV2DjLPmOI
-CATEGORIES:gDuo,family,myContacts,starred
-END:VCARD
-BEGIN:VCARD
-VERSION:3.0
-FN:Tony Soper
-N:Soper;Tony;;;
-EMAIL;TYPE=INTERNET:tsoper1940@gmail.com
-TEL;TYPE=CELL:(785) 748-2010
-TEL;TYPE=MAIN:(785) 424-6049
-ADR;TYPE=HOME:;;3220 Peterson Rd;Lawrence;KS;66049-1963;US;3220 Peterson Rd
- \nLawrence\, KS 66049-1963\nUS
-BDAY:19400406
-item1.URL:https\://legendseniorliving.com/find-a-community/kansas/the-winds
- or-of-lawrence.html
-item1.X-ABLabel:
-NOTE:The Windsor of Lawrence
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhJ8J3iVgldDqcCzr2AuX_
- cXAn_To21KGOh6k5o5KSurQVkGNjix
-CATEGORIES:gDuo,family,myContacts,starred
-END:VCARD
-BEGIN:VCARD
-VERSION:3.0
-FN:Trudy Soper
-N:Soper;Trudy;;;
-item1.EMAIL;TYPE=INTERNET:tsoper@gmail.com
-item1.X-ABLabel:
-TEL;TYPE=MAIN:(402) 617-7502
-item2.ADR:;;6200 S 31st St 4621;Lincoln;NE;68516;US;6200 S 31st St\nLincoln
- \, NE 68516-4621\nUS
-item2.X-ABLabel:
-item3.ADR:;;6200 S 31st St 4621;Lincoln;NE;68516;US;6200 S 31st St\nLincoln
- \, NE 68516-4621\nUS
-item3.X-ABLabel:
-BDAY:19801210
-URL;TYPE=WORK:https\://www.linkedin.com/in/trudy-soper-063852127/
-NOTE:Savannah\nNorah Jo
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhJBPuB28c12BWhC7rqM1k
- JXRAtxX7S76-kJ5ILO3_WyxBCjY4qp
-CATEGORIES:gDuo,family,myContacts,starred
-END:VCARD
-BEGIN:VCARD
-VERSION:3.0
 FN:Airbnb
 N:;Airbnb;;;
 TEL;TYPE=MAIN:(855) 424-7262
 item1.URL:https\://www.airbnb.com/users/show/175569465
 item1.X-ABLabel:PROFILE
 URL;TYPE=WORK:https\://www.airbnb.com/dashboard
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhLqzJjQfeOsY1emSVybNb
- _dVFXrCpgU7Cmp8K51TgGD9YAOGC9i
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t5Ml2XTFZ7n9-Um8iaCXp
+ SSAbIA1in_uePR4vJzxglIAnm-hdlt
 CATEGORIES:Misc,myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Alan Vitt
+N:Vitt;Alan;;;
+EMAIL;TYPE=INTERNET;TYPE=WORK:Alan.Vitt@ks.gov
+EMAIL;TYPE=INTERNET;TYPE=HOME:alanvitt@sunflower.com
+TEL;TYPE=CELL:(785) 842-1186
+item1.ADR:;;816 W 22nd Terrace;Lawrence;KS;66046-2844;US;816 W 22nd Terrace
+ \nLawrence\, KS 66046-2844\nUS
+item1.X-ABLabel:
+item2.ORG:KDOT
+item2.X-ABLabel:
+item3.TITLE:DB Admin
+item3.X-ABLabel:
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t4N_8Snz92yW4OthknrSF
+ GlcRyvu4TVQ7_dHtg5dB-v7fhCsj62
+CATEGORIES:coworkers,friends,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -123,8 +50,8 @@ item7.X-ABLabel:Bank
 NOTE:Routing #\n124 003 116\nCheck #\n102 301 6437\nSavings #\n212 423 3541
  \nATM $1000\, POS $5000\nATM reimburse\, $10 per cycle\nPatty Lopez - NMLS
   #938145\n
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhKeqeY53RjB6bS1xspkGS
- jCQw8qeRenZnolGmAwh4fQJqRXBMZ9
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t6e_4p2Q4Lqx5YpLYsw6T
+ zLT0HQ_zL2-vFNjDdXMEz42uo782f1
 CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
@@ -133,8 +60,8 @@ FN:Apartment
 N:;Apartment;;;
 item1.TEL:(866) 289-5977
 item1.X-ABLabel:RentP
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhLQWSbGrnAn_fXLM4AF8X
- hLTtCvxXsTlmSPXkjXDzaMSy8q2nTh
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t7BHYh7lngvExESeexXgK
+ YiK1QkGQQULxZNkkgX8oRPKMMCRc1u
 CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
@@ -142,8 +69,8 @@ VERSION:3.0
 FN:Appliance Warehouse
 N:Warehouse;Appliance;;;
 TEL;TYPE=MAIN:(800) 693-4343
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhIfi8lLdBW6goe4KmzrLg
- m0u43CjnudTcnaJOKy71Xytkr5DDF_
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t4Av2csBHAFrop7E8yozD
+ 8ZiAKq_WO7dnhKZZ5c86Xyq5c2LtOg
 CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
@@ -152,24 +79,25 @@ FN:Auto Insurance
 N:Insurance;Auto;;;
 item1.TEL:800-255-7828
 item1.X-ABLabel:Allstate
-TEL;TYPE=MAIN:866-334-0184
-TEL:800-787-0600
 item2.TEL:800-217-6423
 item2.X-ABLabel:Tow
-item3.ORG:AllState
-item3.X-ABLabel:
-item4.TITLE:Tx
+item3.ADR:;;2430 S Interstate 35 ste 212;Denton;TX;76210;US;2430 S Intersta
+ te 35 ste 212\nDenton\, TX 76210\nUS
+item3.X-ABLabel:Josh
+item4.ORG:AllState
 item4.X-ABLabel:
-item5.URL:https\://myaccountrwd.allstate.com/anon/account/login
-item5.X-ABLabel:homePage
+item5.TITLE:Tx
+item5.X-ABLabel:
+item6.URL:https\://myaccountrwd.allstate.com/anon/account/login
+item6.X-ABLabel:homePage
 NOTE:1G1YB2DW7D5104865\n\nTexas. JMV 9021\na-429710215\n* do not admit faul
  t\n* don't reveal limits of liability\n* get yr\,make\,model\n\nTowing\nTe
  xt\: Allstate5 to 25788\n\n• Your policy number (shown on the front of thi
  s card)\n• Vehicle year\, make\, model and color\n• Location of your vehic
  le\n• Phone number you're calling from\nFull Pay Discount\nEasy pay plan d
  iscount (non CC) $ 19.94
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhLvibU5nKpON2eWaksRKl
- 74xuUvYGL445YrkfKLE3-6jmk44e0X
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t4KLQgw4GQEjnv9u4fMpp
+ WTayDe56hhGiN8zrsNOicJAShhDjzW
 CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
@@ -201,20 +129,24 @@ NOTE:2 sons\, (neithann\, marc kairhan)\nspeaks -> Tagalog\nsize 7 7.25 fin
  ger\nage 19\,15\n6 months for annulment\, married by the state\nLoves Rees
  es peanut butter cups\n2114 Calabasita Street\, Balic Balic\, Sampaloc Man
  ila 1008 Philippines
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhJvzl6SYZ12MsPjl_2j0H
- Wrd1peIAPF1YQl3xJBUgv6g2Gwg2CT
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t7fNihhKoTCC_4C6rFAWl
+ ROGbO3oQp472Vq5nQfTsDuOMZ5X_u8
 CATEGORIES:Date,gDuo,friends,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
 FN:Barber
 N:;Barber;;;
-TEL;TYPE=CELL:214-394-5081
-item1.ORG:Grapevine
-item1.X-ABLabel:
-NOTE:Kimble Howard\n$14
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhIZP3doz9i8lAEsE6GNDO
- C0H5dVmhT5E8dNRqWAavEpBMaiHtEF
+item1.TEL:214-394-5081
+item1.X-ABLabel:Grapevine
+item2.TEL:(972) 424-5995
+item2.X-ABLabel:Plano
+item3.ADR:;;1301 Custer Rd #334;Plano;TX;75075-7491;US;1301 Custer Rd #334
+ \nPlano\, TX 75075-7491\nUS
+item3.X-ABLabel:
+NOTE:Kimble Howard in Grapevine
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t4Ln3URKokkoY7xWU_rzO
+ OBHj-qG1SfCwa1aLBqDzgxuSYo9Ycp
 CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
@@ -245,8 +177,8 @@ ADR;TYPE=WORK:;;5440 Warren Pkwy;Frisco;;75034;US;5440 Warren Pkwy\nFrisco
 item1.ORG:Frisco
 item1.X-ABLabel:
 NOTE:In ground\, no lift
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhKn1Je4lUaDGEla-PJRRY
- YjysVNH2UE8HzUYMvWBy6vi7UFxSMl
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t5_cIXDZxvud2pwd-NvtC
+ gXEH6w1Ax6ph0LTat1osyQu33P_bgp
 CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
@@ -269,8 +201,8 @@ TEL;TYPE=HOME:816-373-9436
 ADR;TYPE=HOME:;;16400 NW Poplar St;Kansas City;MO;64136;US;16400 NW Poplar 
  St\nKansas City\, MO 64136\nUS
 NOTE:Edy
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhLG5aKpLxsMloYVLubj2S
- GvsXeU0ZQuQ7YYNVvuxonBBQFNM975
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t5rv8Im2ZZCApi679DYz0
+ tGOXk0gOPS3qIlq3-SXkmZWsEzoS4v
 CATEGORIES:gDuo,family,myContacts
 END:VCARD
 BEGIN:VCARD
@@ -292,9 +224,25 @@ item6.X-ABLabel:Via
 item7.URL:https\://www.dcta.net/getting-around/rail-bus-services/a-train
 item7.X-ABLabel:DCTA
 NOTE:DART = GoPass Card\n7 Eleven\, Tom Thumb\nText Bus stop # to 41411
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhKiOaGByur-hrP0elzT8P
- fYV5N4A-gzrbQ5aXie2Uzy_c0dVH73
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t5eY0_UuaLHl9nAjjj9OE
+ -cJrngoeW6dVRnlGGQ0Xnj85geS95c
 CATEGORIES:Misc,myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Cheryl Hicklin
+N:Hicklin;Cheryl;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:chicklin8566@gmail.com
+EMAIL;TYPE=INTERNET:LeilaCheryl8566@gmail.com
+TEL;TYPE=CELL:(785) 691-5607
+TEL;TYPE=HOME:(785) 842-1564
+ADR;TYPE=HOME:;;1570 N. 962 Road;Lawrence;KS;66046;US;1570 N. 962 Road\nLaw
+ rence\, KS 66046\nUS
+BDAY:19660922
+NOTE:Ty\n2117
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t4dNzSLhWaraGSf3BxX9O
+ FdVMwnGeV0hsD0K0eGaX64haPurkFd
+CATEGORIES:family,myContacts,starred
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -309,17 +257,21 @@ ADR;TYPE=WORK:;;1101 W State Hwy 114;Grapevine;TX;76051;US;1101 W State Hwy
 item3.ADR:;;2840 Iowa St;Lawrence;KS;66046-4156;US;2840 Iowa St\nLawrence\,
   KS 66046-4156\nUS
 item3.X-ABLabel:
-item4.ORG:Grapevine
+item4.ORG:Classic
 item4.X-ABLabel:
 item5.URL:https\://www.classicchevrolet.com/ServiceApptForm
 item5.X-ABLabel:Classic
 item6.URL:https\://www.dalewilleyauto.com/service/
 item6.X-ABLabel:Lawrence
-NOTE:Oil change 1st come\, first serve\nSaturday 8-1 pm\n15 gal\nfull synth
- etic SAE 5W-30 dexos1 6qt.\n481 / 42 miles (trip)\n245 / 40 R 18\n285 / 35
-  R 19\nFOB CR2032
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhJztpQ5phbx01ZCNfr-2A
- 6BTYZc6wpg8t9s9QbcPonykTDR3Y5X
+item7.URL:https\://a1glasscoating.com/services/automotive-window-tint/
+item7.X-ABLabel:SA
+item8.URL:https\://store.vioc.com/ks/lawrence/oil-change-050121.html
+item8.X-ABLabel:voic
+NOTE:full synthetic SAE 5W-30 dexos1 gen 2 6qt.\nACDelco oil filter PF48E\n
+ 6.2L LS3 V8\n481 / 42 miles (trip)\n245 / 40 R 18\n285 / 35 R 19\nFOB CR20
+ 32\n15 gal
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t7Y2LQQUw36aJTZclVx61
+ _0jUfjWQdjRLeyK0Nc3fTBbnH4GKzJ
 CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
@@ -331,8 +283,8 @@ TEL;TYPE=CELL:920-420-1144
 ADR;TYPE=HOME:;;7277 Morning Star Trail;Northfield;OH;44067;;7277 Morning S
  tar Trail\nNorthfield\, Ohio 44067
 NOTE:Jung Mi\n920-203-6603\nckim828@yahoo.com
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhK1JOspT2jkcgjQZ8gxsR
- 0_7keXAYN8qrAeaNjsXttIbEogciuh
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t4SCro1q4D_ByxFrl30VL
+ uJ8Dz1r3sHKGAiNVByJJEwEWGZNsq2
 CATEGORIES:friends,myContacts
 END:VCARD
 BEGIN:VCARD
@@ -348,13 +300,13 @@ VERSION:3.0
 FN:Cindy Caldwell
 N:Caldwell;Cindy;;;
 EMAIL;TYPE=INTERNET;TYPE=HOME:cindysexton86@yahoo.com
-TEL;TYPE=HOME:734-421-8424
-TEL;TYPE=CELL:734-536-6803
-ADR;TYPE=HOME:;;8515 Cranston;Westland;MI;48185;;8515 Cranston\nWestland\, 
- Mi 48185
-NOTE:Earl\nChelsea\nSamantha\n
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhK_UoE941RYip52xKStjV
- UU9kW7z0Yz-E7M5YX5L7MjmsE6dYjy
+TEL;TYPE=HOME:(734) 421-8424
+TEL;TYPE=CELL:(734) 536-6803
+ADR;TYPE=HOME:;;445 S Old US Hwy 23;Brighton;MI;48114;;445 S Old US Hwy 23
+ \nBrighton\, MI 48114
+NOTE:Jeff\n-----\nChelsea\nSamantha\n
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t62lMEUmnsevpg6qZDyGX
+ birPFlsjx1VCsNzBWeYUHzL4YhMgIx
 CATEGORIES:gDuo,family,myContacts
 END:VCARD
 BEGIN:VCARD
@@ -367,8 +319,8 @@ item1.URL:http\://www.thenewoakparkmall.com/
 item1.X-ABLabel:Near
 NOTE:Sells new Dodge/Chrysler's on Noland Rd (Landmark dealership)..  No pc
   but text alot & is still a sports nut.\n
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhIq7qw_rD9grNqA1MEO9C
- mlnS-R4Sm61yQ0X8AQyL1B8bDYUDrG
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t6enuxFZi60M7nPjzhvtq
+ C3QAtjohGUYybBWcHeZOnNTejMFh44
 CATEGORIES:family,myContacts
 END:VCARD
 BEGIN:VCARD
@@ -385,9 +337,18 @@ item2.ORG:Dallas
 item2.X-ABLabel:
 URL:https\://www.corvettewarehouse.com/
 NOTE:Andy Rivera (cell)\nRicardo Martinez (mechanic)\nCR 2032
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhIR8EbYReJADR6lGr0JlH
- cj3WTj98oj6kZ_e7oTQts2pM7O7qoB
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t4xXMpt62cPUHLEFA9mVp
+ KNQasoknI-v6SrJzqyZ-w_LAKoWGqq
 CATEGORIES:Misc,myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Cristy
+N:;Cristy;;;
+TEL;TYPE=CELL:(408) 836-7505
+item1.ADR:;;;Sulphur Springs;TX;;US;Sulphur Springs\, TX\nUS
+item1.X-ABLabel:
+CATEGORIES:friends,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -405,8 +366,8 @@ item2.X-ABLabel:
 item3.URL:http\://www.google.com/profiles/114136090332404534529
 item3.X-ABLabel:PROFILE
 NOTE:Cat Berry
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhJmPpo2tBZGgioyKpS02b
- ijulhEl0Nbh6qKYu--6j5elfkgqoy8
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t47pj6TS3Bf2G9gVHdrfd
+ 4e-sAgRyamh7iC2zuch1n6C_3xfLg0
 CATEGORIES:gDuo,coworkers,friends,myContacts
 END:VCARD
 BEGIN:VCARD
@@ -414,8 +375,11 @@ VERSION:3.0
 FN:Dalton Scott
 N:Scott;Dalton;;;
 EMAIL;TYPE=INTERNET;TYPE=HOME:scott_dalton@hotmail.com
-TEL;TYPE=HOME:316-283-8748
+TEL;TYPE=HOME:(316) 283-8748
 ADR;TYPE=HOME:;;;Newton;KS;67114;;Newton\, Ks 67114
+NOTE:Amy
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t63qau14xvYmWvpkZsFxG
+ Y3-RQyePU9PRqhAFmHgpKyWo4pLvFz
 CATEGORIES:friends,myContacts
 END:VCARD
 BEGIN:VCARD
@@ -438,8 +402,8 @@ ADR;TYPE=HOME:;;Suite 206 3401 W. Airport Freeway;Irving;TX;75062;US;3401 W
 item1.ORG:Monarch Dental
 item1.X-ABLabel:
 NOTE:Stanley Fitzer\, DDS\nNo Floride rinse
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhJAU8m_oXMSjfBbiPz8Df
- DBU7ihsUGvZ1fAvjaVPBDgXTgRX0iZ
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t44wYESQvSBxZ108dJtk4
+ J2hqW9BzORL4uoaSNUO-Q9e889k7dZ
 CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
@@ -447,18 +411,12 @@ VERSION:3.0
 FN:Discount Tire
 N:Tire;Discount;;;
 EMAIL;TYPE=INTERNET;TYPE=WORK:customerrelations@discounttire.com
-item1.TEL:(940) 783-4109
-item1.X-ABLabel:Local
-TEL;TYPE=MAIN:(800) 385-3322
-item2.ADR:;;100 S Loop 288;Denton;TX;76209;US;100 S Loop 288\nDenton\, TX 7
- 6209\nUS
-item2.X-ABLabel:
-item3.ORG:Denton
-item3.X-ABLabel:
+item1.ORG:Denton
+item1.X-ABLabel:
 URL:https\://www.discounttire.com/
 NOTE:Mon-Fri 8-1800\, Sat 8-1700
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhK_86eutRuHJtxtVqLXZq
- cq-Maegl6fxPI_c-N2caUPVDu76wQc
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t5eAGR09hjbucvyrDjfSs
+ qYpDuh_jCbHpoyGHtixAe2jTHeUTyZ
 CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
@@ -469,8 +427,8 @@ TEL;TYPE=MAIN:(800) 347-3085
 item1.URL:https\://www.discovercard.com/cardmembersvcs/loginlogout/app/ac_m
  ain
 item1.X-ABLabel:PROFILE
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhJGqDGWdHfpv-TKSSZYr1
- _M6QJn3rkiKn711v7tCafrEstCbSNi
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t6q9j-jSd68kESPte0qJ4
+ S8a1w3yNLTArPM6MrF1a3yXBhXpoME
 CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
@@ -483,9 +441,9 @@ ADR;TYPE=HOME:;;3503 greystone drive;Austin;TX;78731;US;3503 greystone driv
  e\, Austin\, tx\, 78731
 URL:http\://www.google.com/profiles/117633214855144889002
 NOTE:Works 4 AT&T\nGender: Male
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhLLH4p0quFgazsumyO8vL
- 1oYpHOj_r9Vt_K7upz34vCYMfB8mhd
-CATEGORIES:friends,myContacts
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t4gFfESUugg6BwE2_GPuk
+ keE9OR8wEFuHHM-KHJB1jxWP0DAxTd
+CATEGORIES:coworkers,friends,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -494,7 +452,7 @@ N:;Eddie;;;
 item1.EMAIL;TYPE=INTERNET:dogjj@frontier.com
 item1.X-ABLabel:Junk
 EMAIL;TYPE=INTERNET;TYPE=HOME:jsoper40@midco.net
-TEL;TYPE=WORK:(785) 748-2007
+TEL;TYPE=WORK:(913) 585-0308
 ADR;TYPE=HOME:;;;;TX;78216;US;TX 78216\nUS
 item2.TITLE:FM4C2-QWDWP-8SN2Q-4NP55-Z2W2B
 item2.X-ABLabel:
@@ -506,9 +464,17 @@ item4.X-ABLabel:homePage
 NOTE:jsoper40\nLawrence Public Library\nBarcode\: 1130702878855\nName\: JAM
  ES L SOPER\nDate of Birth\: September 1969\nCard Expiry Date\: Apr 20\, 20
  26\n\nIncoming calls\, record 4\, switch *
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhJIVSa9whnV7h_b-aIDi3
- LE9be0d2sBq5SWszolyvhLV75iJwCg
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t6pvH7ZjJN1uQbNLoJhh5
+ 3OV8Oo2Nn8noHZf5LtNdScu63CjRuB
 CATEGORIES:gDuo,family,friends,myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Eduardo Serrano-Suzan
+N:Serrano-Suzan;Eduardo;;;
+item1.EMAIL;TYPE=INTERNET:eserranosuzan@outlook.com
+item1.X-ABLabel:
+CATEGORIES:coworkers,friends,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -525,22 +491,9 @@ ADR;TYPE=HOME:;;540 Manchester Lane;Austin;TX;78737;US;540 Manchester Lane
  \nAustin\, Tx 78737
 URL;TYPE=WORK:http\://hcms.eanesisd.net/about/administration-1
 NOTE:Hill Country Middle School\nAsst. Principal\nmobile -> Julie 0303
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhI_8OAaLtxcHXBKA14uwH
- oNafWnpo_ZX5of3bGuDjwxgF6gEdum
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t6j9LxLUIj3omYv0tvJ1v
+ 17k7cNKLZT_936haSS71pp6jcYWAQQ
 CATEGORIES:friends,myContacts
-END:VCARD
-BEGIN:VCARD
-VERSION:3.0
-FN:Google Voice
-N:Voice;Google;;;
-TEL;TYPE=CELL:3168048551\,*2018#\;2
-item1.ORG:Google
-item1.X-ABLabel:
-URL:https\://support.google.com/voice/answer/146391?hl=en
-NOTE:works for only linked number & home phone area.
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhLDjvpfX_koLO0UGpURXC
- OfHL50hJywcVlJl6hlBddBjnZVPW8u
-CATEGORIES:myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -564,8 +517,21 @@ item6.URL:https\://mobile.greyhound.com/
 item6.X-ABLabel:PROFILE
 NOTE:205 S Lamar Street\nDallas\, TX 75202\n$8 \,2 hrs. $10 day (parking)\n
  \n----\n1 day prior\, cost $20
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhJdt2o9qsRZOPpYmw4l38
- nsm1c1QJ4oIXYGtaRmhm7LrefKkB-3
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t5D0Y8HZBmShaoXJKAifI
+ i_lnLOgGXzYRN01iYEAG2F5FcyRu-P
+CATEGORIES:Misc,myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:gVoice
+N:;gVoice;;;
+TEL;TYPE=CELL:3168048551\,*2018#\;2
+item1.ORG:VoiceMail
+item1.X-ABLabel:
+URL:https\://support.google.com/voice/answer/146391?hl=en
+NOTE:works for only linked number & home phone area.
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t41PlI_IEgvtJy5OLzTCJ
+ ZGX8UhKbSjBT0wdgypmGoVuit8Ro8E
 CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
@@ -573,23 +539,9 @@ VERSION:3.0
 FN:IT Team
 N:Team;IT;;;
 NOTE:*67  callerID off\n*82  callerID on
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhIupzY14cOsO9EZVB5PU7
- gTZAKZFGOmU3BRbicVV17BWM3HZg-f
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t6n6n21Pvm_YhSjNSC5uM
+ 8OhrcviDdQzB_imQBr930ykLDodRR_
 CATEGORIES:noCallerID *67,myContacts
-END:VCARD
-BEGIN:VCARD
-VERSION:3.0
-FN:Jedzia Hicklin
-N:Hicklin;Jedzia;;;
-EMAIL;TYPE=INTERNET;TYPE=HOME:sevenread@gmail.com
-TEL;TYPE=CELL:(785) 691-7220
-ADR;TYPE=HOME:;apt. 206;6905 W 50th Pl;Mission;KS;66202;US;6905 W 50th Pl\n
- apt. 206\, Mission\, KS 66202\nUS
-URL:http\://www.google.com/profiles/105595185225826126340
-NOTE:Gender: Female
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhKOftoN-ClSQkoYc5EwYj
- oxHJCSiQk5Jx7kld6MycZa7P43uKd4
-CATEGORIES:family,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -618,8 +570,8 @@ item7.URL:https\://www.linkedin.com/in/juan-villarreal-18631643/
 item7.X-ABLabel:PROFILE
 NOTE:Mayra\nDevany\, Angela\nfrom Monterrey -> Regio\nwifi->abcdef3261\nGen
  der: Male
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhI_IPKtOYjCuqYk8Xj2P8
- -nYsHplBugp9CJI6nyblCnE3yUICyg
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t7M0Eq3od4uRM1MWGdWPE
+ xY2lrZUG6kuBwMEwhl-lxc3kOG6wyI
 CATEGORIES:gDuo,coworkers,friends,myContacts
 END:VCARD
 BEGIN:VCARD
@@ -632,8 +584,8 @@ TEL;TYPE=HOME:734-699-5968
 ADR;TYPE=HOME:;;9910 Fairbanks;Belleville;MI;48111;;9910 Fairbanks\nBellevi
  lle\, Mi 48111
 NOTE:Jake\nBrittany\n
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhKwgxjhjybl7hYauCAAwt
- IX1v3vu_3Ph7QdPeTR0T6b73nI09YM
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t79nT3dhmFJC2P8y3jyuG
+ ibmEsWv7KwzfipmAjFB35VKeDei5Zc
 CATEGORIES:gDuo,family,myContacts
 END:VCARD
 BEGIN:VCARD
@@ -648,9 +600,24 @@ item1.X-ABLabel:
 item2.ORG:Korean
 item2.X-ABLabel:unknown
 NOTE:MySpectrumWiFi9F-5G\ndutymirror210\n\n
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhJGSgH0FFNzBWVfAS7xH7
- PCoQkQG2arZWBYUIp03n-KzBfOOYc5
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t786DdM7n1kgLcrHJnjdM
+ gyQoKkgblEjySObWyXZ2EXqaqnYU2F
 CATEGORIES:Misc,myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Leila Soper
+N:Soper;Leila;;;
+item1.EMAIL;TYPE=INTERNET:soperleila@gmail.com
+item1.X-ABLabel:Mom
+TEL;TYPE=CELL:(785) 842-8919
+ADR;TYPE=HOME:;;1208 West 27th St;Lawrence;KS;66046;US;1208 West 27th St\nL
+ awrence\, KS 66046\nUS
+URL:http\://www.google.com/profiles/112382818811160531170
+NOTE:* vm pwd #\nDon't call after 9 pm\n----\n90d 4-14-2019: 785-813-1411
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t76XGVhprckbgMBV9KfJG
+ tNjL6UCkxFD9L3CTT1rQ3hUV01_d66
+CATEGORIES:gDuo,family,myContacts,starred
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -677,8 +644,8 @@ item8.URL:library.cityofdenton.com/
 item8.X-ABLabel:homePage
 item9.URL:https\://lplks.org/
 item9.X-ABLabel:homePage
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhLxkT6BRpvdLmf-tJP40E
- lOVKxEgi2H2kIqropdXFSf10g4yLPQ
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t7fthwQ7P_o2j_jrksFaK
+ 3DLnglBCClDqGsSePk01yhl8WIaauq
 CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
@@ -689,8 +656,8 @@ EMAIL;TYPE=INTERNET;TYPE=HOME:mhighsmith@live.com
 TEL;TYPE=CELL:(316) 213-1390
 ADR;TYPE=HOME:;;;Wichita;KS;;;Wichita\, Ks
 NOTE:Saundra\nRachel\nchristina\nRachel High\n
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhKqPfFSE3SyMO23sB_7yJ
- -_c7okYPpPPkhfmP6pha00oJ71Rnqg
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t41w2fKvRYVIgrfSiPgfL
+ tePAGlniYmZtcANl1Mt4sTaAp9Pfyw
 CATEGORIES:friends,myContacts
 END:VCARD
 BEGIN:VCARD
@@ -699,8 +666,8 @@ FN:Matthew Soper
 N:Soper;Matthew;;;
 TEL;TYPE=CELL:(785) 845-7657
 ADR;TYPE=HOME:;;;Topeka;KS;;US;Topeka\, KS\nUS
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhKJ_isETuiZgqLXKGRAph
- LchlN2YxSXbyksaYswQM6hRlxuDdwV
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t5p_wt7XglSDwBkrtfs4a
+ 6hfEsO4NuGtX7gms6dRFwHXctHJpCb
 CATEGORIES:family,myContacts
 END:VCARD
 BEGIN:VCARD
@@ -721,23 +688,9 @@ item6.TEL:(650) 479-3208
 item6.X-ABLabel:WebEx
 item7.TITLE:Audio Conferencing
 item7.X-ABLabel:
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhJeG22MHdPrroFMoa8wv6
- CnPtWn7q7334M_Z2aPpSene-syEF-z
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t5OgoiA3u263R_yo75D_s
+ qrS3RCWcXuGXMvYOxd609yJVr3D1FE
 CATEGORIES:noCallerID *67,myContacts
-END:VCARD
-BEGIN:VCARD
-VERSION:3.0
-FN:Merlita Noriega
-N:Noriega;Merlita;;;
-EMAIL;TYPE=INTERNET;TYPE=HOME:merlitan67@gmail.com
-TEL;TYPE=CELL:(210) 330-4299
-ADR:;Apt. 1303;5415 N Foster Rd;San Antonio;TX;78244;US;5415 N Foster Rd\nA
- pt. 1303\, San Antonio\, TX 78244\nUS
-ADR:;;6721 Lake Cliff Dr;San Antonio;TX;78244;US;6721 Lake Cliff Dr\nSan An
- tonio\, TX 78244\nUS
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhJUVkBPhYfzCkrrxw2qQS
- P1zPCcAc6MzOOlrpnIB6o0SlXy_gii
-CATEGORIES:gDuo,friends,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -752,8 +705,8 @@ item1.ORG:MCI WorldCom
 item1.X-ABLabel:
 item2.URL:https\://www.linkedin.com/in/michael-doan-91263913/
 item2.X-ABLabel:PROFILE
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhIZYCnmId3DJkkUj4OlYz
- T88HzGnPQHwuUrX7joKYUYAC4Aw2Xl
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t5YpI5X9cQNrgJGux12xP
+ iw72mpSDP2OFm_BzGQyV3rhib1U8Fg
 CATEGORIES:gDuo,coworkers,friends,myContacts
 END:VCARD
 BEGIN:VCARD
@@ -766,8 +719,8 @@ ADR;TYPE=HOME:;;16864 stillwell road;;Tonganoxie\, Kan;66086;;16864 stillwe
  ll road\nTonganoxie\, Kansas 66086
 item1.URL:https\://www.facebook.com/profile.php?id=1309695573
 item1.X-ABLabel:PROFILE
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhLdQwA5_aYw8nM_3mXRNk
- wQFKazw28C-pO3ma4cHsIXH-ybsZSW
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t7u2YJOqXZsn8NpdV9i2E
+ XHoERk5lEi2XssAmmqyq2XiXlUY7cU
 CATEGORIES:friends,myContacts
 END:VCARD
 BEGIN:VCARD
@@ -783,8 +736,8 @@ URL:https\://csc.ntta.org/
 NOTE:Account\: 4686875\nAccount Type\: Starter TollTag\n$20 \, refill <$5\n
  DFW.01282859\n\nIf tolls accrued in preceding 3 months exceed $120\, conve
  rt to ($40/$10) tag.
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhJQRZxHePqz9JV0PTiQd_
- fnxTjrI9U9rphlbCVnCB17-ARck9rr
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t7bGgZM0U5mWPdpSVh-AF
+ QmhYlLnOqw0022VoWycw3ix-cIZDUO
 CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
@@ -803,8 +756,8 @@ item4.ORG:Irving
 item4.X-ABLabel:
 NOTE:$20 day\nGet before 12 noon on Saturday\nBring blanket\nclean teeth $2
  10\nGender: Female
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhI4B08PYymEQJ8SS3NRQo
- tKdRqe09bbJzhaqwmJ5y9qyEsLht4q
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t5Hn5DBNDfhLlr3QOqwCR
+ mL674XbrMSZq6BEAq-rKItUTx0QXLy
 CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
@@ -828,8 +781,8 @@ item6.URL:www.walmartpetrx.com
 item6.X-ABLabel:
 NOTE:Tri Heart plus\n$28.72  Dog 26-50 lbs\n\nIverhart plus\n\nHeartShield 
  plus\n\nHeartguard plus\n
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhJlHgiiJtyhUpD21bWg6L
- ugkHj56shy-vxWG0nkHf9McT1WJLDx
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t4x5sLmmM4LQJshopzaMo
+ xxJ3NIGH1f7CdjWs-0H7jBvBAPdiiz
 CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
@@ -844,8 +797,8 @@ item2.ORG:Denton
 item2.X-ABLabel:
 item3.URL:https\://www.cityofdenton.com/361/Police
 item3.X-ABLabel:homePage
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhKwzhhs2Wvo9Q9o9iKGvE
- qi7OW7lftn1nkU7CJignnbO7o0EmCI
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t5-qZsb3NMtBM4RN7nRky
+ vBf5rDFYRDWgx9OWOft3xISnGc8-dD
 CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
@@ -860,8 +813,8 @@ item2.X-ABLabel:Bibo
 ADR;TYPE=HOME:;;Hc-3 Box 7560;Dorado;;00646;PR;Hc-3 Box 7560\nDorado\, 0064
  6\nPR
 NOTE:Hc-3 Box 7560\nDorado\, Puerto Rico 00646\n
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhKic3YZYyxt8gmFmuMxhi
- NCe2vXjGlnGR3tRnYkSM-7HedMTbSW
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t5dNvnATm3YfodfM5Wv2l
+ Dh69KiOeaiCf_JYS9UCqqvgO-42Wj0
 CATEGORIES:friends,myContacts
 END:VCARD
 BEGIN:VCARD
@@ -870,11 +823,11 @@ FN:RBFCU
 N:;RBFCU;;;
 EMAIL;TYPE=INTERNET;TYPE=WORK:memberservices@rbfcu.org
 TEL;TYPE=MAIN:210-945-3300
-item1.ADR:;;1801 Dallas Pkwy;Dallas;TX;75287-4504;US;1801 Dallas Pkwy\nDall
- as\, TX 75287-4504\nUS
+item1.ADR:;;8539 Broadway;San Antonio;TX;78217-6313;US;8539 Broadway\nSan A
+ ntonio\, TX 78217-6313\nUS
 item1.X-ABLabel:
-item2.ADR:;;7649 FM78;San Antonio;TX;78244;US;7649 FM78\nSan Antonio\, TX 7
- 8244\nUS
+item2.ADR:;;2080 N Loop 1604 E;San Antonio;TX;78232-1557;US;2080 N Loop 160
+ 4 E\nSan Antonio\, TX 78232-1557\nUS
 item2.X-ABLabel:
 item3.ORG:Randolph-Brooks Federal Credit Union
 item3.X-ABLabel:
@@ -882,8 +835,8 @@ item4.URL:https\://www.rbfcu.org/
 item4.X-ABLabel:homePage
 NOTE:Mon-Fri 9-5\nSat 9-4\n\nRouting #\n314 089 681\n\nPrimary Savings #\n2
  19 738 954
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhLHJRaNlpHlT3KupNAawN
- OO5YXaNz9hKVLCbQsKAuvadlnbwXJ2
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t4-ct6fySjIdMc65JslP1
+ yS2JtIctoCfGnSzYpQMwrzDpXnIJTC
 CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
@@ -897,16 +850,8 @@ ADR;TYPE=HOME:;;18335 Mohawk Lane;Stillwell;Ks;66085;USA;18335 Mohawk Lane
 item1.ORG:R&B Customs
 item1.X-ABLabel:unknown
 NOTE:Beth\nCourtney\nJake\n
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhKNMWbXOh6gUVcTnTRCMm
- LBwmtNTu81ESJJ6TFPjGu1Bz0ZnRhv
-CATEGORIES:friends,myContacts
-END:VCARD
-BEGIN:VCARD
-VERSION:3.0
-FN:Rick Johnson
-N:Johnson;Rick;;;
-TEL;TYPE=CELL:(214)5669493
-NOTE:C6 Corvette
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t5Z8qiCwC0BWt6lX3pIcf
+ fQfRaS8jcW8VmsJozj58R_PII0fApu
 CATEGORIES:friends,myContacts
 END:VCARD
 BEGIN:VCARD
@@ -918,8 +863,8 @@ TEL;TYPE=CELL:(785) 673-3392
 TEL:(785) 673-9044
 ADR;TYPE=HOME:;;9212 Summertime Court;Cheboygan;MI;49721;US;9212 Summertime
   Court\nCheboygan\, MI 49721\nUS
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhKjiAFuEjP0fs8fyUouCb
- KvO2tenTvvRuAPNDyfLIupDwr4c5dN
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t6d0nXYoFCJfQUUbHPvC1
+ rGzahuhPnmL-rxikAahtbc8L119IcB
 CATEGORIES:family,myContacts
 END:VCARD
 BEGIN:VCARD
@@ -960,12 +905,33 @@ CATEGORIES:gDuo,family,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
+FN:Steve Soper
+N:Soper;Steve;;;
+item1.EMAIL;TYPE=INTERNET:soper1979@gmail.com
+item1.X-ABLabel:
+TEL;TYPE=MAIN:402-915-1979
+item2.ADR:;;6200 S 31st St 4621;Lincoln;NE;68516;US;6200 S 31st St\nLincoln
+ \, NE 68516-4621\nUS
+item2.X-ABLabel:
+item3.ADR:;;6200 S 31st St 4621;Lincoln;NE;68516;US;6200 S 31st St\nLincoln
+ \, NE 68516-4621\nUS
+item3.X-ABLabel:
+BDAY:19790107
+URL;TYPE=WORK:https\://www.linkedin.com/in/stevenpaulsoper/
+item4.URL:https\://www.youtube.com/@Soper79
+item4.X-ABLabel:homePage
+NOTE:Savannah\nNorah Jo
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t4B6Df0LKME1XQtSDSFxn
+ PV7PzPY-9Sn6A70yLmb8CqwH7gMHMc
+CATEGORIES:gDuo,family,myContacts,starred
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
 FN:Storage - SelfStore @ Coit
 N:SelfStore @ Coit;Storage;-;;
-TEL;TYPE=MAIN:(972) 867-6242
-item1.TEL:(682) 234-2711
-item1.X-ABLabel:Dalena
-TEL:(972) 325-5498
+item1.TEL:(972) 940-5704
+item1.X-ABLabel:Jeanie
+TEL:(972) 867-6242
 ADR;TYPE=WORK:;;613 Coit Rd;Plano;TX;75075;US;613 Coit Rd\nPlano\, TX 75075
  \nUS
 item2.ORG:$125
@@ -974,25 +940,33 @@ item3.TITLE:10x15
 item3.X-ABLabel:
 item4.URL:https\://www.findselfstorage.net/locations/self-store-coit/
 item4.X-ABLabel:
-NOTE:Gate - 8919#\nUnit # 836\nHours\: 7 am - 8\:30 pm\n10x15\n$120
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhJ-Hb15sNKEbHQrXX4UVg
- u7EyZIMC1liYRc-nqfTof8DUii_Zuo
+NOTE:Jeanie Coker\nGate - 8919#\nUnit # 836\nHours\: 7 am - 8\:30 pm\n10x15
+ \n$120
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t6N24jfoMI2KdQY21oynL
+ upoyiFLvh0V8p2ZsnAvYqMrfPGi9LB
 CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
 FN:Studio 6
 N:6;Studio;;;
-item1.TEL:(972) 716-0600
-item1.X-ABLabel:
-item2.ADR:;;12301 N Central Expy;Dallas;TX;75243-3721;US;12301 N Central Ex
- py\nDallas\, TX 75243-3721\nUS
+item1.TEL:(940) 387-5840
+item1.X-ABLabel:Denton
+item2.ADR:;;700 Fort Worth Dr;Denton;TX;76201-7137;US;700 Fort Worth Dr\nDe
+ nton\, TX 76201-7137\nUS
 item2.X-ABLabel:
-item3.TITLE:Wifi 50109596
-item3.X-ABLabel:unknown
-NOTE:Mgr - Katie\n$1360\n$100 pet fee\n$200 deposit (room)
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhI9NMyxPA3J6gS4Cu-XYT
- DTBpwk7OR6aBK6i8qhDWKadGIl1-Cy
+item3.ADR:;;909 McCormick St;Denton;TX;76201-6637;US;909 McCormick St\nDent
+ on\, TX 76201-6637\nUS
+item3.X-ABLabel:Church
+item4.ORG:studio700
+item4.X-ABLabel:unknown
+item5.TITLE:Wifi
+item5.X-ABLabel:unknown
+item6.URL:http\://jp2denton.org/
+item6.X-ABLabel:Church
+NOTE:Room 105 $1250\nRoom 146\n
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t6s5kIulCOigMjyvWlPvm
+ QHIs-QG8dQuNNXbHxB_RPt2AGzvRY7
 CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
@@ -1004,8 +978,8 @@ TEL;TYPE=MAIN:866-377-0294
 item1.TEL:805-637-7243 
 item1.X-ABLabel:Vm
 TEL;TYPE=HOME:(469) 922-0307
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhJ0wrtjXxzEg0o8EG3ZRR
- Hc0VkVxkkLmU6U9BRFgrE9c1VJmAPA
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t66GFughqEt21FSRmwbcd
+ h_0V6QMsRqlFRgl_VfEFFlr96ZDHFZ
 CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
@@ -1017,8 +991,8 @@ item1.ADR:;;35 Bales Ave #503;Toronto;ON;M2N 7L7;CA;35 Bales Ave #503\nToro
  nto\, ON M2N 7L7\nCA
 item1.X-ABLabel:
 NOTE:DO NOT SMS TEXT
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhIi-gXEazHDBiCYGi43TA
- xxl_uvJJBhIRYv04G_exUKIjk5NN7W
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t416G3fpmHZ3_aK7pHprm
+ v5nO-jA3FUb7IBiOAbQNDntF5GecE2
 CATEGORIES:friends,myContacts
 END:VCARD
 BEGIN:VCARD
@@ -1033,8 +1007,8 @@ item2.TITLE:Coolpad Surf
 item2.X-ABLabel:
 NOTE:soapman@zoho.com\nsoapman@zohomail.com\njsoper40@midco.net\n\n4G LTE\n
  16 devices\n\n#225#   Bal\n*#06#   IMEI\n
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhKaMwrLJzb3XDQEex3Z7M
- 7zDwarRKqR4uRVS6SoM5AUwD7bnUuB
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t5hJedpUoLfbOf0TZoqn2
+ 7xSydMDzvyXSHdo-Ib6a128E2cqF_-
 CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
@@ -1047,8 +1021,8 @@ item1.URL:http\://signaturetowing.com/
 item1.X-ABLabel:
 NOTE:United Road Towing\nTRAA certified drivers\nWalnut hill Wrecker\nAccep
  ts Geico
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhIHDH7-Je9YyOThep_brU
- B6rejUN-JsEPc_hxEhzf7OTYGa45EH
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t4cmI9AKC_l_8Di2vLXgt
+ 1dj6T6X1RzU7MqSTaNGI_YHtGoSRAr
 CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
@@ -1061,9 +1035,29 @@ ADR;TYPE=HOME:;;;Newton;;;US;Newton\nUS
 ROLE:Activities Secretary Hesston USD 460
 NOTE:Patricia Deutschendorf\nActivities Secretary\nHesston High School\npat
  ricia.deutschendorf@usd460.org\n620.327.7121\nGender: Female
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhJGVJYiD53jJ8btfb3OVk
- sUqYfzZXpTp7flF-Ku_2mdZqKMMzxb
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t44ev_ENkbkSgckpHg0X7
+ 9t5-Ry4MoD0DN24L-aeTPVvOv9SI3a
 CATEGORIES:gDuo,friends,myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Trudy Soper
+N:Soper;Trudy;;;
+item1.EMAIL;TYPE=INTERNET:tsoper@gmail.com
+item1.X-ABLabel:
+TEL;TYPE=MAIN:(402) 617-7502
+item2.ADR:;;6200 S 31st St 4621;Lincoln;NE;68516;US;6200 S 31st St\nLincoln
+ \, NE 68516-4621\nUS
+item2.X-ABLabel:
+item3.ADR:;;6200 S 31st St 4621;Lincoln;NE;68516;US;6200 S 31st St\nLincoln
+ \, NE 68516-4621\nUS
+item3.X-ABLabel:
+BDAY:19801210
+URL;TYPE=WORK:https\://www.linkedin.com/in/trudy-soper-063852127/
+NOTE:Savannah\nNorah Jo
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t5p1-rjJRiqhola9UEdw9
+ PyQIJ0HRye04PzEo2vII1U59qcSp8v
+CATEGORIES:gDuo,family,myContacts,starred
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -1077,8 +1071,8 @@ item2.X-ABLabel:
 item3.URL:internet.frontier.com
 item3.X-ABLabel:homePage
 NOTE:500 / 500 Mbps\n$39.99
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhLtEAiw_ygGDB_wMrrlIJ
- t8UPG1LwOI5uSzWIBijvPWqdUugBud
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t4jfl9e0fqzZoAYI9rLb5
+ mFHzn4zm1efEdP7MuUoEk5IRMHPfhz
 CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
@@ -1091,8 +1085,8 @@ item1.X-ABLabel:TeleServ
 item2.ORG:Texas Workforce Commission
 item2.X-ABLabel:
 NOTE:1\,3
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhK5mXaykJCg5d_K4Pus0_
- DF-HvoXxbb0vwjQN2OQs3CR-bZzs5d
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t7zpGmTvXEroWvsC9XYOf
+ _EteeVn2HtTBV-DK-Vwr7MyYRUhkCS
 CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
@@ -1108,7 +1102,7 @@ item3.TEL:(785) 917-4400
 item3.X-ABLabel:Topeka
 BDAY:20170923
 URL:freeweathercall.com
-PHOTO:https://lh3.googleusercontent.com/contacts/ADlvnhKnVt0-L2XdZxv7av-d66
- q9rrmwmreX3ane1sTQ0fgKYXdgtbLG
+PHOTO:https://lh3.googleusercontent.com/contacts/ANfB_t7ei5aQcB9q892A_WWZpV
+ YJLwOau2z82KAnB-6ysvh7PkxflDE7
 CATEGORIES:Misc,myContacts
 END:VCARD
