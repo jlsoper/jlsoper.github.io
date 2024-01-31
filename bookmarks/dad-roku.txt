@@ -11,7 +11,7 @@ youtube
 tubi
 the CW
 
-pluto
+pluto TV
 redbox
 stirr
 
@@ -21,7 +21,7 @@ espn
 
 cbs sports
 fox sports
-tennis channel
+nbc sports
 
 nfl
 kanopy
@@ -53,7 +53,7 @@ scripps news
 
 hulu
 true crime network
-local now
+haystack news
 
 weather nation
 
