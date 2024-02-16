@@ -3,8 +3,8 @@ abc
 cbs
 nbc
 
-roku channel
 pbs
+roku channel
 peacock
 
 youtube
