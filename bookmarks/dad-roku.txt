@@ -17,11 +17,7 @@ stirr
 
 xumo play
 sling
-espn
-
-cbs sports
-fox sports
-nbc sports
+hulu
 
 nfl
 kanopy
@@ -47,13 +43,11 @@ abc news live
 cbs news
 nbc news
 
-cnn
-sky news
 scripps news
-
-hulu
-true crime network
 haystack news
+sky news
+
+true crime network
 
 weather nation
 
