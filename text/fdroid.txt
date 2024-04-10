@@ -11,6 +11,7 @@ Fennec F-Droid
 Fossify Calendar
 Fossify File Manager
 Fossify Gallery
+Fossify Voice Recorder
 
 Gcam Services Provider (Photos)
 Jitsi Meet
