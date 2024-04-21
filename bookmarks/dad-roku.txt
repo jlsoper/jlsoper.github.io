@@ -3,21 +3,21 @@ abc
 cbs
 nbc
 
-pbs
-roku channel
+hulu
+paramount+
 peacock
 
-youtube
-tubi
-the CW
-
+pbs
 pluto TV
+roku channel
+
+tubi
+philo
+sling
+
 redbox
 stirr
-
 xumo play
-sling
-hulu
 
 nfl
 kanopy
@@ -47,9 +47,17 @@ scripps news
 haystack news
 sky news
 
+pandora
+iHeart Radio
+spotify
+
+fxnow (FxM only)
+the CW
 true crime network
 
-weather nation
+local now
+kctv5
+youtube
 
 
 
