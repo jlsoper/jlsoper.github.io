@@ -1,10 +1,34 @@
 <!doctype html>
 
+<html lang="en">
+
 <head>
   <title>vscode</title>
+
+<script language="JavaScript" type="text/javascript">
+<!--
+
+function gotoURL()
+{
+  var str1 = document.form01.gH.value;
+
+  var length = str1.length;
+
+  if (length == 0)
+    return;
+
+  var str2 = str1.replace('github.com','vscode.dev/github');
+
+  window.open(str2, "_blank");
+}
+
+// -->
+</script>
+
 </head>
 
 <body>
+<form name="form01" action="">
 
 <h1>Visual Studio Code Links</h1>
 
@@ -51,14 +75,25 @@
     <DT><A HREF="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf">VSCode Keyboard Shortcuts</A>
     <DT><A HREF="http://www.omnisharp.net/">OmniSharp - Cross Platform .NET development</A>
 <hr>
-    <DT><A HREF="https://vscode.dev/">VSCode for the Web (browser)</A>
-        <DD><A HREF="https://code.visualstudio.com/blogs/2021/10/20/vscode-dev">vscode.dev - Info</A>
-        <DD><A HREF="https://code.visualstudio.com/docs/editor/vscode-web">vscode.dev - Doc</A>
-        <DD><A HREF="https://youtu.be/sy3TUb_iVJM">vscode.dev - youTube</A>
+</DL><p>
+
+<p style="color:blue">
+<A HREF="https://vscode.dev/">VSCode Browser IDE</A><br>
+&nbsp;&nbsp;
+Github URL:
+  <input type="text" size="96" name="gH" value="" onkeypress="return event.keyCode!=13">
+  <br><br>
+  <input type="button" name="button1" value="goto -> vscode.dev" onclick="gotoURL()">
+</p>
+
+<DL><p>
+    <DT><A HREF="https://code.visualstudio.com/blogs/2021/10/20/vscode-dev">vscode.dev - Info</A>
+    <DT><A HREF="https://code.visualstudio.com/docs/editor/vscode-web">vscode.dev - Doc</A>
         <DD>&nbsp;&nbsp;&nbsp;<A HREF="https://marketplace.visualstudio.com/items?itemName=github.remotehub">GitHub Repositories</A>
         <DD>&nbsp;&nbsp;&nbsp;<A HREF="https://marketplace.visualstudio.com/items?itemName=GitHub.codespaces">Codespaces</A>
         <DD>&nbsp;&nbsp;&nbsp;<A HREF="https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github">Pull Requests</A>
         <DD><A HREF="https://marketplace.visualstudio.com/items?itemName=vscodevim.vim">Vim</A>
+    <DT><A HREF="https://youtu.be/sy3TUb_iVJM">vscode.dev - youTube</A>
     <DT><A HREF="https://developer.mozilla.org/en-US/docs/Web/API/File_System_API">File System API (browser)</A>
 <hr>
     <DT><A HREF="https://vscodium.com/">VSCodium - (codium)</A>
@@ -71,5 +106,6 @@
     <DT><A HREF="https://github.com/eclipse/openvsx/wiki/Using-Open-VSX-in-VS-Code">Using Open VSX in VSC</A>
 </DL><p>
 
+</form>
 </body>
 </html>
