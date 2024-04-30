@@ -20,8 +20,8 @@ stirr
 xumo play
 
 nfl
-kanopy
-hoopla
+espn ( espn3 )
+sportsnews highlights
 
 prime video - amazon
 netflix
@@ -51,13 +51,14 @@ pandora
 iHeart Radio
 spotify
 
-espn ( espn3 )
 fxnow ( FxM )
 the CW
+true crime network
 
 local now
 kctv5
-true crime network
-
 youtube
+
+kanopy
+hoopla
 
