@@ -51,13 +51,13 @@ pandora
 iHeart Radio
 spotify
 
-fxnow (FxM only)
+espn ( espn3 )
+fxnow ( FxM )
 the CW
-true crime network
 
 local now
 kctv5
+true crime network
+
 youtube
-
-
 
