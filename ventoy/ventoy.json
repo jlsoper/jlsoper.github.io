@@ -1,0 +1,10 @@
+{
+  "persistence":[
+    {
+      "image": "/Linux.iso",
+      "backend":[
+        "/ventoy/persistence.dat"
+      ]
+    }
+  ]
+}
