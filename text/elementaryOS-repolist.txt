@@ -1,0 +1,6 @@
+/etc/apt/sources.list.d/elementary.list:deb https://ppa.launchpadcontent.net/elementary-os/stable/ubuntu     jammy main
+/etc/apt/sources.list.d/patches.list:deb    https://ppa.launchpadcontent.net/elementary-os/os-patches/ubuntu jammy main
+
+/etc/apt/sources.list:deb http://archive.ubuntu.com/ubuntu/  jammy          main restricted universe multiverse
+/etc/apt/sources.list:deb http://archive.ubuntu.com/ubuntu/  jammy-updates  main restricted universe multiverse
+/etc/apt/sources.list:deb http://security.ubuntu.com/ubuntu/ jammy-security main restricted universe multiverse
