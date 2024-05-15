@@ -1,0 +1,3 @@
+/etc/apt/sources.list:deb                   http://deb.devuan.org/merged          daedalus main contrib non-free non-free-firmware
+/etc/apt/sources.list.d/peppermint.list:deb http://repo.peppermintos.com/packages daedalus main contrib non-free
+/etc/apt/sources.list.d/multimedia.list:deb http://www.deb-multimedia.org         bookworm main         non-free
