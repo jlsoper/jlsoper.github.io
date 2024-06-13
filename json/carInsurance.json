@@ -24,6 +24,7 @@
     "Collision"     : "rejects",
 
     "Emergency Road Service - towing"   : "full",
+    "Emergency Road Service - limit     : "$ 0",
     "Emergency Road Service - distance" : "20 miles",
 
     "Death Indemnity Insurance - free" : "$ 10,000",
