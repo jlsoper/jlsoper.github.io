@@ -12,6 +12,29 @@
     <DT><A HREF="https://webcamtests.com/">Test - WebCam</A>
     <DT><A HREF="https://webcamera.io/">WebCam - 123apps</A>
 <H3>YouTube replacements..</H3>
+    <DT><A HREF="https://docs.invidious.io/instances/">Invidious - servers</A>
+        <DD>&nbsp;</DD>
+
+    <form name="form1" action="">
+      <select name="dropdownlist">
+        <option selected="selected" value="https://inv.tux.pizza/">inv.tux.pizza</option>
+        <option                     value="https://invidious.drgns.space/">invidious.drgns.space</option>
+        <option                     value="https://inv.us.projectsegfau.lt/">inv.us.projectsegfau.lt</option>
+        <option                     value="https://invidious.incogniweb.net/">invidious.incogniweb.net</option>
+        <option                     value="https://invidious.darkness.services/">invidious.darkness.services</option>
+      </select>
+
+      <input type="button" value="Go!" onclick="GotoURL(this.form)">
+
+      <script type="text/javascript">
+        function GotoURL(dl)
+        {
+          // top.location.href = dl.dropdownlist.options[dl.dropdownlist.selectedIndex].value;
+          window.open(dl.dropdownlist.options[dl.dropdownlist.selectedIndex].value, "_blank");
+        }
+      </script>
+    </form>
+
     <DT><A HREF="https://piped.video/playlists">Piped Video - playlists</A>
         <DD><A HREF="https://github.com/TeamPiped/piped">Github [ Piped ]</A></DD>
     <DT><A HREF="https://piped-material.xn--17b.net/watch-history">Piped Material - history</A>
