@@ -10,28 +10,30 @@
     "VIN"       : "1G1YB2DW7D5104865",
 
 
-    "Bodily injury liability"   : "$ 25,000 / $ 50,000",
+    "Bodily injury liability"   : "$ 50,000 / $ 100,000",
 
     "Property damage liability" : "$ 100,000",
 
 
-    "Uninsured Motorists Bodily Injury" : "$ 25,000 / $ 50,000",
+    "Uninsured Motorists Bodily Injury" : "$ 50,000 / $ 100,000",
+
 
 
     "Comprehensive" : "$ 500",
-    "Collision"     : "rejects",
+    "Collision"     : "$ 1000",
+
 
     Personal Injury Protection (PIP) - Ks required
     $4500 / person for medical expenses
 
     "Emergency Road Service - towing"   : "full",
-    "Emergency Road Service - limit     : "$ 100",
+    "Emergency Road Service - limit     : "$ 150",
     "Emergency Road Service - distance" : "0 miles",
 
-    "Death Indemnity Insurance - free" : "$ 10,000",
+    "Glass Deductible - buyback" : "no",
 
 
-    "Total 6 month premium" : "$ 512.94"
+    "Total 6 month premium" : "$ 489.00"
 
 }
 
