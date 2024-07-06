@@ -21,7 +21,7 @@ xumo play
 
 nfl
 espn ( espn3 )
-sportsnews highlights
+american association tv
 
 prime video - amazon
 netflix
@@ -49,7 +49,7 @@ sky news
 
 pandora
 iHeart Radio
-spotify
+audacy
 
 fxnow ( FxM )
 the CW
@@ -57,8 +57,9 @@ true crime network
 
 local now
 kctv5
-youtube
+playlet
 
 kanopy
 hoopla
+youtube
 
