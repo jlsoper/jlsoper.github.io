@@ -182,16 +182,6 @@ CATEGORIES:coworkers,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
-FN:Britney POF
-N:POF;Britney;;;
-item1.TEL:(682) 353-6693
-item1.X-ABLabel:
-PHOTO:https://lh3.googleusercontent.com/contacts/AG6tpzET-b19SfWoHUfcxyt12k
- coMdEZFf6I3fV4abDvZJUT3-u2NHZ0
-CATEGORIES:myContacts
-END:VCARD
-BEGIN:VCARD
-VERSION:3.0
 FN:Bud Caldwell
 N:Caldwell;Bud;;;
 TEL;TYPE=CELL:(816) 213-3425
@@ -475,18 +465,6 @@ item1.X-ABLabel:
 item2.ORG:USPS
 item2.X-ABLabel:
 CATEGORIES:coworkers,friends,myContacts
-END:VCARD
-BEGIN:VCARD
-VERSION:3.0
-FN:Erica POF
-N:POF;Erica;;;
-item1.TEL:(904) 303-7683
-item1.X-ABLabel:
-ADR;TYPE=HOME:;;2175 S State Hwy 121;Lewisville;TX;75067;;2175 S State Hwy 
- 121\nLewisville \, Tx 75067
-PHOTO:https://lh3.googleusercontent.com/contacts/AG6tpzF8zGMH_x9GbVUyt-CfhU
- Rg_uPSM26l6fhA4EzONcuacP2QxZRo
-CATEGORIES:myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
