@@ -461,17 +461,6 @@ CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
-FN:gVoice
-N:;gVoice;;;
-TEL;TYPE=CELL:3168048551\,*2018#\;2
-item1.ORG:VoiceMail
-item1.X-ABLabel:
-URL:https\://support.google.com/voice/answer/146391?hl=en
-NOTE:works for only linked number & home phone area.
-CATEGORIES:Misc,myContacts
-END:VCARD
-BEGIN:VCARD
-VERSION:3.0
 FN:Haya Tampac
 N:Tampac;Haya;;;
 EMAIL;TYPE=INTERNET;TYPE=HOME:Hayatampac@myyahoo.com
