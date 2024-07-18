@@ -6,7 +6,6 @@ TEL;TYPE=MAIN:(855) 424-7262
 item1.URL:https\://www.airbnb.com/users/show/175569465
 item1.X-ABLabel:PROFILE
 URL;TYPE=WORK:https\://www.airbnb.com/dashboard
-CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -22,7 +21,6 @@ item2.ORG:KDOT
 item2.X-ABLabel:
 item3.TITLE:DB Admin
 item3.X-ABLabel:
-CATEGORIES:coworkers,friends,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -46,7 +44,6 @@ item7.X-ABLabel:Bank
 NOTE:Routing #\n124 003 116\nCheck #\n102 301 6437\nSavings #\n212 423 3541
  \nATM $1000\, POS $5000\nATM reimburse\, $10 per cycle\nPatty Lopez - NMLS
   #938145\n
-CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -54,14 +51,12 @@ FN:Apartment
 N:;Apartment;;;
 item1.TEL:(866) 289-5977
 item1.X-ABLabel:RentP
-CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
 FN:Appliance Warehouse
 N:Warehouse;Appliance;;;
 TEL;TYPE=MAIN:(800) 693-4343
-CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -90,7 +85,6 @@ NOTE:1G1YB2DW7D5104865\n\nTexas. JMV 9021\nPolicy # 54955 50 34\n* do not a
   Your policy number (shown on the front of this card)\n* Vehicle year\, ma
  ke\, model and color\n* Location of your vehicle\n* Phone number you're ca
  lling from\n\nFull Pay Discount\, credit card\n
-CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -102,7 +96,6 @@ item1.URL:http\://signaturetowing.com/
 item1.X-ABLabel:
 NOTE:United Road Towing\nTRAA certified drivers\nWalnut hill Wrecker\nAccep
  ts Geico
-CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -116,7 +109,6 @@ item3.ADR:;;1301 Custer Rd #334;Plano;TX;75075-7491;US;1301 Custer Rd #334
  \nPlano\, TX 75075-7491\nUS
 item3.X-ABLabel:
 NOTE:Kimble Howard in Grapevine
-CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -125,7 +117,6 @@ N:Stereo;Bonnie & Clyde;;;
 TEL;TYPE=CELL:(972)2411187
 ADR;TYPE=HOME:;;104 11311 Harry Hines Blvd;Dallas;TX;75229;;11311 Harry Hin
  es Blvd #104\nDallas\, Tx 75229
-CATEGORIES:myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -136,7 +127,6 @@ item1.X-ABLabel:
 item2.TEL:(402) 690-6750
 item2.X-ABLabel:iPhone
 TEL:(402) 419-8259
-CATEGORIES:friends,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -148,7 +138,6 @@ ADR;TYPE=WORK:;;5440 Warren Pkwy;Frisco;;75034;US;5440 Warren Pkwy\nFrisco
 item1.ORG:Frisco
 item1.X-ABLabel:
 NOTE:In ground\, no lift
-CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -160,7 +149,6 @@ item2.ORG:Sabre
 item2.X-ABLabel:
 item3.TITLE:CPP Developer
 item3.X-ABLabel:
-CATEGORIES:coworkers,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -171,7 +159,6 @@ ADR;TYPE=HOME:;;664 S Poplar St;Gardner;KS;66030-9232;US;664 S Poplar St\nG
  ardner\, KS 66030-9232\nUS
 BDAY:19450505
 NOTE:Edy
-CATEGORIES:family,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -192,7 +179,6 @@ item6.X-ABLabel:Via
 item7.URL:https\://www.dcta.net/getting-around/rail-bus-services/a-train
 item7.X-ABLabel:DCTA
 NOTE:DART = GoPass Card\n7 Eleven\, Tom Thumb\nText Bus stop # to 41411
-CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -200,7 +186,6 @@ FN:Carla Soper
 N:Soper;Carla;;;
 item1.EMAIL;TYPE=INTERNET:carlasoper@gmail.com
 item1.X-ABLabel:
-CATEGORIES:family,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -213,7 +198,6 @@ ADR;TYPE=HOME:;;1570 N. 962 Road;Lawrence;KS;66046;US;1570 N. 962 Road\nLaw
  rence\, KS 66046\nUS
 BDAY:19660922
 NOTE:(785) 842-1564\nTy & Melissa\n
-CATEGORIES:family,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -239,7 +223,6 @@ item7.X-ABLabel:SA
 NOTE:full synthetic SAE 5W-30 dexos1 gen 3 6qt.\nACDelco oil filter PF48E\n
  6.2L LS3 V8\n481 / 42 miles (trip)\n245 / 40 R 18\n285 / 35 R 19\nFOB CR20
  32\n15 gal
-CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -250,7 +233,6 @@ TEL;TYPE=CELL:920-420-1144
 ADR;TYPE=HOME:;;7277 Morning Star Trail;Northfield;OH;44067;;7277 Morning S
  tar Trail\nNorthfield\, Ohio 44067
 NOTE:Jung Mi\n920-203-6603\nckim828@yahoo.com
-CATEGORIES:friends,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -258,7 +240,6 @@ FN:Chris Soper
 N:Soper;Chris;;;
 TEL;TYPE=CELL:(785) 221-1060
 ADR;TYPE=HOME:;;;Topeka;KS;;;Topeka \, Ks
-CATEGORIES:family,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -270,7 +251,6 @@ TEL;TYPE=CELL:(734) 536-6803
 ADR;TYPE=HOME:;;445 S Old US Hwy 23;Brighton;MI;48114;US;445 S Old US Hwy 2
  3\nBrighton\, MI 48114
 NOTE:Jeff\n-----\nChelsea\nSamantha\n
-CATEGORIES:family,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -282,7 +262,6 @@ item1.URL:http\://www.thenewoakparkmall.com/
 item1.X-ABLabel:Near
 NOTE:Sells new Dodge/Chrysler's on Noland Rd (Landmark dealership)..  No pc
   but text alot & is still a sports nut.\n
-CATEGORIES:family,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -298,7 +277,6 @@ item2.ORG:Dallas
 item2.X-ABLabel:
 URL:https\://www.corvettewarehouse.com/
 NOTE:Andy Rivera (cell)\nRicardo Martinez (mechanic)\nCR 2032
-CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -316,7 +294,6 @@ item2.X-ABLabel:
 item3.URL:http\://www.google.com/profiles/114136090332404534529
 item3.X-ABLabel:PROFILE
 NOTE:Cat Berry
-CATEGORIES:coworkers,friends,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -326,7 +303,6 @@ EMAIL;TYPE=INTERNET;TYPE=HOME:scott_dalton@hotmail.com
 TEL;TYPE=HOME:(316) 283-8748
 ADR;TYPE=HOME:;;;Newton;KS;67114;;Newton\, Ks 67114
 NOTE:Amy
-CATEGORIES:friends,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -336,7 +312,6 @@ EMAIL;TYPE=INTERNET;TYPE=WORK:PiehleD@hpisd.org
 TEL;TYPE=CELL:(972)5333089
 NOTE:121 hwy & Coit Rd. Plano\, Tx\nHead Boys Basketball Coach\nPartner's P
  E\nHighland Park High School\nDallas\, Texas\n
-CATEGORIES:friends,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -348,7 +323,6 @@ ADR;TYPE=HOME:;;Suite 206 3401 W. Airport Freeway;Irving;TX;75062;US;3401 W
 item1.ORG:Monarch Dental
 item1.X-ABLabel:
 NOTE:Stanley Fitzer\, DDS\nNo Floride rinse
-CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -359,7 +333,6 @@ item1.ORG:Denton
 item1.X-ABLabel:
 URL:https\://www.discounttire.com/
 NOTE:Mon-Fri 8-1800\, Sat 8-1700
-CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -369,7 +342,6 @@ TEL;TYPE=MAIN:(800) 347-3085
 item1.URL:https\://www.discovercard.com/cardmembersvcs/loginlogout/app/ac_m
  ain
 item1.X-ABLabel:PROFILE
-CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -385,7 +357,6 @@ item2.TITLE:Unix Admin
 item2.X-ABLabel:
 URL:http\://www.google.com/profiles/117633214855144889002
 NOTE:Works 4 AT&T\nGender: Male
-CATEGORIES:coworkers,friends,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -406,7 +377,6 @@ item4.X-ABLabel:homePage
 NOTE:jsoper40\nLawrence Public Library\nBarcode\: 1130702878855\nName\: JAM
  ES L SOPER\nDate of Birth\: September 1969\nCard Expiry Date\: Apr 20\, 20
  26\n\nIncoming calls\, record 4\, switch *
-CATEGORIES:family,friends,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -416,7 +386,6 @@ item1.EMAIL;TYPE=INTERNET:eserranosuzan@outlook.com
 item1.X-ABLabel:
 item2.ORG:USPS
 item2.X-ABLabel:
-CATEGORIES:coworkers,friends,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -433,7 +402,6 @@ ADR;TYPE=HOME:;;540 Manchester Lane;Austin;TX;78737;US;540 Manchester Lane
  \nAustin\, Tx 78737
 URL;TYPE=WORK:http\://hcms.eanesisd.net/about/administration-1
 NOTE:Hill Country Middle School\nAsst. Principal\nmobile -> Julie 0303
-CATEGORIES:friends,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -457,7 +425,6 @@ item6.URL:https\://mobile.greyhound.com/
 item6.X-ABLabel:PROFILE
 NOTE:205 S Lamar Street\nDallas\, TX 75202\n$8 \,2 hrs. $10 day (parking)\n
  \n----\n1 day prior\, cost $20
-CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -480,14 +447,12 @@ item6.URL:https\://www.linkedin.com/in/jenette-tampac-540861232/
 item6.X-ABLabel:LinkedIn
 NOTE:never married\n1 daughter\, Caramel\nage in 20's\n\nreach her Sat\, Su
  n\: 6pm\nTelegram: @Ayette2023
-CATEGORIES:myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
 FN:IT Team
 N:Team;IT;;;
 NOTE:*67  callerID off\n*82  callerID on
-CATEGORIES:myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -498,7 +463,6 @@ TEL;TYPE=CELL:(785) 865-8506
 ADR:;;1275 SW Topeka Blvd;Topeka;KS;66612-1852;US;1275 SW Topeka Blvd\nTope
  ka\, KS 66612-1852\nUS
 NOTE:LTC - long term care\nLife Insurance
-CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -527,7 +491,6 @@ item7.URL:https\://www.linkedin.com/in/juan-villarreal-18631643/
 item7.X-ABLabel:PROFILE
 NOTE:Mayra\nDevany\, Angela\nfrom Monterrey -> Regio\nwifi->abcdef3261\nGen
  der: Male
-CATEGORIES:coworkers,friends,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -539,7 +502,6 @@ TEL;TYPE=HOME:734-699-5968
 ADR;TYPE=HOME:;;9910 Fairbanks;Belleville;MI;48111;;9910 Fairbanks\nBellevi
  lle\, Mi 48111
 NOTE:Jake\nBrittany\n
-CATEGORIES:family,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -553,7 +515,6 @@ item1.X-ABLabel:
 item2.ORG:Korean
 item2.X-ABLabel:unknown
 NOTE:MySpectrumWiFi9F-5G\ndutymirror210\n\n
-CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -566,7 +527,6 @@ ADR;TYPE=HOME:;;1208 West 27th St;Lawrence;KS;66046;US;1208 West 27th St\nL
  awrence\, KS 66046\nUS
 URL:http\://www.google.com/profiles/112382818811160531170
 NOTE:* vm pwd #\nDon't call after 9 pm\n----\n90d 4-14-2019: 785-813-1411
-CATEGORIES:family,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -593,7 +553,6 @@ item8.URL:library.cityofdenton.com/
 item8.X-ABLabel:homePage
 item9.URL:https\://lplks.org/
 item9.X-ABLabel:homePage
-CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -602,7 +561,6 @@ N:Highsmith;Marty;;;
 EMAIL;TYPE=INTERNET;TYPE=HOME:mhighsmith@live.com
 TEL;TYPE=CELL:(316) 213-1390
 ADR;TYPE=HOME:;;;Derby;KS;;;Derby\, KS
-CATEGORIES:friends,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -610,7 +568,6 @@ FN:Matthew Soper
 N:Soper;Matthew;;;
 TEL;TYPE=CELL:(785) 845-7657
 ADR;TYPE=HOME:;;;Topeka;KS;;US;Topeka\, KS\nUS
-CATEGORIES:family,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -632,7 +589,6 @@ item7.TEL:(469) 373-4960
 item7.X-ABLabel:MTeams
 item8.TITLE:Audio Conferencing
 item8.X-ABLabel:
-CATEGORIES:myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -647,7 +603,6 @@ item1.ORG:MCI WorldCom
 item1.X-ABLabel:
 item2.URL:https\://www.linkedin.com/in/michael-doan-91263913/
 item2.X-ABLabel:PROFILE
-CATEGORIES:coworkers,friends,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -659,7 +614,6 @@ ADR;TYPE=HOME:;;16864 stillwell road;;Tonganoxie\, Kan;66086;;16864 stillwe
  ll road\nTonganoxie\, Kansas 66086
 item1.URL:https\://www.facebook.com/profile.php?id=1309695573
 item1.X-ABLabel:PROFILE
-CATEGORIES:friends,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -674,7 +628,6 @@ URL:https\://csc.ntta.org/
 NOTE:Account\: 4686875\nAccount Type\: Starter TollTag\n$20 \, refill <$5\n
  DFW.01282859\n\nIf tolls accrued in preceding 3 months exceed $120\, conve
  rt to ($40/$10) tag.
-CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -693,7 +646,6 @@ item4.URL:https\://travel.state.gov/content/travel/en/us-visas/visa-informa
 item4.X-ABLabel:Nearest
 NOTE:Passport # 670871111\nexp. 10/31/2031\n\nOverseas Citizens Services\n8
  88-407-4747\nOverseas Citizens Services - Other\n202-501-4444\n
-CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -711,7 +663,6 @@ item4.ORG:Irving
 item4.X-ABLabel:
 NOTE:$20 day\nGet before 12 noon on Saturday\nBring blanket\nclean teeth $2
  10\nGender: Female
-CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -734,7 +685,6 @@ item6.URL:www.walmartpetrx.com
 item6.X-ABLabel:
 NOTE:Tri Heart plus\n$28.72  Dog 26-50 lbs\n\nIverhart plus\n\nHeartShield 
  plus\n\nHeartguard plus\n
-CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -748,7 +698,6 @@ item2.ORG:Denton
 item2.X-ABLabel:
 item3.URL:https\://www.cityofdenton.com/361/Police
 item3.X-ABLabel:homePage
-CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -762,7 +711,6 @@ item2.X-ABLabel:Bibo
 ADR;TYPE=HOME:;;Hc-3 Box 7560;Dorado;;00646;PR;Hc-3 Box 7560\nDorado\, 0064
  6\nPR
 NOTE:Hc-3 Box 7560\nDorado\, Puerto Rico 00646\n
-CATEGORIES:friends,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -782,7 +730,6 @@ item4.URL:https\://www.rbfcu.org/
 item4.X-ABLabel:homePage
 NOTE:Mon-Fri 9-5\nSat 9-4\n\nRouting #\n314 089 681\n\nPrimary Savings #\n2
  19 738 954
-CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -803,7 +750,6 @@ item5.URL:https\://lawrenceks.org/lprd/parks/holcompark/
 item5.X-ABLabel:PROFILE
 NOTE:WiFi\nGuestLWN\nWeLoveLawrence22!\n\nHours\:\n8-20 m-f\n9-18 sat\n10-1
  6 sun\n
-CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -816,7 +762,6 @@ ADR;TYPE=HOME:;;18335 Mohawk Lane;Stillwell;Ks;66085;USA;18335 Mohawk Lane
 item1.ORG:R&B Customs
 item1.X-ABLabel:unknown
 NOTE:Beth\nCourtney\nJake\n
-CATEGORIES:friends,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -827,7 +772,6 @@ TEL;TYPE=CELL:(785) 673-3392
 TEL:(785) 673-9044
 ADR;TYPE=HOME:;;9212 Summertime Court;Cheboygan;MI;49721;US;9212 Summertime
   Court\nCheboygan\, MI 49721\nUS
-CATEGORIES:family,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -841,7 +785,6 @@ item3.TITLE:Java Developer
 item3.X-ABLabel:
 item4.URL:https\://www.linkedin.com/in/rohan-mukesh-61ba74b/
 item4.X-ABLabel:PROFILE
-CATEGORIES:coworkers,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -852,7 +795,6 @@ item1.ORG:Citigroup
 item1.X-ABLabel:
 item2.URL:https\://www.linkedin.com/in/sandeepgbhat/
 item2.X-ABLabel:PROFILE
-CATEGORIES:coworkers,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -865,7 +807,6 @@ ADR;TYPE=HOME:;;4236 SE Ohio Ct;Topeka;KS;66609;;4236 SE Ohio Ct.\nTopeka\,
 item1.URL:http\://www.google.com/profiles/116510874880701380467
 item1.X-ABLabel:PROFILE
 NOTE:Carla\nChris\nMatt\n
-CATEGORIES:family,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -885,7 +826,6 @@ URL;TYPE=WORK:https\://www.linkedin.com/in/stevenpaulsoper/
 item4.URL:https\://www.youtube.com/@Soper79
 item4.X-ABLabel:homePage
 NOTE:Savannah\nNorah Jo
-CATEGORIES:family,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -904,7 +844,6 @@ item4.URL:https\://www.findselfstorage.net/locations/self-store-coit/
 item4.X-ABLabel:
 NOTE:Jeanie Coker\nGate - 8919#\nUnit # 836\nHours\: 7 am - 8\:30 pm\n10x15
  \n$120
-CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -925,7 +864,6 @@ item5.X-ABLabel:unknown
 item6.URL:http\://jp2denton.org/
 item6.X-ABLabel:Church
 NOTE:Room 105 $1250\nRoom 146\n
-CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -936,7 +874,6 @@ TEL;TYPE=MAIN:866-377-0294
 item1.TEL:805-637-7243 
 item1.X-ABLabel:Vm
 TEL;TYPE=HOME:(469) 922-0307
-CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -949,7 +886,6 @@ item1.X-ABLabel:
 URL;TYPE=WORK:https\://www.massagetherapyreference.com/how-to-become-a-regi
  stered-massage-therapist-in-canada/
 NOTE:DO NOT SMS TEXT\n\nworking to obtain Massage Therapy license.
-CATEGORIES:friends,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -963,7 +899,6 @@ item2.TITLE:Coolpad Surf
 item2.X-ABLabel:
 NOTE:soapman@zoho.com\nsoapman@zohomail.com\njsoper40@midco.net\n\n4G LTE\n
  16 devices\n\n#225#   Bal\n*#06#   IMEI\n
-CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -973,7 +908,6 @@ EMAIL;TYPE=INTERNET;TYPE=HOME:tsoper1940@gmail.com
 TEL;TYPE=HOME:(785) 318-6470
 item1.ADR:;;;Lecompton;KS;;US;Lecompton\, KS\nUS
 item1.X-ABLabel:
-CATEGORIES:family,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -985,7 +919,6 @@ ADR;TYPE=HOME:;;;Newton;;;US;Newton\nUS
 ROLE:Activities Secretary Hesston USD 460
 NOTE:Patricia Deutschendorf\nActivities Secretary\nHesston High School\npat
  ricia.deutschendorf@usd460.org\n620.327.7121\nGender: Female
-CATEGORIES:friends,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -1003,7 +936,6 @@ item3.X-ABLabel:
 BDAY:19801210
 URL;TYPE=WORK:https\://www.linkedin.com/in/trudy-soper-063852127/
 NOTE:Savannah\nNorah Jo
-CATEGORIES:family,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -1018,7 +950,6 @@ item2.X-ABLabel:
 item3.URL:internet.frontier.com
 item3.X-ABLabel:homePage
 NOTE:500 / 500 Mbps\n$39.99
-CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -1030,7 +961,6 @@ item1.X-ABLabel:TeleServ
 item2.ORG:Texas Workforce Commission
 item2.X-ABLabel:
 NOTE:1\,3
-CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -1045,5 +975,4 @@ item3.TEL:(785) 917-4400
 item3.X-ABLabel:Topeka
 BDAY:20170923
 URL:freeweathercall.com
-CATEGORIES:Misc,myContacts
 END:VCARD
