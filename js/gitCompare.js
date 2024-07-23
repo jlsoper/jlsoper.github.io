@@ -8,6 +8,15 @@ function whichRepo()
 
 }
 
+function switchFields()
+{
+  var  tmp = document.form01.textfield1.value;
+  var str2 = document.form01.textfield2.value;
+
+  document.form01.textfield1.value=str2;
+  document.form01.textfield2.value=tmp;
+}
+
 function openGithub()
 {
   var str1 = "https://github.com/";
