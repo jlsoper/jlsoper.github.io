@@ -505,6 +505,17 @@ NOTE:Jake\nBrittany\n
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
+FN:Karl Juhnke
+N:Juhnke;Karl;;;
+item1.EMAIL;TYPE=INTERNET:yangfuli@yahoo.com
+item1.X-ABLabel:
+TEL;TYPE=CELL:469-406-6415
+ADR;TYPE=HOME:;;;Newton;Ks;;US
+URL:
+NOTE:
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
 FN:Laundromat
 N:;Laundromat;;;
 NICKNAME:Miss Lee
