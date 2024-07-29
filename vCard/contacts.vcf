@@ -62,21 +62,21 @@ BEGIN:VCARD
 VERSION:3.0
 FN:Auto Insurance
 N:Insurance;Auto;;;
-EMAIL;TYPE=INTERNET;TYPE=WORK:gmosley@farmersagent.com
+EMAIL;TYPE=INTERNET;TYPE=WORK:kkeefer@farmersagent.com
 item1.TEL:(888) 327-6335
 item1.X-ABLabel:Farmers
 item2.TEL:(800) 435-7764
 item2.X-ABLabel:Tow
-item3.TEL:(913) 225-7995
+item3.TEL:(785) 843-7511
 item3.X-ABLabel:Agent
-item4.ADR:;;14014 W 135th St;Olathe;KS;66062;US;14014 W 135th St\nOlathe\, 
- KS 66062\nUS
+item4.ADR:;;3300 Mesa Way Suite C;Lawrence;KS;66049;US;3300 Mesa Way Suite C\nLawrence\, 
+ KS 66049\nUS
 item4.X-ABLabel:
 item5.ORG:Farmers
 item5.X-ABLabel:
 item6.TITLE:Ks
 item6.X-ABLabel:
-item7.URL:https\://agents.farmers.com/ks/olathe/greg-mosley/
+item7.URL:https\://agents.farmers.com/ks/lawrence/kristi-keefer/
 item7.X-ABLabel:PROFILE
 item8.URL:https\://www.farmers.com/css/login
 item8.X-ABLabel:homePage
