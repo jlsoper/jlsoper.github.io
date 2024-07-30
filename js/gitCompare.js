@@ -50,6 +50,6 @@ function opengitLab()
   var str6 = document.form01.textfield2.value;
 
   if ((str2 + str3 + str4 + str6).length != 0)
-    window.open(str1 + str2 + "/" + str3 + "-/compare/" + str4 + str5 + str6 , "_blank");
+    window.open(str1 + str2 + "/" + str3 + "/-/compare/" + str4 + str5 + str6 , "_blank");
 }
 
