@@ -64,11 +64,11 @@ FN:Auto Insurance
 N:Insurance;Auto;;;
 EMAIL;TYPE=INTERNET;TYPE=WORK:kkeefer@farmersagent.com
 item1.TEL:(888) 327-6335
-item1.X-ABLabel:Farmers
+item1.X-ABLabel:Work
 item2.TEL:(800) 435-7764
-item2.X-ABLabel:Tow
+item2.X-ABLabel:Other
 item3.TEL:(785) 843-7511
-item3.X-ABLabel:Agent
+item3.X-ABLabel:Home
 item4.ADR:;;3300 Mesa Way Suite C;Lawrence;KS;66049;US;3300 Mesa Way Suite C\nLawrence\, 
  KS 66049\nUS
 item4.X-ABLabel:
