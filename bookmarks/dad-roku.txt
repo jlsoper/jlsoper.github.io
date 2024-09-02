@@ -1,15 +1,15 @@
 
-abc
+roku channel
 cbs
 nbc
 
-hulu
-paramount+
+local now
+wibw news
 peacock
 
 pbs
 pluto TV
-roku channel
+the CW
 
 tubi
 philo
@@ -21,7 +21,7 @@ xumo play
 
 nfl
 espn ( espn3 )
-american association tv
+fox sports
 
 prime video - amazon
 netflix
@@ -39,26 +39,14 @@ ewtn
 catholicTV network
 formed
 
-abc news live
-cbs news
-nbc news
-
-scripps news
-haystack news
-sky news
-
 pandora
 iHeart Radio
 audacy
 
-fxnow ( FxM )
-the CW
-true crime network
-
-local now
-kctv5
-youtube
-
 kanopy
 hoopla
+true crime network
+
+weatherNation
+youtube
 
