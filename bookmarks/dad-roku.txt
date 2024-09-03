@@ -3,19 +3,15 @@ roku channel
 cbs
 nbc
 
-local now
-wibw news
-peacock
-
 pbs
 pluto TV
-the CW
+peacock
 
 tubi
 philo
 sling
 
-playlet
+the CW
 stirr
 xumo play
 
@@ -49,4 +45,5 @@ true crime network
 
 weatherNation
 youtube
+playlet
 
