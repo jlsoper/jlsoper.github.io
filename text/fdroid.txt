@@ -18,6 +18,9 @@ Jitsi Meet
 K-9 Mail
 KeePassDX
 LibreSpeed
+
+MuPDF viewer
+
 MobileWebCam
 Molly
 NewPipe
