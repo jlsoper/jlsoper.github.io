@@ -1,31 +1,23 @@
 
 roku channel
-cbs
-nbc
-
-pbs
 pluto TV
 peacock
 
 tubi
-philo
-sling
-
+pbs
 the CW
-stirr
+
+local now
+haystack news
 xumo play
 
-nfl
-espn ( espn3 )
-fox sports
-
 prime video - amazon
-netflix
-chicken soup for the soul
+sling
+true crime network
 
 freevee
-watch free flix
-true crime network
+kanopy
+hoopla
 
 filmrise
 fawesome
@@ -39,11 +31,6 @@ pandora
 iHeart Radio
 audacy
 
-kanopy
-hoopla
-weatherNation
-
 youtube
 playlet
-odysee
 
