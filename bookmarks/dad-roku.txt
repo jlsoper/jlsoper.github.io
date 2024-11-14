@@ -15,7 +15,7 @@ prime video - amazon
 sling
 true crime network
 
-freevee
+playlet
 kanopy
 hoopla
 
@@ -32,5 +32,4 @@ iHeart Radio
 audacy
 
 youtube
-playlet
 
