@@ -1,18 +1,22 @@
 
 roku channel
-pluto TV
+cbs
 peacock
 
 tubi
+pluto TV
 pbs
-the CW
 
 local now
 haystack news
-xumo play
+local news live
 
 prime video - amazon
 sling
+philo
+
+xumo play
+the CW
 true crime network
 
 playlet
