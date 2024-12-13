@@ -1,11 +1,11 @@
 
 roku channel
 cbs
-peacock
+nbc
 
 tubi
 pluto TV
-pbs
+peacock
 
 local now
 haystack news
@@ -16,8 +16,8 @@ sling
 philo
 
 xumo play
+pbs
 the CW
-true crime network
 
 playlet
 kanopy
@@ -35,5 +35,6 @@ pandora
 iHeart Radio
 audacy
 
+true crime network
 youtube
 
