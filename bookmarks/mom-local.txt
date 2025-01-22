@@ -22,7 +22,7 @@ Local TV channel lineups
 11.2   PBS WORLD
 11.3   PBS Enhance
 
-13.1   CBS - WIBW
+13.1   CBS - WIBW (Topeka)
 13.2   MeTV
 13.3   H&I
 13.4   startTV
