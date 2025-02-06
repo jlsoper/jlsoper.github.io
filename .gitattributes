@@ -7,6 +7,8 @@
 
 
 #  Windows text files
+*.ini            text   eol=crlf
+*.pls            text   eol=crlf
 *.vcf            text   eol=crlf
 
 
