@@ -1,0 +1,17 @@
+#   /etc/xdg/autostart/
+#  ~/.config/autostart/
+
+#  Icon=internet-web-browser
+#  Icon=thorium-browser
+#  Icon=web-browser
+
+
+[Desktop Entry]
+Name=Web Browser
+Comment=
+Exec=sh -c "\$HOME/AppImage/web-browser.AppImage"
+Icon=web-browser
+Type=Application
+Terminal=false
+StartupNotify=false
+
