@@ -74,8 +74,8 @@ conky.text = [[
 
 ${color goldenrod}Hostname: ${color DeepSkyBlue1}$nodename
 ${color goldenrod}Enet: ${color}${addr eth0}
-${color goldenrod}WiFi: ${color}${addr wlan0}
-${color lime}Linux Kernel: ${color yellow}$kernel
+${color goldenrod}WiFi: ${color}${addr wlp1s0}
+${color green}Linux Kernel: ${color yellow}$kernel
 ${color goldenrod}CPU Details:  ${color magenta}$machine, $freq(MHz)
 ${color}CPU History:  ${color darkgreen}${cpugraph 30,0 0000ff 00ff00}
 ${color}CPU Usage:${color magenta2} $cpu% ${cpubar 11,0}
