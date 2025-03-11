@@ -1,5 +1,34 @@
 BEGIN:VCARD
 VERSION:3.0
+FN:Steve Soper
+N:Soper;Steve;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:soper1979@gmail.com
+TEL;TYPE=MAIN:(402) 915-1979
+ADR;TYPE=HOME:;;6200 S 31st St.;Lincoln;NE;68516;US;6200 S 31st St.\nLincol
+ n\, NE 68516\nUS
+BDAY:19790107
+URL;TYPE=WORK:https\://www.linkedin.com/in/stevenpaulsoper/
+item1.URL:https\://www.youtube.com/@Soper79
+item1.X-ABLabel:_$!<HomePage>!$_
+NOTE:Savannah\nNorah Jo
+CATEGORIES:Family,myContacts,starred
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Trudy Soper
+N:Soper;Trudy;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:tsoper@gmail.com
+EMAIL;TYPE=INTERNET;TYPE=WORK:trudy.soper@rbc.com
+TEL;TYPE=MAIN:(402) 617-7502
+ADR;TYPE=HOME:;;6200 S 31st St.;Lincoln;NE;68516;US;6200 S 31st St.\nLincol
+ n\, NE 68516\nUS
+BDAY:19801210
+URL;TYPE=WORK:https\://www.linkedin.com/in/trudy-soper-063852127/
+NOTE:Savannah\nNorah Jo
+CATEGORIES:Family,myContacts,starred
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
 FN:Airbnb
 N:;Airbnb;;;
 TEL;TYPE=MAIN:(855) 424-7262
@@ -51,7 +80,7 @@ FN:Amanda Skout
 N:Skout;Amanda;;;
 item1.TEL:(727) 369-9250
 item1.X-ABLabel:
-ADR;TYPE=HOME:;;;Wichita;Ks;;;Wichita\, Ks
+ADR;TYPE=HOME:;;;Wichita;KS;;;Wichita\, Ks
 PHOTO:https://lh3.googleusercontent.com/contacts/AG6tpzGADnnBayaAiwde5-s0Zq
  69DtJboiQ2RA5wdKNG70oJVhMCFTGu
 CATEGORIES:Date,myContacts
@@ -200,22 +229,16 @@ FN:Chevrolet
 N:;Chevrolet;;;
 item1.TEL:(817) 854-4958
 item1.X-ABLabel:Grapevine
-item2.TEL:(785) 816-4094
-item2.X-ABLabel:Lawrence
 ADR;TYPE=WORK:;;1101 W State Hwy 114;Grapevine;TX;76051;US;1101 W State Hwy
   114\nGrapevine\, TX 76051\nUS
-ADR:;;2840 Iowa St;Lawrence;KS;66046-4156;US;2840 Iowa St\nLawrence\, KS 66
- 046-4156\nUS
 ORG:Classic
-item3.URL:https\://www.classicchevrolet.com/ServiceApptForm
-item3.X-ABLabel:Classic
-item4.URL:https\://www.dalewilleyauto.com/service/
-item4.X-ABLabel:Lawrence
-item5.URL:https\://a1glasscoating.com/services/automotive-window-tint/
-item5.X-ABLabel:SA
-NOTE:full synthetic SAE 5W-30 dexos1 gen 3 6qt.\nACDelco oil filter PF48E\n
- 6.2L LS3 V8\n481 / 42 miles (trip)\n245 / 40 R 18\n285 / 35 R 19\nFOB CR20
- 32\n15 gal
+item2.URL:https\://www.classicchevrolet.com/ServiceApptForm
+item2.X-ABLabel:Classic
+item3.URL:https\://a1glasscoating.com/services/automotive-window-tint/
+item3.X-ABLabel:SA
+NOTE:full synthetic SAE 5W-30 dexos1 gen 3 6qt.\nACDelco oil filter PF48 /
+ PF48E\n6.2L LS3 V8\n481 / 42 miles (trip)\n245 / 40 R 18\n285 / 35 R 19\nF
+ OB CR2032\n15 gal
 CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
@@ -298,7 +321,7 @@ VERSION:3.0
 FN:Dalton Scott
 N:Scott;Dalton;;;
 EMAIL;TYPE=INTERNET;TYPE=HOME:scott_dalton@hotmail.com
-TEL;TYPE=HOME:(326) 215-2707
+TEL;TYPE=HOME:(326) 215-2707‬
 TEL:(316) 283-8748
 ADR;TYPE=HOME:;;;Newton;KS;67114;US;Newton\, KS 67114\nUS
 NOTE:Amy
@@ -332,16 +355,6 @@ ADR;TYPE=HOME:;;Suite 206 3401 W. Airport Freeway;Irving;TX;75062;US;Suite
  206 3401 W. Airport Freeway\nIrving\, TX 75062\nUS
 ORG:Monarch Dental
 NOTE:Stanley Fitzer\, DDS\nNo Floride rinse
-CATEGORIES:Misc,myContacts
-END:VCARD
-BEGIN:VCARD
-VERSION:3.0
-FN:Discount Tire
-N:Tire;Discount;;;
-EMAIL;TYPE=INTERNET;TYPE=WORK:customerrelations@discounttire.com
-ORG:Denton
-URL:https\://www.discounttire.com/
-NOTE:Mon-Fri 8-1800\, Sat 8-1700
 CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
@@ -421,8 +434,8 @@ item2.TEL:214-849-8966
 item2.X-ABLabel:SERVICE
 item3.TEL:800-231-2222
 item3.X-ABLabel:TICKET
-ADR;TYPE=HOME:;;940 Juan Aldama;Monterrey;Nuevo Leon;64000;Mexico;940 Juan
-  Aldama\nMonterrey\, Nuevo Leon 64000\nMexico
+ADR;TYPE=HOME:;;940 Juan Aldama;Monterrey;Nuevo León;64000;Mexico‎;940 Juan
+  Aldama\nMonterrey\, Nuevo León 64000\nMexico‎
 item4.ADR:;;500 N St Mary's St;San Antonio;TX;78205;;500 N St Mary's St\nSa
  n Antonio\, TX 78205
 item4.X-ABLabel:SA
@@ -491,7 +504,7 @@ item1.X-ABLabel:
 item2.URL:https\://www.pof.com/viewprofile?profileId=353071428
 item2.X-ABLabel:PROFILE
 URL;TYPE=WORK:https\://www.parklandhospital.com/phhs/home.aspx
-NOTE:Jhaney\n41\n5' 2\" (157cm)\n\"Catch me Im fallen lol thats a song
+NOTE:Jhaney\n41\n5' 2\" (157cm)\n\"Catch me I’m fallen😊? lol that’s a song
  .\"\
 PHOTO:https://lh3.googleusercontent.com/contacts/AG6tpzFbHksVSRJo6vQrCY5V12
  d_8DPLoW3_Krwt8qB5xqxvL1gJL0ZY
@@ -519,8 +532,8 @@ item1.X-ABLabel:MAYRA
 TEL;TYPE=CELL:309-212-3927
 item2.TEL:512-937-8562
 item2.X-ABLabel:MAYRA
-ADR;TYPE=HOME:;Residencial Mision Lincoln 2;#6222 Safari;Monterrey;;64110;M
- X;#6222 Safari\nResidencial Mision Lincoln 2\n64110 Monterrey\nMX
+ADR;TYPE=HOME:;Residencial Misión Lincoln 2;#6222 Safari;Monterrey;;64110;M
+ X;#6222 Safari\nResidencial Misión Lincoln 2\n64110 Monterrey\nMX
 item3.ADR:;;Suite 420 12401 Research Blvd;Austin;TX;78759;US;Suite 420 1240
  1 Research Blvd\nAustin\, TX 78759\nUS
 item3.X-ABLabel:Cds-global
@@ -569,6 +582,39 @@ ADR:;;1117 Dallas Dr;Denton;TX;76205-5113;US;1117 Dallas Dr\nDenton\, TX 76
  205-5113\nUS
 ORG:Korean
 NOTE:MySpectrumWiFi9F-5G\ndutymirror210\n\n
+CATEGORIES:Misc,myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Lawrence Automotive Diagnostics
+N:Diagnostics;Lawrence Automotive;;;
+TEL;TYPE=MAIN:‪(785) 503-3371
+NOTE:NAPA full synthetic SAE 5W-30 dexos1 gen 3 6qt.\nACDelco oil filter PF
+ 48 / PF48E\n6.2L LS3 V8\n481 / 42 miles (trip)\n245 / 40 R 18\n285 / 35 R
+ 19\nFOB CR2032\n15 gal
+CATEGORIES:Misc,myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Lawrence Transit
+N:Transit;Lawrence;;;
+EMAIL;TYPE=INTERNET;TYPE=WORK:info@lawrencetransit.org
+TEL;TYPE=MAIN:785-864-4644
+TEL;TYPE=WORK:785-312-7054
+ORG:Bus
+TITLE:On Demand
+item1.URL:https\://lawrencetransit.org/
+item1.X-ABLabel:PROFILE
+item2.URL:https\://lawrencetransit.org/mobile-tools/
+item2.X-ABLabel:_$!<HomePage>!$_
+item3.URL:https\://lawrencetransit.org/on-demand/
+item3.X-ABLabel:On Demand
+NOTE:shared ride service\:\nDay\n8 am – 6 pm\, Sunday\n\nNight\n8 pm – 6 am
+ \, Monday – Saturday\n12 am – 6 am\, Sunday\n-----\nphone reserve\: 8-5 mo
+ n-sat\nAll buses are free in 2024. This includes fixed-route\, T Lift\, an
+ d Lawrence Transit On Demand.
+PHOTO:https://lh3.googleusercontent.com/contacts/AG6tpzEn8FcfY5PMC8vFOsOQ52
+ wE9ZtUq8AHg43s7iTfEOTSa2CiK2wU
 CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
@@ -1029,19 +1075,6 @@ CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
-FN:Cheryl Hicklin
-N:Hicklin;Cheryl;;;
-EMAIL;TYPE=INTERNET;TYPE=HOME:chicklin8566@gmail.com
-EMAIL;TYPE=INTERNET:LeilaCheryl8566@gmail.com
-TEL;TYPE=CELL:(785) 691-5607
-ADR;TYPE=HOME:;;1570 N. 962 Road;Lawrence;KS;66046;US;1570 N. 962 Road\nLaw
- rence\, KS 66046\nUS
-BDAY:19660922
-NOTE:(785) 842-1564\nTy & Melissa\n
-CATEGORIES:Family,myContacts,starred
-END:VCARD
-BEGIN:VCARD
-VERSION:3.0
 FN:Leila Soper
 N:Soper;Leila;;;
 item1.EMAIL;TYPE=INTERNET:soperleila@gmail.com
@@ -1055,30 +1088,24 @@ CATEGORIES:Family,myContacts,starred
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
-FN:Steve Soper
-N:Soper;Steve;;;
-EMAIL;TYPE=INTERNET;TYPE=HOME:soper1979@gmail.com
-TEL;TYPE=MAIN:(402) 915-1979
-ADR;TYPE=HOME:;;6200 S 31st St.;Lincoln;NE;68516;US;6200 S 31st St.\nLincol
- n\, NE 68516\nUS
-BDAY:19790107
-URL;TYPE=WORK:https\://www.linkedin.com/in/stevenpaulsoper/
-item1.URL:https\://www.youtube.com/@Soper79
-item1.X-ABLabel:_$!<HomePage>!$_
-NOTE:Savannah\nNorah Jo
-CATEGORIES:Family,myContacts,starred
+FN:Discount Tire
+N:Tire;Discount;;;
+EMAIL;TYPE=INTERNET;TYPE=WORK:customerrelations@discounttire.com
+ORG:Denton
+URL:https\://www.discounttire.com/
+NOTE:Mon-Fri 8-1800\, Sat 8-1700
+CATEGORIES:Misc,myContacts,starred
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
-FN:Trudy Soper
-N:Soper;Trudy;;;
-EMAIL;TYPE=INTERNET;TYPE=HOME:tsoper@gmail.com
-EMAIL;TYPE=INTERNET;TYPE=WORK:trudy.soper@rbc.com
-TEL;TYPE=MAIN:(402) 617-7502
-ADR;TYPE=HOME:;;6200 S 31st St.;Lincoln;NE;68516;US;6200 S 31st St.\nLincol
- n\, NE 68516\nUS
-BDAY:19801210
-URL;TYPE=WORK:https\://www.linkedin.com/in/trudy-soper-063852127/
-NOTE:Savannah\nNorah Jo
+FN:Cheryl Hicklin
+N:Hicklin;Cheryl;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:chicklin8566@gmail.com
+EMAIL;TYPE=INTERNET:LeilaCheryl8566@gmail.com
+TEL;TYPE=CELL:(785) 691-5607
+ADR;TYPE=HOME:;;1570 N. 962 Road;Lawrence;KS;66046;US;1570 N. 962 Road\nLaw
+ rence\, KS 66046\nUS
+BDAY:19660922
+NOTE:(785) 842-1564\nTy & Melissa\n
 CATEGORIES:Family,myContacts,starred
 END:VCARD
