@@ -1,0 +1,55 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+<meta charset="utf-8">
+
+<title>youTube</title>
+
+</head>
+
+
+<body>
+
+<h1>Video Links</h1>
+
+
+<a href="https://api.invidious.io/?sort_by=location">Invidious - servers (API)</a><br>
+<br>
+
+<form name="form1"  action="javascript:void(0);">
+  <select name="dropdownlist">
+        <option selected="selected" value="https://inv.nadeko.net/">inv.nadeko.net</option>
+        <option                     value="https://iv.ggtyler.dev/">iv.ggtyler.dev</option>
+        <option                     value="https://inv.tux.pizza/">inv.tux.pizza</option>
+        <option                     value="https://invidious.drgns.space/">invidious.drgns.space</option>
+        <option                     value="https://inv.us.projectsegfau.lt/">inv.us.projectsegfau.lt</option>
+        <option                     value="https://invidious.incogniweb.net/">invidious.incogniweb.net</option>
+        <option                     value="https://invidious.darkness.services/">invidious.darkness.services</option>
+  </select>
+
+  <input type="button" value="Go!" onclick="GotoURL(this.form)">
+
+  <script>
+    function GotoURL(dl)
+    {
+      // top.location.href = dl.dropdownlist.options[dl.dropdownlist.selectedIndex].value;
+      window.open(dl.dropdownlist.options[dl.dropdownlist.selectedIndex].value, "_blank");
+    }
+  </script>
+</form>
+
+<pre style="font-size: 24px">  <!-- preformatted text (fixed width font, preserve whitespace) -->
+
+<a href="https://inv.nadeko.net/channel/UCd9L1l2Odu2cND3ILHiuJQQ">Basaraski Productions - Packers</a>
+
+<a href="https://yewtu.be/channel/UCT0UjPTPEwtOH1ZVz-ueB8w">GoPowercat - KSU</a>
+
+<a href="https://inv.nadeko.net/channel/UCufUP6i_pdfTjqVEswITOmw">Locked on Packers</a>
+
+</pre>
+
+</body>
+</html>
+
