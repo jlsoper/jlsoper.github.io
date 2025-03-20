@@ -1,59 +1,64 @@
-<html>
+<!doctype html>
+
+<html lang="en">
 
 <head>
-  <title>vmachine</title>
+<meta charset="utf-8">
+
+<title>vmachine</title>
+
 </head>
 
 <body>
 
+
 <h1>VM Links</h1>
 
 
-<DL><p>
-    <DT><A HREF="https://www.qemu.org/">QEMU - open source machine emulator</A>
-        <DD>disk image - .qcow2
-        <DD>/var/lib/libvirt/images
-        <DD>Host key --- Ctrl (left) + Alt (left)
-    <DT><A HREF="text/setup-Qemu-Devuan.txt">Qemu steps - Devuan</A>
-        <DD><A HREF="text/sharedF.xml">shared folder - virtiofs</A>
-    <DT><A HREF="https://www.debugpoint.com/kvm-share-folder-windows-guest/">Share folder - Windows guest Linux host [ KVM ]</A>
-    <DT><A HREF="https://libvirt.org/">libvirt - Virtualization API</A>
-    <DT><A HREF="https://www.linux-kvm.org/page/Main_Page">KVM - Kernel Virtual Machine</A>
-        <DD>CPU: 4   MEM: 10240 MB   HD: 45  GB
-        <DD>CPU: 6   MEM: 12288 MB   HD: 400 GB
-    <DT><A HREF="https://virt-manager.org/">Virt-manager</A>
-        <DD>RedHat
-    <DT><A HREF="https://www.spice-space.org/">Spice - OSS (remote access) to VM</A>
-<HR>
-    <DT><A HREF="https://learn.microsoft.com/en-us/windows/wsl/install">Install Linux on Windows with WSL</A>
-    <DT><A HREF="https://learn.microsoft.com/en-us/windows/wsl/basic-commands">Basic commands for WSL</A>
-    <DT><A HREF="https://learn.microsoft.com/en-us/windows/wsl/install-manual">Manual Install of WSL</A>
-        <DD>Step 4 - Download the Linux kernel update package (wsl_update_x64.msi)
-    <DT><A HREF="https://learn.microsoft.com/en-us/windows/wsl/filesystems">WSL - Working across Windows and Linux file systems</A>
-    <DT><A HREF="https://learn.microsoft.com/en-us/windows/wsl/wsl-config">WSL - Advanced settings configuration</A>
-<HR>
-    <DT><A HREF="https://en.wikipedia.org/wiki/VirtualBox">VirtualBox (wiki)</A>
-        <DD>CPU: 2   MEM: 8192, 10240 MB   HD: 32 GB (.vdi)
-        <DD><b>1920 x 1080  60 hz</b>
-        <DD>disk image - .ova
-    <DT><A HREF="https://download.virtualbox.org/virtualbox/6.1.32/">VirtualBox - index (6.1.32)</A>
-        <DD>virtualbox
-        <DD>virtualbox-guest-iso   [VirtualBox Guest Additions ISO]
-        <DD>linux<b>***</b>-virtualbox-host-modules   [<b>***</b> match the kernel version running]
-        <DD>-----
-        <DD>Oracle_VM_VirtualBox_Extension_Pack-6.1.32.vbox-extpack
-        <DD>-----
-        <DD>net use x: \\vboxsvr\sharename
-        <DD>mount -t vboxsf [-o OPTIONS] sharename mountpoint
-        <DD>sharename   mountpoint   vboxsf   defaults  0   0   [ <b>/etc/fstab</b> ]
-        <DD>-----
-        <DD>/opt/VBox/VMachines
-        <DD>/opt/VBox/sharedF
-        <DD>Host key ---  Ctrl (right)
-    <DT><A HREF="https://docs.oracle.com/en/virtualization/virtualbox/6.0/user/Introduction.html">VirtualBox - User Manual</A>
-        <DD><A HREF="https://arcolinux.com/how-to-set-virtualbox-6-the-correct-way-graphical-controller-workflow/">graphics controller: VBoxSVGA ( no 3D accel )</A>
-    <DT><A HREF="https://wiki.manjaro.org/index.php?title=VirtualBox">VirtualBox - Manjaro doc</A>
-</DL><p>
+  <a href="https://www.qemu.org/">QEMU - open source machine emulator</a><br>
+    &nbsp;&nbsp;&nbsp; disk image - .qcow2<br>
+    &nbsp;&nbsp;&nbsp; /var/lib/libvirt/images<br>
+    &nbsp;&nbsp;&nbsp; Host key --- Ctrl (left) + Alt (left)<br>
+  <a href="text/setup-Qemu-Devuan.txt">Qemu steps - Devuan</a><br>
+    &nbsp;&nbsp;&nbsp; <a href="text/sharedF.xml">shared folder - virtiofs</a><br>
+  <a href="https://www.debugpoint.com/kvm-share-folder-windows-guest/">Share folder - Windows guest Linux host [ KVM ]</a><br>
+  <a href="https://libvirt.org/">libvirt - Virtualization API</a><br>
+  <a href="https://www.linux-kvm.org/page/Main_Page">KVM - Kernel Virtual Machine</a><br>
+    &nbsp;&nbsp;&nbsp; CPU: 4   MEM: 10240 MB   HD: 45  GB<br>
+    &nbsp;&nbsp;&nbsp; CPU: 6   MEM: 12288 MB   HD: 400 GB<br>
+  <a href="https://virt-manager.org/">Virt-manager</a><br>
+    &nbsp;&nbsp;&nbsp; RedHat<br>
+  <a href="https://www.spice-space.org/">Spice - OSS (remote access) to VM</a><br>
+<hr>
+  <a href="https://learn.microsoft.com/en-us/windows/wsl/install">Install Linux on Windows with WSL</a><br>
+  <a href="https://learn.microsoft.com/en-us/windows/wsl/basic-commands">Basic commands for WSL</a><br>
+  <a href="https://learn.microsoft.com/en-us/windows/wsl/install-manual">Manual Install of WSL</a><br>
+    &nbsp;&nbsp;&nbsp; Step 4 - Download the Linux kernel update package (wsl_update_x64.msi)<br>
+  <a href="https://learn.microsoft.com/en-us/windows/wsl/filesystems">WSL - Working across Windows and Linux file systems</a><br>
+  <a href="https://learn.microsoft.com/en-us/windows/wsl/wsl-config">WSL - Advanced settings configuration</a><br>
+<hr>
+  <a href="https://en.wikipedia.org/wiki/VirtualBox">VirtualBox (wiki)</a><br>
+    &nbsp;&nbsp;&nbsp; CPU: 2   MEM: 8192, 10240 MB   HD: 32 GB (.vdi)<br>
+    &nbsp;&nbsp;&nbsp; <b>1920 x 1080  60 hz</b><br>
+    &nbsp;&nbsp;&nbsp; disk image - .ova<br>
+  <a href="https://download.virtualbox.org/virtualbox/6.1.32/">VirtualBox - index (6.1.32)</a><br>
+    &nbsp;&nbsp;&nbsp; virtualbox<br>
+    &nbsp;&nbsp;&nbsp; virtualbox-guest-iso   [VirtualBox Guest Additions ISO]<br>
+    &nbsp;&nbsp;&nbsp; linux<b>***</b>-virtualbox-host-modules   [<b>***</b> match the kernel version running]<br>
+    &nbsp;&nbsp;&nbsp; -----<br>
+    &nbsp;&nbsp;&nbsp; Oracle_VM_VirtualBox_Extension_Pack-6.1.32.vbox-extpack<br>
+    &nbsp;&nbsp;&nbsp; -----<br>
+    &nbsp;&nbsp;&nbsp; net use x: \\vboxsvr\sharename<br>
+    &nbsp;&nbsp;&nbsp; mount -t vboxsf [-o OPTIONS] sharename mountpoint<br>
+    &nbsp;&nbsp;&nbsp; sharename   mountpoint   vboxsf   defaults  0   0   [ <b>/etc/fstab</b> ]<br>
+    &nbsp;&nbsp;&nbsp; -----<br>
+    &nbsp;&nbsp;&nbsp; /opt/VBox/VMachines<br>
+    &nbsp;&nbsp;&nbsp; /opt/VBox/sharedF<br>
+    &nbsp;&nbsp;&nbsp; Host key ---  Ctrl (right)<br>
+  <a href="https://docs.oracle.com/en/virtualization/virtualbox/6.0/user/Introduction.html">VirtualBox - User Manual</a><br>
+    &nbsp;&nbsp;&nbsp; <a href="https://arcolinux.com/how-to-set-virtualbox-6-the-correct-way-graphical-controller-workflow/">graphics controller: VBoxSVGA ( no 3D accel )</a><br>
+  <a href="https://wiki.manjaro.org/index.php?title=VirtualBox">VirtualBox - Manjaro doc</a><br>
 
 </body>
 </html>
+
