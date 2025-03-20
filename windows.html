@@ -1,13 +1,19 @@
 <!doctype html>
 
+<html lang="en">
+
 <head>
-  <title>windows</title>
+<meta charset="utf-8">
+
+<title>windows</title>
+
 </head>
 
 
 <body>
 
-<h3>
+<p style="font-size: 20px">
+<strong>
 Alt + Tab
 <br>
 Windows Key + Tab
@@ -22,13 +28,18 @@ Windows ( \ ; )
 <br>
  (Name, Size, Type, Date modified, Attributes, Link target)
 
+</strong>
+</p>
 
-<p style="color:blue">
+<p style="font-size: 20px;color:blue">
+<strong>
 ftp://[user[:password]@]host[:port]/url-path
+</strong>
 </p>
 
 <hr>
-<p style="color:purple">
+<p style="font-size: 20px;color:purple">
+<strong>
 %SystemRoot%\explorer.exe /n,/e,C:\
 <br>
 %SystemRoot%\explorer.exe /n,/e,%USERPROFILE%
@@ -38,10 +49,12 @@ ftp://[user[:password]@]host[:port]/url-path
 <br>
 %windir%\system32\diskmgmt.msc
 <br>
+</strong>
 </p>
 <hr>
 
-<br>
+<p style="font-size: 20px">
+<strong>
 C:\Windows\System32\cmd.exe /T:0B /K cd\ && SET DIRCMD=/a /ogen && TITLE console
 <br>
 <br>
@@ -58,170 +71,192 @@ C:\Program Files (x86) --> 32 bit programs
 C:\PROGRA~2
 <br>
 ------------------------------------
-<br>
+</strong>
+</p>
 
-<p style="color:brown">
+
+<p style="font-size: 20px;color:brown">
+<strong>
 C:\ProgramData  ==  C:\Users\All Users
 <br>
 <i>
 &nbsp;(hidden folder)
 </i>
-
+</strong>
 </p>
 
-<p style="color:purple">
+<p style="font-size: 20px;color:purple">
+<strong>
 "%USERPROFILE%\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\StartMenu"
 <br>
 "%USERPROFILE%\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar"
 <br>
-
+</strong>
 </p>
 
 
+<p style="font-size: 20px">
+<strong>
 C:\ProgramData\Microsoft\Windows\Start Menu\Programs\
 <br>
 C:\Users\<i> (userID) </i>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
-<p style="color:blue">
-C:\Windows\System32\shell32.dll (Icons)
-</p>
-<p style="color:purple">
-file:///C:/Windows/System32/drivers/etc/hosts
+</strong>
 </p>
 
+<p style="font-size: 20px;color:blue">
+<strong>
+C:\Windows\System32\shell32.dll (Icons)
+</strong>
+</p>
+
+<p style="font-size: 20px;color:purple">
+<strong>
+file:///C:/Windows/System32/drivers/etc/hosts
+</strong>
+</p>
+
+<p style="font-size: 20px">
+<strong>
 ------------------------------------
 <br>
 PS C:\Users\James> Get-AppxPackage | Select Name, PackageFullName > Apps.txt
 <br>
 <br>
 
-<DL><p>
-    <dt><a href="text/path-windows.txt">PATH - Windows 10</a>
-    <dt><a href="https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/doskey">doskey - aliases</a>
-        <DD>doskey - alias not work for empty string comparison (.cmd better)
-    <DT><A HREF="windows-pkgmgr.html">Package Managers for Windows</A>
-<hr>
-    <DT><A HREF="https://www.microsoft.com/en-us/store/apps/windows">Windows Apps - Microsoft Store</A>
-    <DT><A HREF="https://www.microsoft.com/en-us/store/top-free/apps/pc">Windows Top free apps (Win 10)</A>
-    <DT><A HREF="https://massgrave.dev/windows_ltsc_links#win10-enterprise-ltsc-2021">Windows LTSC Download</A>
-        <DD>Microsoft Activation Scripts (MAS)
-        <DD>LTSC release approx. every 3 years
-    <dt><a href="vmachine.html">Windows Subsystem for Linux (WSL) - VM</a>
-<hr>
-    <DT><A HREF="https://archive.org/details/tiny-10-23-h2">Tiny 10 23H2 - download</A>
-        <DD>Windows 10 IoT Enterprise LTSC
-    <DT><A HREF="https://ntdev.blog/2024/01/08/the-complete-tiny10-and-tiny11-list/">The official and complete tiny10 and tiny11 list</A>
-    <DT><A HREF="Win10_userprofile_dir-b.txt.html">Win 10 %userprofile% (directory)</A>
-<hr>
-    <DT><A HREF="http://www.bitdefender.com/solutions/free.html">Bitdefender Antivirus (free)</A>
-    <DT><A HREF="http://www.bitdefender.com/scanner/online/free.html">Bitdefender Online Scanner</A>
-    <DT><A HREF="http://www.avast.com/free-antivirus-download">avast Antivirus</A>
-    <DT><A HREF="http://www.pandasecurity.com/usa/homeusers/solutions/free-antivirus/">Panda Antivirus</A>
-        <DD>change "Panda news" button to Off from On
-    <DT><A HREF="https://www.virustotal.com/">Virustotal</A>
-    <DT><A HREF="http://www.f-secure.com/en_US/security/security-lab/tools-and-services/online-scanner/index.html">F-Secure Online Scanner</A>
-    <DT><A HREF="http://housecall.trendmicro.com/">Trend Micro Online Scanner</A>
-    <DT><A HREF="https://www.av-test.org/en/antivirus/home-windows/">AV-Test (Windows)</A>
-<hr>
-    <DT><A HREF="http://bugmenot.com/">BugMeNot (share logins)</A>
-<HR>
-    <DT><A HREF="http://en.wikipedia.org/wiki/Windows_Registry#Editing">Windows Registry - Editing</A>
-    <DT><A HREF="http://tf.nist.gov/tf-cgi/servers.cgi">NIST Internet Time Servers</A>
-    <DT><A HREF="http://rocketdock.com/">RocketDock</A>
-    <DT><A HREF="http://www.glenn.delahoy.com/software/">Desktop Info (conky)</A>
-    <DT><A HREF="https://winscp.net/eng/downloads.php">WinSCP - FTP client (portable)</A>
-    <DT><A HREF="http://www.qbittorrent.org/">qBittorrent</A>
-    <DT><A HREF="http://www.ccleaner.com/">CCleaner</A>
-    <DT><A HREF="http://www.dopdf.com/">doPDF printer driver</A>
-    <DT><A HREF="http://www.rotatepdf.net/">Rotate PDF</A>
-<HR>
-    <DT><A HREF="https://atlasos.net/">Atlas OS</A>
-        <DD>stripped down Win 10/11
-    <DT><A HREF="https://www.hirensbootcd.org/">Hiren's BootCD PE</A>
-        <DD>based on Windows 10 PE x64
-    <DT><A HREF="http://www.cdburnerxp.se/">CDBurnerXP</A>
-    <DT><A HREF="http://www.imgburn.com/">ImgBurn</A>
-    <DT><A HREF="http://www.runtime.org/driveimage-xml.htm">DriveImage XML</A>
-    <DT><A HREF="http://www.macrium.com/reflectfree.aspx">Macrium Reflect Free</A>
-<HR>
-    <DT><A HREF="http://www.mydigitallife.info/2007/05/27/free-ramdisk-for-windows-vista-xp-2000-and-2003-server/">Ramdisk (Gavotte)</A>
-    <DT><A HREF="http://www.microsoft.com/windowsxp/downloads/powertoys/xppowertoys.mspx">Windows PowerToys (Tweak UI, Deskman)</A>
-    <DT><A HREF="http://virtuawin.sourceforge.net/">VirtuaWin - virtual desktop manager</A>
-        <DD>module -> SwitchDesk
-    <DT><A HREF="http://www.microsoft.com/windows/lifecycle/servicepacks.mspx">Windows Service Pack Road Map</A>
-    <DT><A HREF="http://www.nirsoft.net/utils/product_cd_key_viewer.html">ProduKey - recover lost product keys</A>
-    <DT><A HREF="https://www.keepassx.org/">KeePassX - password manager</A>
-    <DT><A HREF="https://keepassxc.org/">KeePassXC</A>
-<HR>
-    <DT><A HREF="http://www.audiograbber.com-us.net/">Audiograbber</A>
-    <DT><A HREF="http://audacity.sourceforge.net/">Audacity</A>
-    <DT><A HREF="http://lame.sourceforge.net/">LAME MP3 encoder</A>
-    <DT><A HREF="http://www.rarewares.org/mp3.php">LAME binaries</A>
-    <DT><A HREF="http://coolplayer.sourceforge.net/">CoolPlayer</A>
-    <DT><A HREF="http://www.softpedia.com/get/PORTABLE-SOFTWARE/Multimedia/Audio/Windows-Portable-Applications-Portable-Winamp.shtml">Portable Winamp</A>
-    <DT><A HREF="https://winampheritage.com/download-winamp-player">WinAmp 5.66 full/lite</A>
-    <DT><A HREF="https://winampheritage.com/skins/Stylish-13">WinAmp skins</A>
-    <DT><A HREF="http://www.quinnware.com/">Quintessential Media Player</A>
-    <DT><A HREF="http://www.videolan.org/vlc/">VLC media player</A>
-    <DT><A HREF="http://www.bsplayer.org/">BS.player</A>
-    <DT><A HREF="http://handbrake.fr/">HandBrake - video transcoder</A>
-    <DT><A HREF="https://www.makemkv.com/">MakeMKV</A>
-<HR>
-    <DT><A HREF="http://www.belarc.com/free_download.html">Belarc Advisor - Free Personal PC Audit</A>
-    <DT><A HREF="http://explorerplusplus.com/">Explorer++</A>
-    <DT><A HREF="https://meld.app/">Meld - diff tool</A>
-        <DD><A HREF="https://github.com/2wayne/MeldPortable">MeldPortable (GitHub)</A>
-    <DT><A HREF="https://www.git-tower.com/blog/diff-tools-windows">Diff tools 4 Windows</A>
-    <DT><A HREF="http://www.9bis.net/kitty/">KiTTY</A>
-        <DD>PuTTY fork - ssh client
-    <DT><A HREF="http://www.straightrunning.com/XmingNotes/">Xming X Server</A>
-    <DT><A HREF="https://gitforwindows.org/">Git for Windows</A>
-        <DD>git-bash.exe
-    <DT><A HREF="https://tortoisegit.org/">TortoiseGit</A>
-        <DD>Windows shell extension
-        <DD><A HREF="https://tortoisegit.org/docs/tortoisegit/">TortoiseGit Manual</A>
-    <DT><A HREF="http://tortoisesvn.net/">TortoiseSVN</A>
-    <DT><A HREF="http://www.md5summer.org/">Md5Summer</A>
-    <DT><A HREF="http://www.den4b.com/?x=downloads">ReNamer</A>
-    <DT><A HREF="http://www.flos-freeware.ch/notepad2.html">Notepad2</A>
-        <DD><A HREF="https://xhmikosr.github.io/notepad2-mod/">Notepad2-mod</A>
-    <DT><A HREF="http://www.textpad.com/download/">TextPad</A>
-    <DT><A HREF="https://github.com/zzzprojects/findandreplace">Find & Replace (FNR)</A>
-    <DT><A HREF="http://www.7-zip.org/">7-Zip</A>
-    <DT><A HREF="http://www.zabkat.com/x2lite.htm">xplorer2</A>
-    <DT><A HREF="http://www.primitus.us/a43/">A43 File Management Utility</A>
-<HR>
-    <DT><A HREF="http://portableapps.com/">PortableApps.com</A>
-    <DT><A HREF="https://www.portablefreeware.com/">Portable Freeware</A>
-    <DT><A HREF="http://www.pendriveapps.com/">Pendriveapps.com</A>
-    <DT><A HREF="http://www.softpedia.com/get/PORTABLE-SOFTWARE/">Softpedia portable software</A>
-    <DT><A HREF="http://www.deepburner.com/download/DeepBurner1_Portable.zip">DeepBurner Free Portable</A>
-<HR>
-    <DT><A HREF="http://www.nu2.nu/pebuilder/">BartPE</A>
-    <DT><A HREF="http://www.ubcd4win.com/">UBCD4Win.com</A>
-    <DT><A HREF="http://winbuilder.net/">WinBuilder</A>
-    <DT><A HREF="http://www.vistape.net/">Vista PE</A>
-    <DT><A HREF="http://www.bootdisk.com/bootdisk.htm">Free Boot Disks</A>
-<HR>
-    <DT><A HREF="http://tweaks.com/software/tweakslogon/">Tweaks.com Logon Changer for Windows 7</A>
-    <DT><A HREF="http://www.litepc.com/">litePC.com</A>
-    <DT><A HREF="http://www.nliteos.com/nlite.html">nLite Windows OS</A>
-    <DT><A HREF="http://www.annoyances.org">Windows Annoyances</A>
-    <DT><A HREF="http://members.driverguide.com/ums/index.php?action=l">DriverGuide.com</A>
-        <DD>drivers,all
-    <DT><A HREF="http://technet.microsoft.com/">Microsoft TechNet</A>
-    <DT><A HREF="http://www.download.com/">Cnet Download.com</A>
-    <DT><A HREF="http://www.toptenreviews.com/">Top Ten Reviews</A>
-    <DT><A HREF="http://www.tucows.com/">Tucows</A>
-    <DT><A HREF="http://www.winplanet.com">WinPlanet.com</A>
-    <DT><A HREF="http://www.simtel.net/">Simtel</A>
-    <DT><A HREF="http://www.oldversion.com/">OldVersion.com</A>
-    <DT><A HREF="http://www.tinyapps.org/">TinyApps</A>
-    <DT><A HREF="http://www.chami.com/tips/windows/">Chami.com Windows tips</A>
-    <DT><A HREF="http://www.onecomputerguy.com/tips.htm">Bob Cerelli's Windows tips</A>
-    <DT><A HREF="http://www.windowsnetworking.com/">World of Windows Networking</A>
-    <DT><A HREF="http://www.computerhope.com/ac.htm">Autoexec.bat and Config.sys Info</A>
-    <DT><A HREF="http://www.computerhope.com/batch.htm">Batch File Help</A>
-</DL><p>
+</strong>
+</p>
+
+<strong>
+
+  <a href="text/path-windows.txt">PATH - Windows 10</a><br>
+  <a href="https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/doskey">doskey - aliases</a><br>
+    &nbsp;&nbsp;&nbsp; doskey - alias not work for empty string comparison (.cmd better)<br>
+  <a href="windows-pkgmgr.html">Package Managers for Windows</a><br>
+</strong><hr><strong>
+  <a href="https://www.microsoft.com/en-us/store/apps/windows">Windows Apps - Microsoft Store</a><br>
+  <a href="https://www.microsoft.com/en-us/store/top-free/apps/pc">Windows Top free apps (Win 10)</a><br>
+  <a href="https://massgrave.dev/windows_ltsc_links#win10-enterprise-ltsc-2021">Windows LTSC Download</a><br>
+    &nbsp;&nbsp;&nbsp; Microsoft Activation Scripts (MAS)<br>
+    &nbsp;&nbsp;&nbsp; LTSC release approx. every 3 years<br>
+  <a href="vmachine.html">Windows Subsystem for Linux (WSL) - VM</a>
+</strong><hr><strong>
+  <a href="https://archive.org/details/tiny-10-23-h2">Tiny 10 23H2 - download</a><br>
+    &nbsp;&nbsp;&nbsp; Windows 10 IoT Enterprise LTSC<br>
+  <a href="https://ntdev.blog/2024/01/08/the-complete-tiny10-and-tiny11-list/">The official and complete tiny10 and tiny11 list</a><br>
+  <a href="Win10_userprofile_dir-b.txt.html">Win 10 %userprofile% (directory)</a><br>
+</strong><hr><strong>
+  <a href="http://www.bitdefender.com/solutions/free.html">Bitdefender Antivirus (free)</a><br>
+  <a href="http://www.bitdefender.com/scanner/online/free.html">Bitdefender Online Scanner</a><br>
+  <a href="http://www.avast.com/free-antivirus-download">avast Antivirus</a><br>
+  <a href="http://www.pandasecurity.com/usa/homeusers/solutions/free-antivirus/">Panda Antivirus</a><br>
+    &nbsp;&nbsp;&nbsp; change "Panda news" button to Off from On<br>
+  <a href="https://www.virustotal.com/">Virustotal</a><br>
+  <a href="http://www.f-secure.com/en_US/security/security-lab/tools-and-services/online-scanner/index.html">F-Secure Online Scanner</a><br>
+  <a href="http://housecall.trendmicro.com/">Trend Micro Online Scanner</a><br>
+  <a href="https://www.av-test.org/en/antivirus/home-windows/">AV-Test (Windows)</a><br>
+</strong><hr><strong>
+  <a href="http://bugmenot.com/">BugMeNot (share logins)</a><br>
+</strong><hr><strong>
+  <a href="http://en.wikipedia.org/wiki/Windows_Registry#Editing">Windows Registry - Editing</a><br>
+  <a href="http://tf.nist.gov/tf-cgi/servers.cgi">NIST Internet Time Servers</a><br>
+  <a href="http://rocketdock.com/">RocketDock</a><br>
+  <a href="http://www.glenn.delahoy.com/software/">Desktop Info (conky)</a><br>
+  <a href="https://winscp.net/eng/downloads.php">WinSCP - FTP client (portable)</a><br>
+  <a href="http://www.qbittorrent.org/">qBittorrent</a><br>
+  <a href="http://www.ccleaner.com/">CCleaner</a><br>
+  <a href="http://www.dopdf.com/">doPDF printer driver</a><br>
+  <a href="http://www.rotatepdf.net/">Rotate PDF</a><br>
+</strong><hr><strong>
+  <a href="https://atlasos.net/">Atlas OS</a><br>
+    &nbsp;&nbsp;&nbsp; stripped down Win 10/11<br>
+  <a href="https://www.hirensbootcd.org/">Hiren's BootCD PE</a><br>
+    &nbsp;&nbsp;&nbsp; based on Windows 10 PE x64<br>
+  <a href="http://www.cdburnerxp.se/">CDBurnerXP</a><br>
+  <a href="http://www.imgburn.com/">ImgBurn</a><br>
+  <a href="http://www.runtime.org/driveimage-xml.htm">DriveImage XML</a><br>
+  <a href="http://www.macrium.com/reflectfree.aspx">Macrium Reflect Free</a><br>
+</strong><hr><strong>
+  <a href="http://www.mydigitallife.info/2007/05/27/free-ramdisk-for-windows-vista-xp-2000-and-2003-server/">Ramdisk (Gavotte)</a><br>
+  <a href="http://www.microsoft.com/windowsxp/downloads/powertoys/xppowertoys.mspx">Windows PowerToys (Tweak UI, Deskman)</a><br>
+  <a href="http://virtuawin.sourceforge.net/">VirtuaWin - virtual desktop manager</a><br>
+    &nbsp;&nbsp;&nbsp; module -> SwitchDesk<br>
+  <a href="http://www.microsoft.com/windows/lifecycle/servicepacks.mspx">Windows Service Pack Road Map</a><br>
+  <a href="http://www.nirsoft.net/utils/product_cd_key_viewer.html">ProduKey - recover lost product keys</a><br>
+  <a href="https://www.keepassx.org/">KeePassX - password manager</a><br>
+  <a href="https://keepassxc.org/">KeePassXC</a><br>
+</strong><hr><strong>
+  <a href="http://www.audiograbber.com-us.net/">Audiograbber</a><br>
+  <a href="http://audacity.sourceforge.net/">Audacity</a><br>
+  <a href="http://lame.sourceforge.net/">LAME MP3 encoder</a><br>
+  <a href="http://www.rarewares.org/mp3.php">LAME binaries</a><br>
+  <a href="http://coolplayer.sourceforge.net/">CoolPlayer</a><br>
+  <a href="http://www.softpedia.com/get/PORTABLE-SOFTWARE/Multimedia/Audio/Windows-Portable-Applications-Portable-Winamp.shtml">Portable Winamp</a><br>
+  <a href="https://winampheritage.com/download-winamp-player">WinAmp 5.66 full/lite</a><br>
+  <a href="https://winampheritage.com/skins/Stylish-13">WinAmp skins</a><br>
+  <a href="http://www.quinnware.com/">Quintessential Media Player</a><br>
+  <a href="http://www.videolan.org/vlc/">VLC media player</a><br>
+  <a href="http://www.bsplayer.org/">BS.player</a><br>
+  <a href="http://handbrake.fr/">HandBrake - video transcoder</a><br>
+  <a href="https://www.makemkv.com/">MakeMKV</a><br>
+</strong><hr><strong>
+  <a href="http://www.belarc.com/free_download.html">Belarc Advisor - Free Personal PC Audit</a><br>
+  <a href="http://explorerplusplus.com/">Explorer++</a><br>
+  <a href="https://meld.app/">Meld - diff tool</a><br>
+    &nbsp;&nbsp;&nbsp; <a href="https://github.com/2wayne/MeldPortable">MeldPortable (GitHub)</a><br>
+  <a href="https://www.git-tower.com/blog/diff-tools-windows">Diff tools 4 Windows</a><br>
+  <a href="http://www.9bis.net/kitty/">KiTTY</a><br>
+    &nbsp;&nbsp;&nbsp; PuTTY fork - ssh client<br>
+  <a href="http://www.straightrunning.com/XmingNotes/">Xming X Server</a><br>
+  <a href="https://gitforwindows.org/">Git for Windows</a><br>
+    &nbsp;&nbsp;&nbsp; git-bash.exe<br>
+  <a href="https://tortoisegit.org/">TortoiseGit</a><br>
+    &nbsp;&nbsp;&nbsp; Windows shell extension<br>
+    &nbsp;&nbsp;&nbsp; <a href="https://tortoisegit.org/docs/tortoisegit/">TortoiseGit Manual</a><br>
+  <a href="http://tortoisesvn.net/">TortoiseSVN</a><br>
+  <a href="http://www.md5summer.org/">Md5Summer</a><br>
+  <a href="http://www.den4b.com/?x=downloads">ReNamer</a><br>
+  <a href="http://www.flos-freeware.ch/notepad2.html">Notepad2</a><br>
+    &nbsp;&nbsp;&nbsp; <a href="https://xhmikosr.github.io/notepad2-mod/">Notepad2-mod</a><br>
+  <a href="http://www.textpad.com/download/">TextPad</a><br>
+  <a href="https://github.com/zzzprojects/findandreplace">Find & Replace (FNR)</a><br>
+  <a href="http://www.7-zip.org/">7-Zip</a><br>
+  <a href="http://www.zabkat.com/x2lite.htm">xplorer2</a><br>
+  <a href="http://www.primitus.us/a43/">A43 File Management Utility</a><br>
+</strong><hr><strong>
+  <a href="http://portableapps.com/">PortableApps.com</a><br>
+  <a href="https://www.portablefreeware.com/">Portable Freeware</a><br>
+  <a href="http://www.pendriveapps.com/">Pendriveapps.com</a><br>
+  <a href="http://www.softpedia.com/get/PORTABLE-SOFTWARE/">Softpedia portable software</a><br>
+  <a href="http://www.deepburner.com/download/DeepBurner1_Portable.zip">DeepBurner Free Portable</a><br>
+</strong><hr><strong>
+  <a href="http://www.nu2.nu/pebuilder/">BartPE</a><br>
+  <a href="http://www.ubcd4win.com/">UBCD4Win.com</a><br>
+  <a href="http://winbuilder.net/">WinBuilder</a><br>
+  <a href="http://www.vistape.net/">Vista PE</a><br>
+  <a href="http://www.bootdisk.com/bootdisk.htm">Free Boot Disks</a><br>
+</strong><hr><strong>
+  <a href="http://tweaks.com/software/tweakslogon/">Tweaks.com Logon Changer for Windows 7</a><br>
+  <a href="http://www.litepc.com/">litePC.com</a><br>
+  <a href="http://www.nliteos.com/nlite.html">nLite Windows OS</a><br>
+  <a href="http://www.annoyances.org">Windows Annoyances</a><br>
+  <a href="http://members.driverguide.com/ums/index.php?action=l">DriverGuide.com</a><br>
+    &nbsp;&nbsp;&nbsp; drivers,all<br>
+  <a href="http://technet.microsoft.com/">Microsoft TechNet</a><br>
+  <a href="http://www.download.com/">Cnet Download.com</a><br>
+  <a href="http://www.toptenreviews.com/">Top Ten Reviews</a><br>
+  <a href="http://www.tucows.com/">Tucows</a><br>
+  <a href="http://www.winplanet.com">WinPlanet.com</a><br>
+  <a href="http://www.simtel.net/">Simtel</a><br>
+  <a href="http://www.oldversion.com/">OldVersion.com</a><br>
+  <a href="http://www.tinyapps.org/">TinyApps</a><br>
+  <a href="http://www.chami.com/tips/windows/">Chami.com Windows tips</a><br>
+  <a href="http://www.onecomputerguy.com/tips.htm">Bob Cerelli's Windows tips</a><br>
+  <a href="http://www.windowsnetworking.com/">World of Windows Networking</a><br>
+  <a href="http://www.computerhope.com/ac.htm">Autoexec.bat and Config.sys Info</a><br>
+  <a href="http://www.computerhope.com/batch.htm">Batch File Help</a><br>
+
+</strong>
 
 </body>
 </html>
+
