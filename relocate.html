@@ -1,9 +1,15 @@
-<html>
+<!doctype html>
+
+<html lang="en">
+
 <head>
+<meta charset="utf-8">
+
 <title>relocate</title>
 
-<script language="JavaScript" type="text/javascript">
+<script>
 <!--
+
 function limitText(limitField, limitCount, limitNum)
 {
   if (limitField.value.length > limitNum)
@@ -26,23 +32,26 @@ function GotoURL()
                            + document.form01.state2.value + "/"
                            + document.form01.salary.value;
 }
+
 // -->
 </script>
-</head>
 
+</head>
 
 
 <body>
 
+<form name="form01" action="POST">
+
 <h1>Cost of Living Comparison</h1>
+
 
 <a href="https://www.bestplaces.net/cost-of-living/plano-tx/san-antonio-tx/125000">https://www.bestplaces.net/cost-of-living/plano-tx/san-antonio-tx/125000</a>
 <br>
 <br>
 
-<form action="POST" name="form01">
 
-<table cellpadding='1' cellspacing='1' border='0'>
+<table>
   <tr>
     <td></td>
     <td>City</td>
@@ -77,12 +86,12 @@ function GotoURL()
     <td>
       <input type="text" size="30" name="salary" value="">
     </td>
+    <td></td>
   </tr>
 </table>
 
 <input type="button" name="button1" value="Calculate" onclick="GotoURL()">
 
-</table>
 
 <br>
 <br>
@@ -97,5 +106,7 @@ function GotoURL()
 <a href="https://remote.co/">Remote Work - jobs</a>
 
 </form>
+
 </body>
 </html>
+
