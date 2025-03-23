@@ -1,8 +1,13 @@
-<html>
+<!doctype html>
+
+<html lang="en">
+
 <head>
+<meta charset="utf-8">
+
 <title>maps</title>
 
-<script language="JavaScript" type="text/javascript">
+<script>
 <!--
 
 function replaceSpacePlus(str)
@@ -57,12 +62,15 @@ function mapsEmbed()
 
 // -->
 </script>
+
 </head>
 
 
-
 <body>
-<form name="form01" action="">
+
+<form name="form01" action="javascript:void(0);">
+
+
 <table>
   <tr>
     <td>Google maps (start)</td>
@@ -76,9 +84,11 @@ function mapsEmbed()
       <input type="text" size="80" name="end" value="">
     </td>
   </tr>
-  <tr><td>&nbsp;</td></tr>
   <tr>
-    <td>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">
       <input type="button" name="button1" value="Map (directions)" onclick="mapDirections()">
     </td>
   </tr>
