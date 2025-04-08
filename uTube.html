@@ -1,0 +1,113 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+<meta charset="utf-8">
+
+<title>uTube</title>
+
+<style>
+  th
+  {
+    background-color: orange;
+    padding: 4px;
+    text-align: left;
+  }
+  td
+  {
+    font-size: 20px;
+    padding: 4px;
+    text-align: left;
+  }
+</style>
+
+<script>
+
+function openWebpage()
+{
+  var str1 = "https://";
+  var str2 = document.querySelector('input[name="vServer"]:checked').value;
+
+  var str3 = "";
+  var str4 = document.querySelector('input[name="subscribe"]:checked').value;
+
+  if (str4.length != 0)
+    str3 = "/channel/";
+
+  window.open(str1 + str2 + str3 + str4, "_blank");
+}
+
+</script>
+
+</head>
+
+
+<body>
+
+<h1>Invidious Links</h1>
+
+<p style="font-size: 20px">
+  <a href="https://api.invidious.io/?sort_by=location">Invidious - servers (API)</a><br>
+  <br>
+  <a href="https://piped.video/playlists">Piped Video - playlists</a><br>
+    &nbsp;&nbsp;&nbsp; <a href="https://github.com/TeamPiped/piped">Github [ Piped ]</a><br>
+  <a href="https://piped-material.xn--17b.net/watch-history">Piped Material - history</a><br>
+    &nbsp;&nbsp;&nbsp; <a href="https://github.com/mmjee/Piped-Material">Github [ Piped Material ]</a><br>
+</p>
+
+
+<form name="form01" action="javascript:void(0);">
+
+<table>
+  <tr>
+    <th>Server</th>
+    <td></td>
+    <th>Channels (subscribed)</th>
+  </tr>
+  <tr>
+    <td>
+
+      <input type="radio" id="s01" name="vServer" value="inv.nadeko.net"  checked> <label for="s01"> inv.nadeko.net </label><br>
+
+      <input type="radio" id="s02" name="vServer" value="yewtu.be">                <label for="s02"> yewtu.be </label><br>
+      <input type="radio" id="s03" name="vServer" value="invidious.nerdvpn.de">    <label for="s03"> invidious.nerdvpn.de </label><br>
+      <input type="radio" id="s04" name="vServer" value="j00tube.com">             <label for="s04"> j00tube.com </label><br>
+
+      <input type="radio" id="s05" name="vServer" value="nyc1.iv.ggtyler.dev">     <label for="s05"> nyc1.iv.ggtyler.dev </label><br>
+      <input type="radio" id="s06" name="vServer" value="inv.tux.pizza">           <label for="s06"> inv.tux.pizza </label><br>
+
+      <hr><input type="radio" id="s00" name="vServer" value="www.youtube.com">     <label for="s00"><i> www.youtube.com </i></label><br>
+    </td>
+
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+
+    <td>
+
+      <input type="radio" id="ch01" name="subscribe" value="UCd9L1l2Odu2cND3ILHiuJQQ"> <label for="ch01"> Basaraski Productions - Packers </label><br>
+      <input type="radio" id="ch02" name="subscribe" value="UCT0UjPTPEwtOH1ZVz-ueB8w"> <label for="ch02"> GoPowercat - KSU </label><br>
+      <input type="radio" id="ch03" name="subscribe" value="UCufUP6i_pdfTjqVEswITOmw"> <label for="ch03"> Locked on Packers </label><br>
+
+      <input type="radio" id="ch04" name="subscribe" value="UCSuHzQ3GrHSzoBbwrIq3LLA"> <label for="ch04"> Naomi Brockwell TV </label><br>
+      <input type="radio" id="ch05" name="subscribe" value="UCOTPo2y-NHJjg1EuENrxypA"> <label for="ch05"> First Things 1st </label><br>
+      <input type="radio" id="ch06" name="subscribe" value="UCeY0bbntWzzVIaj2z3QigXg"> <label for="ch06"> NBC News Now </label><br>
+
+      <input type="radio" id="ch07" name="subscribe" value="UCrjKdwxaQMSV_NDywgKXVmw"> <label for="ch07"> NovaSpirit </label><br>
+      <input type="radio" id="ch08" name="subscribe" value="UCNovoA9w0KnxyDP5bGrOYzg"> <label for="ch08"> Tek Syndicate </label><br>
+      <input type="radio" id="ch09" name="subscribe" value="UCs5Y5_7XK8HLDX0SLNwkd3w"> <label for="ch09"> Visual Studio Code </label><br>
+
+      <hr><input type="radio" id="ch00" name="subscribe" value=""  checked> <label for="ch00"><i> (none) </i></label><br>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<input type="button" name="button1" value="Open WebPage" onclick="openWebpage()">
+
+</form>
+
+
+</body>
+</html>
+
