@@ -1,34 +1,5 @@
 BEGIN:VCARD
 VERSION:3.0
-FN:Steve Soper
-N:Soper;Steve;;;
-EMAIL;TYPE=INTERNET;TYPE=HOME:soper1979@gmail.com
-TEL;TYPE=MAIN:(402) 915-1979
-ADR;TYPE=HOME:;;6200 S 31st St.;Lincoln;NE;68516;US;6200 S 31st St.\nLincol
- n\, NE 68516\nUS
-BDAY:19790107
-URL;TYPE=WORK:https\://www.linkedin.com/in/stevenpaulsoper/
-item1.URL:https\://www.youtube.com/@Soper79
-item1.X-ABLabel:_$!<HomePage>!$_
-NOTE:Savannah\nNorah Jo
-CATEGORIES:Family,myContacts,starred
-END:VCARD
-BEGIN:VCARD
-VERSION:3.0
-FN:Trudy Soper
-N:Soper;Trudy;;;
-EMAIL;TYPE=INTERNET;TYPE=HOME:tsoper@gmail.com
-EMAIL;TYPE=INTERNET;TYPE=WORK:trudy.soper@rbc.com
-TEL;TYPE=MAIN:(402) 617-7502
-ADR;TYPE=HOME:;;6200 S 31st St.;Lincoln;NE;68516;US;6200 S 31st St.\nLincol
- n\, NE 68516\nUS
-BDAY:19801210
-URL;TYPE=WORK:https\://www.linkedin.com/in/trudy-soper-063852127/
-NOTE:Savannah\nNorah Jo
-CATEGORIES:Family,myContacts,starred
-END:VCARD
-BEGIN:VCARD
-VERSION:3.0
 FN:Airbnb
 N:;Airbnb;;;
 TEL;TYPE=MAIN:(855) 424-7262
@@ -73,17 +44,6 @@ NOTE:Routing #\n124 003 116\nCheck #\n102 301 6437\nSavings #\n212 423 3541
  \nATM $1000\, POS $5000\nATM reimburse\, $10 per cycle\nPatty Lopez - NMLS
  #938145\n
 CATEGORIES:Misc,myContacts
-END:VCARD
-BEGIN:VCARD
-VERSION:3.0
-FN:Amanda Skout
-N:Skout;Amanda;;;
-item1.TEL:(727) 369-9250
-item1.X-ABLabel:
-ADR;TYPE=HOME:;;;Wichita;KS;;;Wichita\, Ks
-PHOTO:https://lh3.googleusercontent.com/contacts/AG6tpzGADnnBayaAiwde5-s0Zq
- 69DtJboiQ2RA5wdKNG70oJVhMCFTGu
-CATEGORIES:Date,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -149,6 +109,15 @@ CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
+FN:Bella POF
+N:POF;Bella;;;
+TEL;TYPE=CELL:(682) 557-7339
+PHOTO:https://lh3.googleusercontent.com/contacts/AG6tpzGtp8PaWewspPeKp0wdjB
+ qesQ0llVjCwvsiABarqQtDJla_SoYx
+CATEGORIES:Date,myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
 FN:Bonnie & Clyde Stereo
 N:Stereo;Bonnie & Clyde;;;
 TEL;TYPE=CELL:(972)2411187
@@ -158,19 +127,10 @@ CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
-FN:Brad Wirth
-N:Wirth;Brad;;;
-EMAIL;TYPE=INTERNET:strongbrad@gmail.com
-item1.TEL:(402) 690-6750
-item1.X-ABLabel:iPhone
-CATEGORIES:myContacts
-END:VCARD
-BEGIN:VCARD
-VERSION:3.0
 FN:Brakes Plus
 N:Plus;Brakes;;;
 TEL;TYPE=WORK:(469)7314330
-ADR;TYPE=WORK:;;5440 Warren Pkwy;Frisco;;75034;US;5440 Warren Pkwy\nFrisco
+ADR;TYPE=WORK:;;5440 Warren Pkwy;Frisco;;75034;US;5440 Warren Pkwy\nFrisco 
  75034\nUS
 ORG:Frisco
 NOTE:In ground\, no lift
@@ -218,9 +178,15 @@ CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
-FN:Carla Soper
-N:Soper;Carla;;;
-EMAIL;TYPE=INTERNET:carlasoper@gmail.com
+FN:Cheryl Hicklin
+N:Hicklin;Cheryl;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:chicklin8566@gmail.com
+EMAIL;TYPE=INTERNET:LeilaCheryl8566@gmail.com
+TEL;TYPE=CELL:(785) 691-5607
+ADR;TYPE=HOME:;;1570 N. 962 Road;Lawrence;KS;66046;US;1570 N. 962 Road\nLaw
+ rence\, KS 66046\nUS
+BDAY:19660922
+NOTE:(785) 842-1564\nTy & Melissa\n
 CATEGORIES:Family,myContacts
 END:VCARD
 BEGIN:VCARD
@@ -236,7 +202,7 @@ item2.URL:https\://www.classicchevrolet.com/ServiceApptForm
 item2.X-ABLabel:Classic
 item3.URL:https\://a1glasscoating.com/services/automotive-window-tint/
 item3.X-ABLabel:SA
-NOTE:full synthetic SAE 5W-30 dexos1 gen 3 6qt.\nACDelco oil filter PF48 /
+NOTE:full synthetic SAE 5W-30 dexos1 gen 3 6qt.\nACDelco oil filter PF48 / 
  PF48E\n6.2L LS3 V8\n481 / 42 miles (trip)\n245 / 40 R 18\n285 / 35 R 19\nF
  OB CR2032\n15 gal
 CATEGORIES:Misc,myContacts
@@ -278,7 +244,7 @@ FN:Corey Caldwell
 N:Caldwell;Corey;;;
 EMAIL;TYPE=INTERNET;TYPE=WORK:coreylandmarksouth@hotmail.com
 TEL;TYPE=CELL:(913) 220-6293
-item1.ADR:;;664 S Poplar St;Gardner;KS;66030;US;664 S Poplar St\nGardner\,
+item1.ADR:;;664 S Poplar St;Gardner;KS;66030;US;664 S Poplar St\nGardner\, 
  KS 66030\nUS
 item1.X-ABLabel:
 NOTE:Sells new Dodge/Chrysler's on Noland Rd (Landmark dealership)..  No pc
@@ -321,7 +287,7 @@ VERSION:3.0
 FN:Dalton Scott
 N:Scott;Dalton;;;
 EMAIL;TYPE=INTERNET;TYPE=HOME:scott_dalton@hotmail.com
-TEL;TYPE=HOME:(326) 215-2707‬
+TEL;TYPE=HOME:(326) 215-2707
 TEL:(316) 283-8748
 ADR;TYPE=HOME:;;;Newton;KS;67114;US;Newton\, KS 67114\nUS
 NOTE:Amy
@@ -351,10 +317,20 @@ VERSION:3.0
 FN:Dentist
 N:;Dentist;;;
 TEL;TYPE=MAIN:972-256-6700
-ADR;TYPE=HOME:;;Suite 206 3401 W. Airport Freeway;Irving;TX;75062;US;Suite
+ADR;TYPE=HOME:;;Suite 206 3401 W. Airport Freeway;Irving;TX;75062;US;Suite 
  206 3401 W. Airport Freeway\nIrving\, TX 75062\nUS
 ORG:Monarch Dental
 NOTE:Stanley Fitzer\, DDS\nNo Floride rinse
+CATEGORIES:Misc,myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Discount Tire
+N:Tire;Discount;;;
+EMAIL;TYPE=INTERNET;TYPE=WORK:customerrelations@discounttire.com
+ORG:Denton
+URL:https\://www.discounttire.com/
+NOTE:Mon-Fri 8-1800\, Sat 8-1700
 CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
@@ -385,27 +361,21 @@ BEGIN:VCARD
 VERSION:3.0
 FN:Eddie
 N:;Eddie;;;
-EMAIL;TYPE=INTERNET;TYPE=HOME:jsoper40@midco.net
-TEL;TYPE=CELL:620-222-0980
+EMAIL;TYPE=INTERNET;TYPE=HOME:risc16@outlook.com
+TEL;TYPE=CELL:(469) 922-0307
 ADR;TYPE=HOME:;;;;TX;78216;US;TX 78216\nUS
-TITLE:FM4C2-QWDWP-8SN2Q-4NP55-Z2W2B
+ADR;TYPE=HOME:;;;;TX;78216;US;TX 78216\nUS
 BDAY:20170316
 item1.URL:https\://mail.midco.net/
 item1.X-ABLabel:_$!<HomePage>!$_
+item2.URL:https\://mail.midco.net/
+item2.X-ABLabel:_$!<HomePage>!$_
 NOTE:jsoper40\nLawrence Public Library\nBarcode\: 1130702878855\nName\: JAM
  ES L SOPER\nDate of Birth\: September 1969\nCard Expiry Date\: Apr 20\, 20
  26\n\nIncoming calls\, record 4\, switch *
 PHOTO:https://lh3.googleusercontent.com/contacts/AG6tpzHJWINqQDv8zt5Rlwilal
  yJfvP-H43p8C__2zQEBlSOcpQNHzQ2
 CATEGORIES:Family,myContacts
-END:VCARD
-BEGIN:VCARD
-VERSION:3.0
-FN:Eduardo Serrano-Suzan
-N:Serrano-Suzan;Eduardo;;;
-EMAIL;TYPE=INTERNET:eserranosuzan@outlook.com
-ORG:USPS
-CATEGORIES:Coworkers,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -434,8 +404,8 @@ item2.TEL:214-849-8966
 item2.X-ABLabel:SERVICE
 item3.TEL:800-231-2222
 item3.X-ABLabel:TICKET
-ADR;TYPE=HOME:;;940 Juan Aldama;Monterrey;Nuevo León;64000;Mexico‎;940 Juan
-  Aldama\nMonterrey\, Nuevo León 64000\nMexico‎
+ADR;TYPE=HOME:;;940 Juan Aldama;Monterrey;Nuevo Leon;64000;Mexico;940 Juan
+  Aldama\nMonterrey\, Nuevo Leon 64000\nMexico
 item4.ADR:;;500 N St Mary's St;San Antonio;TX;78205;;500 N St Mary's St\nSa
  n Antonio\, TX 78205
 item4.X-ABLabel:SA
@@ -455,7 +425,7 @@ N:;gVoice;;;
 TEL;TYPE=CELL:(913) 585-0308
 PHOTO:https://lh3.googleusercontent.com/contacts/AG6tpzGgJTZwCkxKwEgAtHkUhs
  7VvuaZ5nvYvgZ8JHDOkRLGtea0Yha0
-CATEGORIES:myContacts
+CATEGORIES:IT,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -481,14 +451,6 @@ CATEGORIES:Date,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
-FN:Heather POF
-N:POF;Heather;;;
-item1.TEL:(385) 800-6102
-item1.X-ABLabel:
-CATEGORIES:myContacts
-END:VCARD
-BEGIN:VCARD
-VERSION:3.0
 FN:IT Team
 N:Team;IT;;;
 NOTE:*67  callerID off\n*82  callerID on
@@ -504,22 +466,11 @@ item1.X-ABLabel:
 item2.URL:https\://www.pof.com/viewprofile?profileId=353071428
 item2.X-ABLabel:PROFILE
 URL;TYPE=WORK:https\://www.parklandhospital.com/phhs/home.aspx
-NOTE:Jhaney\n41\n5' 2\" (157cm)\n\"Catch me I’m fallen😊? lol that’s a song
+NOTE:Jhaney\n41\n5' 2\" (157cm)\n\"Catch me Im fallen lol thats a song
  .\"\
 PHOTO:https://lh3.googleusercontent.com/contacts/AG6tpzFbHksVSRJo6vQrCY5V12
  d_8DPLoW3_Krwt8qB5xqxvL1gJL0ZY
 CATEGORIES:Date,myContacts
-END:VCARD
-BEGIN:VCARD
-VERSION:3.0
-FN:John  Dorsey
-N:Dorsey;John;;;
-EMAIL;TYPE=INTERNET;TYPE=WORK:John.Dorsey@kofc.org
-TEL;TYPE=CELL:(785) 865-8506
-ADR:;;1275 SW Topeka Blvd;Topeka;KS;66612-1852;US;1275 SW Topeka Blvd\nTope
- ka\, KS 66612-1852\nUS
-NOTE:LTC - long term care\nLife Insurance
-CATEGORIES:myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -532,8 +483,8 @@ item1.X-ABLabel:MAYRA
 TEL;TYPE=CELL:309-212-3927
 item2.TEL:512-937-8562
 item2.X-ABLabel:MAYRA
-ADR;TYPE=HOME:;Residencial Misión Lincoln 2;#6222 Safari;Monterrey;;64110;M
- X;#6222 Safari\nResidencial Misión Lincoln 2\n64110 Monterrey\nMX
+ADR;TYPE=HOME:;Residencial Mision Lincoln 2;#6222 Safari;Monterrey;;64110;M
+ X;#6222 Safari\nResidencial Mision Lincoln 2\n64110 Monterrey\nMX
 item3.ADR:;;Suite 420 12401 Research Blvd;Austin;TX;78759;US;Suite 420 1240
  1 Research Blvd\nAustin\, TX 78759\nUS
 item3.X-ABLabel:Cds-global
@@ -588,9 +539,9 @@ BEGIN:VCARD
 VERSION:3.0
 FN:Lawrence Automotive Diagnostics
 N:Diagnostics;Lawrence Automotive;;;
-TEL;TYPE=MAIN:‪(785) 503-3371
+TEL;TYPE=MAIN:(785) 503-3371
 NOTE:NAPA full synthetic SAE 5W-30 dexos1 gen 3 6qt.\nACDelco oil filter PF
- 48 / PF48E\n6.2L LS3 V8\n481 / 42 miles (trip)\n245 / 40 R 18\n285 / 35 R
+ 48 / PF48E\n6.2L LS3 V8\n481 / 42 miles (trip)\n245 / 40 R 18\n285 / 35 R 
  19\nFOB CR2032\n15 gal
 CATEGORIES:Misc,myContacts
 END:VCARD
@@ -599,8 +550,8 @@ VERSION:3.0
 FN:Lawrence Transit
 N:Transit;Lawrence;;;
 EMAIL;TYPE=INTERNET;TYPE=WORK:info@lawrencetransit.org
-TEL;TYPE=MAIN:785-864-4644
-TEL;TYPE=WORK:785-312-7054
+TEL;TYPE=MAIN:(785) 864-4644
+TEL:(785) 312-7054
 ORG:Bus
 TITLE:On Demand
 item1.URL:https\://lawrencetransit.org/
@@ -609,13 +560,26 @@ item2.URL:https\://lawrencetransit.org/mobile-tools/
 item2.X-ABLabel:_$!<HomePage>!$_
 item3.URL:https\://lawrencetransit.org/on-demand/
 item3.X-ABLabel:On Demand
-NOTE:shared ride service\:\nDay\n8 am – 6 pm\, Sunday\n\nNight\n8 pm – 6 am
- \, Monday – Saturday\n12 am – 6 am\, Sunday\n-----\nphone reserve\: 8-5 mo
- n-sat\nAll buses are free in 2024. This includes fixed-route\, T Lift\, an
- d Lawrence Transit On Demand.
+NOTE:shared ride service\: 5d advance\nDay\n8 am - 6 pm\, Sunday\n\nNight\n
+ 8 pm - 6 am\, Monday - Saturday\n12 am - 6 am\, Sunday\n-----\nphone reser
+ ve\: 8-5 mon-sat\nAll buses are free in 2024. This includes fixed-route\, 
+ T Lift\, and Lawrence Transit On Demand.
 PHOTO:https://lh3.googleusercontent.com/contacts/AG6tpzEn8FcfY5PMC8vFOsOQ52
  wE9ZtUq8AHg43s7iTfEOTSa2CiK2wU
 CATEGORIES:Misc,myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Leila Soper
+N:Soper;Leila;;;
+item1.EMAIL;TYPE=INTERNET:soperleila@gmail.com
+item1.X-ABLabel:Mom
+TEL;TYPE=CELL:(785) 842-8919
+ADR;TYPE=HOME:;;1208 West 27th St;Lawrence;KS;66046;US;1208 West 27th St\nL
+ awrence\, KS 66046\nUS
+URL:http\://www.google.com/profiles/112382818811160531170
+NOTE:* vm pwd #\nDon't call after 9 pm\n----\n90d 4-14-2019\: 785-813-1411
+CATEGORIES:Family,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -660,7 +624,7 @@ item5.URL:https\://en.wikipedia.org/wiki/Bacoor
 item5.X-ABLabel:City
 item6.URL:https\://en.wikipedia.org/wiki/Ninoy_Aquino_International_Airport
 item6.X-ABLabel:Airport
-NOTE:son 10 yrs old\nDaughter turning 3 on Sept 26\, 2024\n\n0589 cattleya
+NOTE:son 10 yrs old\nDaughter turning 3 on Sept 26\, 2024\n\n0589 cattleya 
  street \,progressive 18\,  molino 1.  Bacoor city Cavite\nTelegram: @Lorai
  ne_28
 CATEGORIES:Date,myContacts
@@ -895,6 +859,7 @@ FN:Roxanne POF Garcia
 N:Garcia;Roxanne;POF;;
 item1.TEL:(406) 426-9385
 item1.X-ABLabel:
+ADR;TYPE=HOME:;;;El Paso;Tx;;;El Paso\, Tx
 NOTE:Jamaican\nBronx\, NY\n\nBorn 1987\n5.9
 PHOTO:https://lh3.googleusercontent.com/contacts/AG6tpzG1i3YlIt5lOpTwJ1xk-O
  zEDiWjOpddOm7qF5GjT_xERGyWEABh
@@ -916,11 +881,26 @@ FN:Stan Soper
 N:Soper;Stan;;;
 EMAIL;TYPE=INTERNET;TYPE=HOME:soper.stan@gmail.com
 TEL;TYPE=CELL:785-633-1443
-ADR;TYPE=HOME:;;4236 SE Ohio Ct;Topeka;KS;66609;;4236 SE Ohio Ct\nTopeka\,
+ADR;TYPE=HOME:;;4236 SE Ohio Ct;Topeka;KS;66609;;4236 SE Ohio Ct\nTopeka\, 
  KS 66609
 item1.URL:http\://www.google.com/profiles/116510874880701380467
 item1.X-ABLabel:PROFILE
 NOTE:Carla\nChris\nMatt\n
+CATEGORIES:Family,myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Steve Soper
+N:Soper;Steve;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:soper1979@gmail.com
+TEL;TYPE=MAIN:(402) 915-1979
+ADR;TYPE=HOME:;;6200 S 31st St.;Lincoln;NE;68516;US;6200 S 31st St.\nLincol
+ n\, NE 68516\nUS
+BDAY:19790107
+URL;TYPE=WORK:https\://www.linkedin.com/in/stevenpaulsoper/
+item1.URL:https\://www.youtube.com/@Soper79
+item1.X-ABLabel:_$!<HomePage>!$_
+NOTE:Savannah\nNorah Jo
 CATEGORIES:Family,myContacts
 END:VCARD
 BEGIN:VCARD
@@ -941,40 +921,9 @@ CATEGORIES:Misc,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
-FN:Studio 6
-N:6;Studio;;;
-item1.TEL:(940) 387-5840
-item1.X-ABLabel:Denton
-ADR:;;700 Fort Worth Dr;Denton;TX;76201-7137;US;700 Fort Worth Dr\nDenton\,
-  TX 76201-7137\nUS
-item2.ADR:;;909 McCormick St;Denton;TX;76201-6637;US;909 McCormick St\nDent
- on\, TX 76201-6637\nUS
-item2.X-ABLabel:Church
-ORG:studio700
-TITLE:Wifi
-item3.URL:http\://jp2denton.org/
-item3.X-ABLabel:Church
-NOTE:Room 105 $1250\nRoom 146\n
-CATEGORIES:Misc,myContacts
-END:VCARD
-BEGIN:VCARD
-VERSION:3.0
-FN:Summer Skout
-N:Skout;Summer;;;
-item1.TEL:(707) 900-1189
-item1.X-ABLabel:
-item2.ADR:;;;Sacramento;CA;;US;Sacramento\, CA\nUS
-item2.X-ABLabel:
-CATEGORIES:Date,myContacts
-END:VCARD
-BEGIN:VCARD
-VERSION:3.0
 FN:Tello
 N:;Tello;;;
 TEL;TYPE=MAIN:866-377-0294
-item1.TEL:805-637-7243
-item1.X-ABLabel:Vm
-TEL;TYPE=HOME:(469) 922-0307
 TEL:611
 CATEGORIES:Misc,myContacts
 END:VCARD
@@ -983,7 +932,7 @@ VERSION:3.0
 FN:Tiffany Hoang
 N:Hoang;Tiffany;;;
 TEL;TYPE=CELL:(647) 882-0986
-ADR:;;35 Bales Ave #503;Toronto;ON;M2N 7L7;CA;35 Bales Ave #503\nToronto\,
+ADR:;;35 Bales Ave #503;Toronto;ON;M2N 7L7;CA;35 Bales Ave #503\nToronto\, 
  ON M2N 7L7\nCA
 URL;TYPE=WORK:https\://www.massagetherapyreference.com/how-to-become-a-regi
  stered-massage-therapist-in-canada/
@@ -1009,7 +958,7 @@ TEL;TYPE=MAIN:(877) 778-2106
 TEL;TYPE=HOME:(940) 331-4070
 ORG:Alcatel Linkzone 2
 TITLE:Coolpad Surf
-NOTE:soapman@zoho.com\nsoapman@zohomail.com\n\n4G LTE\n16 devices\n\n#225#
+NOTE:soapman@zoho.com\nsoapman@zohomail.com\n\n4G LTE\n16 devices\n\n#225# 
    Bal\n*#06#   IMEI\n
 CATEGORIES:Misc,myContacts
 END:VCARD
@@ -1033,6 +982,20 @@ ADR;TYPE=HOME:;;1105 Pinecrest Ct;Newton;KS;67114-4849;US;1105 Pinecrest Ct
 NOTE:Patricia Deutschendorf\nActivities Secretary\nHesston High School\npat
  ricia.deutschendorf@usd460.org\n620.327.7121\n
 CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Trudy Soper
+N:Soper;Trudy;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:tsoper@gmail.com
+EMAIL;TYPE=INTERNET;TYPE=WORK:trudy.soper@rbc.com
+TEL;TYPE=MAIN:(402) 617-7502
+ADR;TYPE=HOME:;;6200 S 31st St.;Lincoln;NE;68516;US;6200 S 31st St.\nLincol
+ n\, NE 68516\nUS
+BDAY:19801210
+URL;TYPE=WORK:https\://www.linkedin.com/in/trudy-soper-063852127/
+NOTE:Savannah\nNorah Jo
+CATEGORIES:Family,myContacts
 END:VCARD
 BEGIN:VCARD
 VERSION:3.0
@@ -1072,40 +1035,4 @@ item3.X-ABLabel:Topeka
 BDAY:20170923
 URL:freeweathercall.com
 CATEGORIES:Misc,myContacts
-END:VCARD
-BEGIN:VCARD
-VERSION:3.0
-FN:Leila Soper
-N:Soper;Leila;;;
-item1.EMAIL;TYPE=INTERNET:soperleila@gmail.com
-item1.X-ABLabel:Mom
-TEL;TYPE=CELL:(785) 842-8919
-ADR;TYPE=HOME:;;1208 West 27th St;Lawrence;KS;66046;US;1208 West 27th St\nL
- awrence\, KS 66046\nUS
-URL:http\://www.google.com/profiles/112382818811160531170
-NOTE:* vm pwd #\nDon't call after 9 pm\n----\n90d 4-14-2019\: 785-813-1411
-CATEGORIES:Family,myContacts,starred
-END:VCARD
-BEGIN:VCARD
-VERSION:3.0
-FN:Discount Tire
-N:Tire;Discount;;;
-EMAIL;TYPE=INTERNET;TYPE=WORK:customerrelations@discounttire.com
-ORG:Denton
-URL:https\://www.discounttire.com/
-NOTE:Mon-Fri 8-1800\, Sat 8-1700
-CATEGORIES:Misc,myContacts,starred
-END:VCARD
-BEGIN:VCARD
-VERSION:3.0
-FN:Cheryl Hicklin
-N:Hicklin;Cheryl;;;
-EMAIL;TYPE=INTERNET;TYPE=HOME:chicklin8566@gmail.com
-EMAIL;TYPE=INTERNET:LeilaCheryl8566@gmail.com
-TEL;TYPE=CELL:(785) 691-5607
-ADR;TYPE=HOME:;;1570 N. 962 Road;Lawrence;KS;66046;US;1570 N. 962 Road\nLaw
- rence\, KS 66046\nUS
-BDAY:19660922
-NOTE:(785) 842-1564\nTy & Melissa\n
-CATEGORIES:Family,myContacts,starred
 END:VCARD
