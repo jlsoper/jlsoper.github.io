@@ -1,11 +1,12 @@
+
 BEGIN:VCARD
 VERSION:3.0
 FN:AAAA ZZZZ
 N:ZZZZ;AAAA;;;
-item1.EMAIL;TYPE=INTERNET:user@nowhere.com
-item1.X-ABLabel:
+EMAIL;TYPE=INTERNET;TYPE=HOME:user@nowhere.com
 TEL;TYPE=CELL:888-555-1212
 ADR;TYPE=HOME:;;street;city;state;zip;US
 URL:https://en.wikipedia.org/
 NOTE:
 END:VCARD
+
