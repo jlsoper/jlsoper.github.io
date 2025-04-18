@@ -1,3 +1,4 @@
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Airbnb
@@ -8,6 +9,7 @@ item1.X-ABLabel:PROFILE
 URL;TYPE=WORK:https\://www.airbnb.com/dashboard
 CATEGORIES:Misc,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Alan Vitt
@@ -21,6 +23,7 @@ ORG:KDOT
 TITLE:DB Admin
 CATEGORIES:Coworkers,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Ally Bank
@@ -45,6 +48,7 @@ NOTE:Routing #\n124 003 116\nCheck #\n102 301 6437\nSavings #\n212 423 3541
  #938145\n
 CATEGORIES:Misc,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Apartment
@@ -53,6 +57,7 @@ item1.TEL:(866) 289-5977
 item1.X-ABLabel:RentP
 CATEGORIES:Misc,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Appliance Warehouse
@@ -60,6 +65,7 @@ N:Warehouse;Appliance;;;
 TEL;TYPE=MAIN:(800) 693-4343
 CATEGORIES:Misc,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Auto Insurance
@@ -83,6 +89,7 @@ NOTE:1G1YB2DW7D5104865\n\nTexas. JMV 9021\nPolicy # 54955 50 34\n* do not a
  ling from\n\nFull Pay Discount\, credit card\n
 CATEGORIES:Misc,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Auto Towing
@@ -94,6 +101,7 @@ NOTE:United Road Towing\nTRAA certified drivers\nWalnut hill Wrecker\nAccep
  ts Geico
 CATEGORIES:Misc,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Barber
@@ -107,6 +115,7 @@ ADR:;;1301 Custer Rd #334;Plano;TX;75075-7491;US;1301 Custer Rd #334\nPlano
 NOTE:Kimble Howard in Grapevine
 CATEGORIES:Misc,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Bella POF
@@ -116,6 +125,7 @@ PHOTO:https://lh3.googleusercontent.com/contacts/AG6tpzGtp8PaWewspPeKp0wdjB
  qesQ0llVjCwvsiABarqQtDJla_SoYx
 CATEGORIES:Date,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Bonnie & Clyde Stereo
@@ -125,6 +135,7 @@ ADR;TYPE=HOME:;;104 11311 Harry Hines Blvd;Dallas;TX;75229;;104 11311 Harry
   Hines Blvd\nDallas\, TX 75229
 CATEGORIES:Misc,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Brakes Plus
@@ -136,6 +147,7 @@ ORG:Frisco
 NOTE:In ground\, no lift
 CATEGORIES:Misc,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Brent
@@ -145,6 +157,7 @@ ORG:Sabre
 TITLE:CPP Developer
 CATEGORIES:Coworkers,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Britney POF
@@ -155,6 +168,7 @@ PHOTO:https://lh3.googleusercontent.com/contacts/AG6tpzEIRwbUUtCe3ePN1SY5ME
  KGj5LtEldPedMrmAYJJOwSlflz_odY
 CATEGORIES:Date,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Bus Train
@@ -176,6 +190,7 @@ item7.X-ABLabel:DCTA
 NOTE:DART = GoPass Card\n7 Eleven\, Tom Thumb\nText Bus stop # to 41411
 CATEGORIES:Misc,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Cheryl Hicklin
@@ -189,6 +204,7 @@ BDAY:19660922
 NOTE:(785) 842-1564\nTy & Melissa\n
 CATEGORIES:Family,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Chevrolet
@@ -207,6 +223,7 @@ NOTE:full synthetic SAE 5W-30 dexos1 gen 3 6qt.\nACDelco oil filter PF48 /
  OB CR2032\n15 gal
 CATEGORIES:Misc,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Chong Gi Kim
@@ -218,6 +235,7 @@ ADR;TYPE=HOME:;;7277 Morning Star Trail;Northfield;OH;44067;;7277 Morning S
 NOTE:Jung Mi\n920-203-6603\nckim828@yahoo.com
 CATEGORIES:myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Chris Soper
@@ -226,6 +244,7 @@ TEL;TYPE=CELL:(785) 221-1060
 ADR;TYPE=HOME:;;;Topeka;KS;;;Topeka\, KS
 CATEGORIES:Family,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Cindy Caldwell
@@ -238,6 +257,7 @@ ADR;TYPE=HOME:;;445 S Old US Hwy 23;Brighton;MI;48114;US;445 S Old US Hwy 2
 NOTE:Jeff\n-----\nChelsea\nSamantha\n
 CATEGORIES:Family,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Corey Caldwell
@@ -251,6 +271,7 @@ NOTE:Sells new Dodge/Chrysler's on Noland Rd (Landmark dealership)..  No pc
  but text alot & is still a sports nut.\n
 CATEGORIES:Family,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Corvette Warehouse
@@ -266,6 +287,7 @@ URL:https\://www.corvettewarehouse.com/
 NOTE:Andy Rivera (cell)\nRicardo Martinez (mechanic)\nCR 2032
 CATEGORIES:Misc,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Dale Koehn
@@ -282,6 +304,7 @@ item1.X-ABLabel:PROFILE
 NOTE:Cat Berry
 CATEGORIES:Coworkers,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Dalton Scott
@@ -293,6 +316,7 @@ ADR;TYPE=HOME:;;;Newton;KS;67114;US;Newton\, KS 67114\nUS
 NOTE:Amy
 CATEGORIES:myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:David Kelso
@@ -302,6 +326,7 @@ item1.X-ABLabel:
 ORG:JobCorps
 CATEGORIES:Coworkers,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:David Piehler
@@ -312,6 +337,7 @@ NOTE:121 hwy & Coit Rd. Plano\, Tx\nHead Boys Basketball Coach\nPartner's P
  E\nHighland Park High School\nDallas\, Texas\n
 CATEGORIES:myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Dentist
@@ -323,6 +349,7 @@ ORG:Monarch Dental
 NOTE:Stanley Fitzer\, DDS\nNo Floride rinse
 CATEGORIES:Misc,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Discount Tire
@@ -333,6 +360,7 @@ URL:https\://www.discounttire.com/
 NOTE:Mon-Fri 8-1800\, Sat 8-1700
 CATEGORIES:Misc,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Discover CC
@@ -343,6 +371,7 @@ item1.URL:https\://www.discovercard.com/cardmembersvcs/loginlogout/app/ac_m
 item1.X-ABLabel:PROFILE
 CATEGORIES:Misc,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Douglas Floyd
@@ -357,6 +386,7 @@ URL:http\://www.google.com/profiles/117633214855144889002
 NOTE:Works 4 AT&T\nGender\: Male
 CATEGORIES:Coworkers,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Eddie
@@ -377,6 +407,7 @@ PHOTO:https://lh3.googleusercontent.com/contacts/AG6tpzHJWINqQDv8zt5Rlwilal
  yJfvP-H43p8C__2zQEBlSOcpQNHzQ2
 CATEGORIES:Family,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Felix Grimmett
@@ -394,6 +425,7 @@ URL;TYPE=WORK:http\://hcms.eanesisd.net/about/administration-1
 NOTE:Hill Country Middle School\nAsst. Principal\nmobile -> Julie 0303
 CATEGORIES:myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Greyhound Bus
@@ -418,6 +450,7 @@ NOTE:205 S Lamar Street\nDallas\, TX 75202\n$8 \,2 hrs. $10 day (parking)\n
  \n----\n1 day prior\, cost $20
 CATEGORIES:Misc,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:gVoice
@@ -427,6 +460,7 @@ PHOTO:https://lh3.googleusercontent.com/contacts/AG6tpzGgJTZwCkxKwEgAtHkUhs
  7VvuaZ5nvYvgZ8JHDOkRLGtea0Yha0
 CATEGORIES:IT,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Haya Tampac
@@ -449,6 +483,7 @@ NOTE:never married\n1 daughter\nage in 20's\n2 sons\n1 dog --> Caramel\n\nr
  each her Sat\, Sun\: 6pm\nTelegram\: @Ayette2023
 CATEGORIES:Date,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:IT Team
@@ -456,6 +491,7 @@ N:Team;IT;;;
 NOTE:*67  callerID off\n*82  callerID on
 CATEGORIES:IT,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Jess POF
@@ -472,6 +508,7 @@ PHOTO:https://lh3.googleusercontent.com/contacts/AG6tpzFbHksVSRJo6vQrCY5V12
  d_8DPLoW3_Krwt8qB5xqxvL1gJL0ZY
 CATEGORIES:Date,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Juan Villarreal
@@ -500,6 +537,7 @@ NOTE:Mayra\nDevany\, Angela\nfrom Monterrey -> Regio\nwifi->abcdef3261\nGen
  der\: Male
 CATEGORIES:Coworkers,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Karen Feezor
@@ -512,6 +550,7 @@ ADR;TYPE=HOME:;;9910 Fairbanks;Belleville;MI;48111;;9910 Fairbanks\nBellevi
 NOTE:Jake\nBrittany\n
 CATEGORIES:Family,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Karl Juhnke
@@ -523,6 +562,7 @@ ADR;TYPE=HOME:;;403 W 24th;north newton;KS;;US;403 W 24th\nnorth newton\, K
 NOTE:wife -> Katie
 CATEGORIES:myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Laundromat
@@ -535,6 +575,7 @@ ORG:Korean
 NOTE:MySpectrumWiFi9F-5G\ndutymirror210\n\n
 CATEGORIES:Misc,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Lawrence Automotive Diagnostics
@@ -545,6 +586,7 @@ NOTE:NAPA full synthetic SAE 5W-30 dexos1 gen 3 6qt.\nACDelco oil filter PF
  19\nFOB CR2032\n15 gal
 CATEGORIES:Misc,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Lawrence Transit
@@ -568,6 +610,7 @@ PHOTO:https://lh3.googleusercontent.com/contacts/AG6tpzEn8FcfY5PMC8vFOsOQ52
  wE9ZtUq8AHg43s7iTfEOTSa2CiK2wU
 CATEGORIES:Misc,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Leila Soper
@@ -581,6 +624,7 @@ URL:http\://www.google.com/profiles/112382818811160531170
 NOTE:* vm pwd #\nDon't call after 9 pm\n----\n90d 4-14-2019\: 785-813-1411
 CATEGORIES:Family,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Library
@@ -605,6 +649,7 @@ item6.URL:https\://lplks.org/
 item6.X-ABLabel:_$!<HomePage>!$_
 CATEGORIES:Misc,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Loraine (Ana) Villacorte Mojica
@@ -629,6 +674,7 @@ NOTE:son 10 yrs old\nDaughter turning 3 on Sept 26\, 2024\n\n0589 cattleya
  ne_28
 CATEGORIES:Date,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Marty Highsmith
@@ -638,6 +684,7 @@ TEL;TYPE=CELL:(316) 213-1390
 ADR;TYPE=HOME:;;;Derby;KS;;;Derby\, KS
 CATEGORIES:myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Matthew Soper
@@ -648,6 +695,7 @@ PHOTO:https://lh3.googleusercontent.com/contacts/AG6tpzFjINdmQ7ser72FapNrHK
  MxBFrXbAxkYatJc00x8G3w4ytCYQgo
 CATEGORIES:Family,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Meeting - Audio
@@ -669,6 +717,7 @@ item7.X-ABLabel:MTeams
 TITLE:Audio Conferencing
 CATEGORIES:IT,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Michael Doan
@@ -683,6 +732,7 @@ item1.URL:https\://www.linkedin.com/in/michael-doan-91263913/
 item1.X-ABLabel:PROFILE
 CATEGORIES:Coworkers,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Mike Stieben
@@ -695,6 +745,7 @@ item1.URL:https\://www.facebook.com/profile.php?id=1309695573
 item1.X-ABLabel:PROFILE
 CATEGORIES:myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:NTTA
@@ -710,6 +761,7 @@ NOTE:Account\: 4686875\nAccount Type\: Starter TollTag\n$20 \, refill <$5\n
  rt to ($40/$10) tag.
 CATEGORIES:Misc,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Passport - Info Center
@@ -728,6 +780,7 @@ NOTE:Passport # 670871111\nexp. 10/31/2031\n\nOverseas Citizens Services\n8
  88-407-4747\nOverseas Citizens Services - Other\n202-501-4444\n
 CATEGORIES:Misc,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Pet Care
@@ -758,6 +811,7 @@ PHOTO:https://lh3.googleusercontent.com/contacts/AG6tpzE2hffZQaMiSN5dYqRG72
  GVnWjhPd8ryDrouQP8B7FrPu6FHD5t
 CATEGORIES:Misc,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Police
@@ -770,6 +824,7 @@ item1.URL:https\://www.cityofdenton.com/361/Police
 item1.X-ABLabel:_$!<HomePage>!$_
 CATEGORIES:Misc,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Rafael Mendez
@@ -784,6 +839,7 @@ ADR;TYPE=HOME:;;Hc-3 Box 7560;Dorado;;00646;PR;Hc-3 Box 7560\nDorado 00646
 NOTE:Hc-3 Box 7560\nDorado\, Puerto Rico 00646\n
 CATEGORIES:myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:RBFCU
@@ -801,6 +857,7 @@ NOTE:Mon-Fri 9-5\nSat 9-4\n\nRouting #\n314 089 681\n\nPrimary Savings #\n2
  19 738 954
 CATEGORIES:Misc,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Rec Center - Holcom Park
@@ -819,6 +876,7 @@ NOTE:WiFi\nGuestLWN\nWeLoveLawrence22!\n\nHours\:\n8-20 m-f\n9-18 sat\n10-1
  6 sun\n
 CATEGORIES:Misc,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Rich McKown
@@ -831,6 +889,7 @@ ORG:R&B Customs
 NOTE:Beth\nCourtney\nJake\n
 CATEGORIES:myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Roger Caldwell
@@ -842,6 +901,7 @@ ADR;TYPE=HOME:;;9212 Summertime Court;Cheboygan;MI;49721;US;9212 Summertime
   Court\nCheboygan\, MI 49721\nUS
 CATEGORIES:Family,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Rohan Mukesh
@@ -853,6 +913,7 @@ item1.URL:https\://www.linkedin.com/in/rohan-mukesh-61ba74b/
 item1.X-ABLabel:PROFILE
 CATEGORIES:Coworkers,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Roxanne POF Garcia
@@ -865,6 +926,7 @@ PHOTO:https://lh3.googleusercontent.com/contacts/AG6tpzG1i3YlIt5lOpTwJ1xk-O
  zEDiWjOpddOm7qF5GjT_xERGyWEABh
 CATEGORIES:Date,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Sandeep Bhat
@@ -875,6 +937,7 @@ item1.URL:https\://www.linkedin.com/in/sandeepgbhat/
 item1.X-ABLabel:PROFILE
 CATEGORIES:Coworkers,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Stan Soper
@@ -888,6 +951,7 @@ item1.X-ABLabel:PROFILE
 NOTE:Carla\nChris\nMatt\n
 CATEGORIES:Family,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Steve Soper
@@ -903,6 +967,7 @@ item1.X-ABLabel:_$!<HomePage>!$_
 NOTE:Savannah\nNorah Jo
 CATEGORIES:Family,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Storage - SelfStore @ Coit
@@ -919,6 +984,7 @@ NOTE:Jeanie Coker\nGate - 8919#\nUnit # 836\nHours\: 7 am - 8\:30 pm\n10x15
  \n$120
 CATEGORIES:Misc,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Tello
@@ -927,6 +993,7 @@ TEL;TYPE=MAIN:866-377-0294
 TEL:611
 CATEGORIES:Misc,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Tiffany Hoang
@@ -943,6 +1010,7 @@ PHOTO:https://lh3.googleusercontent.com/contacts/AG6tpzHum4SgXpMXvox8YWsSgH
  oTJ_vBQQfpLsEHLuNF9-cT31yEZ2DS
 CATEGORIES:Date,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Tim Pham
@@ -950,6 +1018,7 @@ N:Pham;Tim;;;
 EMAIL;TYPE=INTERNET;TYPE=HOME:tim_ph@yahoo.com
 CATEGORIES:Coworkers,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:TMobile
@@ -962,6 +1031,7 @@ NOTE:soapman@zoho.com\nsoapman@zohomail.com\n\n4G LTE\n16 devices\n\n#225#
    Bal\n*#06#   IMEI\n
 CATEGORIES:Misc,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:tonyPC
@@ -971,6 +1041,7 @@ ADR:;;;Lecompton;KS;;US;Lecompton\, KS\nUS
 TITLE:192.168.0.154
 CATEGORIES:Family,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Troy Deutschendorf
@@ -983,6 +1054,7 @@ NOTE:Patricia Deutschendorf\nActivities Secretary\nHesston High School\npat
  ricia.deutschendorf@usd460.org\n620.327.7121\n
 CATEGORIES:myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Trudy Soper
@@ -997,6 +1069,7 @@ URL;TYPE=WORK:https\://www.linkedin.com/in/trudy-soper-063852127/
 NOTE:Savannah\nNorah Jo
 CATEGORIES:Family,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:TV-Internet
@@ -1010,6 +1083,7 @@ item1.X-ABLabel:_$!<HomePage>!$_
 NOTE:500 / 500 Mbps\n$39.99
 CATEGORIES:Misc,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:TWC 6631
@@ -1021,6 +1095,7 @@ ORG:Texas Workforce Commission
 NOTE:1\,3
 CATEGORIES:Misc,myContacts
 END:VCARD
+
 BEGIN:VCARD
 VERSION:3.0
 FN:Weather
@@ -1036,3 +1111,4 @@ BDAY:20170923
 URL:freeweathercall.com
 CATEGORIES:Misc,myContacts
 END:VCARD
+
