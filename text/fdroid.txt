@@ -38,5 +38,8 @@ VLC
 ### Google Play Store ###
 
 
+Here We Go (maps)
+Musicolet
+Opensignal
 RepairSolutions2
 
