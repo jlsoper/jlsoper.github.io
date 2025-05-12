@@ -1,0 +1,33 @@
+{
+
+
+    "OD"             : "right eye",
+
+    "Sphere   (sph)" : "-1.25",
+    "Cylinder (cyl)" : "-4.75",
+    "Axis"           : "096",
+
+    "Near Add"       : "+2.00",
+    "Int Add"        : "",
+    "H Prism"        : "",
+    "V Prism"        : "",
+
+
+
+
+    "OS"             : "left eye",
+
+    "Sphere   (sph)" : "-1.50",
+    "Cylinder (cyl)" : "-5.25",
+    "Axis"           : "081",
+
+    "Near Add"       : "+2.00",
+    "Int Add"        : "",
+    "H Prism"        : "",
+    "V Prism"        : "",
+
+
+    "PD (pupil distance)" : "69.0"
+
+}
+

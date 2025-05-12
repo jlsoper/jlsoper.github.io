@@ -1,0 +1,32 @@
+{
+
+
+    "OD"             : "right eye",
+
+    "Sphere   (sph)" : "-1.50",
+    "Cylinder (cyl)" : "-4.25",
+    "Axis"           : "098",
+
+    "Near Add"       : "",
+    "Int Add"        : "",
+    "H Prism"        : "",
+    "V Prism"        : "",
+
+
+
+
+    "OS"             : "left eye",
+
+    "Sphere   (sph)" : "-2.00",
+    "Cylinder (cyl)" : "-4.25",
+    "Axis"           : "081",
+
+    "Near Add"       : "",
+    "Int Add"        : "",
+    "H Prism"        : "",
+    "V Prism"        : "",
+
+
+
+}
+
