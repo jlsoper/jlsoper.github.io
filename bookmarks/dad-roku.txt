@@ -32,8 +32,8 @@ catholicTV network
 formed
 
 pandora
-iHeart Radio
-audacy
+spotify
+myTuner
 
 true crime network
 american association tv
