@@ -1,9 +1,7 @@
 #EXTM3U
 
-##  https://bartlesvilleradio.com/home/
+##  KFNZ 96.5 The Fan
 
-##  [ backup stream ]
-##  http://crystalout.surfernetwork.com:8001/KWON-AM_MP3
 
-http://rocket.surfernetwork.com:10000/live/kwon-am_aac/playlist.m3u8
+https://live.amperwave.net/manifest/audacy-kfnzfmaac-imc
 
