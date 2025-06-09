@@ -31,44 +31,37 @@ NewPipe
 
 ////////////
 
-apps installed : 52
-apps list: 9
-storage : 6.49 used / 16 GB
+apps installed : 45
+apps list: 10
+storage : 6.46 used / 16 GB
 
 install Aurora Store
 
 ////////////
 
 
-Amazon
-Amazon Kindle
-Amazon Music
-Audible
 Calendar
-Caller ID
 Chrome
 Cloud Print
+com.handmark.metro.launcher.AppStore
 CQATest
 Device Help
 Drive
 Duo
-Facebook
+Facebook App Manager
 Gmail
-Google
+Google App
 Google Play Movies & TV
 Google Play Music
 Google Play Store
-Instagram
 Lookout
 Maps
-Messages
-Messenger
+metroZone
 Moto
-Motorola Notifications
+Moto Messaging
+name ID
 Phone
 Photos
-Prime Photos
-Prime Video
 Wallpapers
 YouTube
 
