@@ -1,41 +1,48 @@
 Notally
-Calendar - etar
+Calendar
 
 
-Telegram
-Firefox Focus
-
+gVoice
+Signal
+DuckDuckGo browser
 Calculator
 Settings
 ---
 Clock
-Explorer - Speed software
+My Files
 
-Gallery - fossify
+Gallery
 Camera
 
+Weather
 
-K-9 Mail
+
+Email
+Here WeGo Maps
+gTranslate
+
+Sync
+
+
 KeepassDX
-
-Lingva [ web app ]
 OpenSignal
+Lyft
+GoPass
+Transit
 
 
-FM Radio
-Pandora
 Jango Radio
-Musicolet
+
+VLC
 NewPipe
 
 
 ////////////
 
-apps installed : 52
-apps list: 9
-storage : 6.49 used / 16 GB
+apps installed : 
+apps list: 
+storage :  used / 32 GB
 
-install Aurora Store
 
 ////////////
 
