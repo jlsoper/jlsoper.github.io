@@ -44,7 +44,7 @@ apps list: 14
 storage : 10.91 used / 32 GB
 
 
-////////////
+//////////// Disable
 
 
 Chrome
@@ -54,6 +54,14 @@ Game Launcher
 Gmail
 Google
 Maps
+Meet
 Secure Folder
 YouTube
+
+
+//////////// Uninstall
+
+gDrive
+gPhotos
+gTV
 
