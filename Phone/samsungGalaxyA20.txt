@@ -47,35 +47,13 @@ storage :  used / 32 GB
 ////////////
 
 
-Amazon
-Amazon Kindle
-Amazon Music
-Audible
-Calendar
-Caller ID
 Chrome
-Cloud Print
-CQATest
-Device Help
-Drive
-Duo
+DECO PIC
 Facebook
+Game Launcher
 Gmail
 Google
-Google Play Movies & TV
-Google Play Music
-Google Play Store
-Instagram
-Lookout
 Maps
-Messages
-Messenger
-Moto
-Motorola Notifications
-Phone
-Photos
-Prime Photos
-Prime Video
-Wallpapers
+Secure Folder
 YouTube
 
