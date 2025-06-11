@@ -55,6 +55,7 @@ Gmail
 Google
 Maps
 Meet
+ Mobile Services Manager
 Secure Folder
 YouTube
 
@@ -65,17 +66,17 @@ gDrive
 gPhotos
 gTV
 
-Solitaire
-EverMerge
-Klondike
-Pinterest
-Monopoly Go
-Bingo Blitz
-Bubble Shooter Relaxing
-Merge
-Woodoku
-4 Letters 1 Word
-Candy Crush Saga
-Blocks
-Triple Match
+ Solitaire
+ EverMerge
+ Klondike
+ Pinterest
+ Monopoly Go
+ Bingo Blitz
+ Bubble Shooter Relaxing
+ Merge
+ Woodoku
+ 4 Letters 1 Word
+ Candy Crush Saga
+ Blocks
+ Triple Match
 
