@@ -35,7 +35,10 @@ apps installed : 45
 apps list: 10
 storage : 6.46 used / 16 GB
 
-install Aurora Store
+Moto E4
+IMEI: 354135091645263
+
+Install Aurora Store
 
 ////////////
 
