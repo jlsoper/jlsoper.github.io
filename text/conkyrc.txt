@@ -73,7 +73,7 @@ conky.config = {
 conky.text = [[
 
 ${color goldenrod}Hostname: ${color DeepSkyBlue1}$nodename
-${color goldenrod}Enet: ${color}${addr eth0}
+${color goldenrod}Enet: ${color}${addr enp1s0}
 ${color goldenrod}WiFi: ${color}${addr wlp1s0}
 ${color green}Linux Kernel: ${color yellow}$kernel
 ${color goldenrod}CPU Details:  ${color magenta}$machine, $freq(MHz)
