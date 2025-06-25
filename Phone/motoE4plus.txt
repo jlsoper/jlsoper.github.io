@@ -16,8 +16,8 @@ Camera
 
 
 K-9 Mail
+Organic Maps
 KeepassDX
-
 Lingva [ web app ]
 OpenSignal
 
