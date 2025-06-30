@@ -15,6 +15,7 @@ Fossify Voice Recorder
 
 Gcam Services Provider (Photos)
 Jitsi Meet
+Jami
 K-9 Mail
 KeePassDX
 LibreSpeed
