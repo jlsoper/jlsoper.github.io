@@ -43,6 +43,9 @@ apps installed : 45
 apps list: 14
 storage : 10.91 used / 32 GB
 
+Samsung A20
+IMEI: 357626105146014
+
 
 //////////// Disable
 
