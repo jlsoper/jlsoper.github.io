@@ -2,8 +2,8 @@ Notally
 Calendar - fossify
 
 
-Telegram
-Firefox Focus
+Musicolet
+Big Digital Clock
 
 Calculator
 Settings
@@ -11,21 +11,14 @@ Settings
 Clock
 Explorer - Speed software
 
-Gallery - fossify
+Google Photos (old)
 Camera
-
-
-K-9 Mail
-KeepassDX
-
-Lingva [ web app ]
-OpenSignal
 
 
 FM Radio
 Pandora
+
 Jango Radio
-Musicolet
 NewPipe
 
 
