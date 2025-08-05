@@ -51,6 +51,27 @@ IMEI: 355180463185224
 //////////// Disable
 
 
+AR Doodle
+AR Emoji
+AR Emoji Stickers
+Chrome
+Facebook
+Gaming Hub
+Gmail
+Google
+Link to Windows
+Live Transcribe & Sound Notifications
+Maps
+Meet
+Messages (google)
+ Mobile Services Manager
+OneDrive
+Samsung Visit In
+Secure Folder
+Secure Wi-Fi
+Smart Switch
+Voice Access
+YouTube
 
 
 //////////// Uninstall
@@ -59,4 +80,19 @@ gDrive
 gPhotos
 gTV
 
+1Weather
+AR Zone
+Microsoft 365 Office
+MySites
+Outlook
+Reminder
+Samsung Global Goals
+Samsung Health
+Samsung Kids
+Samsung News
+Samsung Notes
+Samsung Wallet
+SmartThings
+Wearable
+YouTube Music
 
