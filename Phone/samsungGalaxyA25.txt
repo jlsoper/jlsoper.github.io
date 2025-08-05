@@ -45,7 +45,7 @@ apps list: 00
 storage : 00.00 used / 128 GB
 
 Samsung A25
-IMEI: 000000000000000
+IMEI: 355180463185224
 
 
 //////////// Disable
