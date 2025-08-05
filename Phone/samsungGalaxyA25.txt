@@ -51,17 +51,6 @@ IMEI: 355180463185224
 //////////// Disable
 
 
-Chrome
-DECO PIC
-Facebook
-Game Launcher
-Gmail
-Google
-Maps
-Meet
- Mobile Services Manager
-Secure Folder
-YouTube
 
 
 //////////// Uninstall
@@ -70,17 +59,4 @@ gDrive
 gPhotos
 gTV
 
- Solitaire
- EverMerge
- Klondike
- Pinterest
- Monopoly Go
- Bingo Blitz
- Bubble Shooter Relaxing
- Merge
- Woodoku
- 4 Letters 1 Word
- Candy Crush Saga
- Blocks
- Triple Match
 
