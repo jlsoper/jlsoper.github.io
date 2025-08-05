@@ -40,9 +40,9 @@ NewPipe
 ////////////
 12/2023
 
-apps installed : 00
-apps list: 00
-storage : 00.00 used / 128 GB
+apps installed : 56
+apps list: 16
+storage : 18.0 used / 128 GB
 
 Samsung A25
 IMEI: 355180463185224
