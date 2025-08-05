@@ -2,8 +2,8 @@ Notally
 Calendar - etar
 
 
-Telegram
-Firefox Focus
+Forkgram
+Fennec F-Droid
 
 Calculator
 Settings
@@ -11,21 +11,23 @@ Settings
 Clock
 Explorer - Speed software
 
-Gallery - fossify
+gPhotos
 Camera
 
 
 K-9 Mail
 Organic Maps
+LibreSpeed
+Translate You (Lingva)
 KeepassDX
-Lingva [ web app ]
-OpenSignal
+
+CPU Info
 
 
 FM Radio
-Pandora
-Jango Radio
-Musicolet
+
+
+Odyssey Music Player
 NewPipe
 
 
