@@ -51,6 +51,7 @@ IMEI: 355180463185224
 //////////// Disable
 
 
+Android Switch
 AR Doodle
 AR Emoji
 AR Emoji Stickers
@@ -79,9 +80,12 @@ YouTube
 gDrive
 gPhotos
 gTV
+gWallet
 
 1Weather
 AR Zone
+LinkedIn
+m365 Copilot
 Microsoft 365 Office
 MySites
 Outlook
