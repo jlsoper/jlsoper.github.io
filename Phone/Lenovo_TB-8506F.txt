@@ -1,0 +1,87 @@
+Notally
+Calendar
+
+
+gVoice
+Signal
+DuckDuckGo browser
+Calculator
+Settings
+---
+Clock
+My Files
+
+Gallery
+Camera
+
+Weather
+
+
+Email
+Here WeGo Maps
+gTranslate
+
+Sync
+
+
+KeepassDX
+OpenSignal
+Lyft
+GoPass
+Transit
+
+
+Jango Radio
+
+VLC
+NewPipe
+
+
+////////////
+02/2022
+
+apps installed : 31
+apps list: 9
+storage : 9.33 used / 32 GB
+
+
+Install Aurora Store
+
+//////////// Disable
+
+
+Assistant
+Chrome
+Digital Wellbeing
+Entertainment Space
+gDrive
+gDuo
+Google
+gOne
+gPlay Books
+gPlay Games
+gPlay Store
+gTV
+gPay
+Keep Notes
+Kids Space
+Lenovo ID
+LenovoWhatsnew
+Maps
+gPhotos
+YouTube
+YT Music
+
+
+//////////// Uninstall
+
+gCalendar
+gMail
+
+Amazon Music
+Basic Daydreams
+Files by Google
+MusicFx
+YouTube Music
+YT Kids
+
