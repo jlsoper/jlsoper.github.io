@@ -1,39 +1,26 @@
 Notally
-Calendar
+Calendar - etar
 
 
-gVoice
-Signal
+
 DuckDuckGo browser
 Calculator
 Settings
 ---
 Clock
-My Files
+Explorer - Speed software
 
-Gallery
+gPhotos
 Camera
 
-Weather
 
 
-Email
-Here WeGo Maps
-gTranslate
-
-Sync
 
 
-KeepassDX
-OpenSignal
-Lyft
-GoPass
-Transit
+FM Radio
 
 
-Jango Radio
 
-VLC
 NewPipe
 
 
@@ -53,9 +40,9 @@ Install Aurora Store
 Assistant
 Chrome
 Digital Wellbeing
-Entertainment Space
 gDrive
 gDuo
+Entertainment Space
 Google
 gOne
 gPlay Books
@@ -82,6 +69,5 @@ Amazon Music
 Basic Daydreams
 Files by Google
 MusicFx
-YouTube Music
 YT Kids
 
