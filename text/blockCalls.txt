@@ -1,0 +1,33 @@
+
+
+X   Block unknown / private numbers
+
+
+-----
+
+DND - Do Not Disturb
+
+
+Settings
+ Notifications
+  Do not disturb
+
+DND - turn on
+
+for how long?  until I turn off
+
+
+Exceptions
+---
+
+Calls, Messages, Conversations
+
+a) calls - contacts only
+
+b) messages - contacts only
+
+c) conversations - none
+
+
+/////////////////////////////////////////////////
+
