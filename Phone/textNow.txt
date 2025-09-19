@@ -1,4 +1,4 @@
-Samsung Notes
+Notally
 Calendar
 
 
@@ -16,6 +16,7 @@ Camera
 
 Weather
 
+QR & Barcode Scanner
 
 ////////////
 04/2019
@@ -31,6 +32,7 @@ IMEI: 357626105146014
 //////////// Disable
 
 
+Android Auto
 Android Switch
 Chrome
 DECO PIC
@@ -38,9 +40,12 @@ Facebook
 Game Launcher
 Gmail
 Google
+Google Partner Setup
+Google Wi-Fi Provisioner
 Maps
 Meet
  Mobile Services Manager
+Samsung Time Zone Data
 Secure Folder
 YouTube
 
