@@ -1,0 +1,7 @@
+               Local time: Mon 2025-09-29 15:33:45 CDT
+           Universal time: Mon 2025-09-29 20:33:45 UTC
+                 RTC time: Mon 2025-09-29 20:33:45
+                Time zone: America/Chicago (CDT, -0500)
+System clock synchronized: yes
+              NTP service: active
+          RTC in local TZ: no
