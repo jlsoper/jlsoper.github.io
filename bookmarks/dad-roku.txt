@@ -8,18 +8,18 @@ pluto TV
 peacock
 
 local now
+wibw 13
 haystack news
-local news live
 
 prime video - amazon
 sling
 philo
 
 xumo play
-pbs
 the CW
+true crime network
 
-playlet
+pbs
 kanopy
 hoopla
 
@@ -39,5 +39,5 @@ american association tv
 espn
 fox sports
 
-true crime network
+playlet
 
