@@ -52,12 +52,12 @@ IMEI: 355180463185224
 
 
 Android Switch
-AR Doodle
-AR Emoji
-AR Emoji Stickers
+Avatar Stickers
 Chrome
+ConfigAPK
 Facebook
-Gaming Hub
+Galaxy Avatar
+Gemini
 Gmail
 Google
 Link to Windows
@@ -71,6 +71,7 @@ Samsung Visit In
 Secure Folder
 Secure Wi-Fi
 Smart Switch
+Studio
 Voice Access
 YouTube
 
@@ -84,6 +85,7 @@ gWallet
 
 1Weather
 AR Zone
+Gaming Hub
 LinkedIn
 m365 Copilot
 Microsoft 365 Office
