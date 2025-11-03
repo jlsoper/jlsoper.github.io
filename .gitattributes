@@ -9,6 +9,7 @@
 #  Windows text files
 *.ini            text   eol=crlf
 *.pls            text   eol=crlf
+*.reg            text   eol=crlf
 *.vcf            text   eol=crlf
 
 
