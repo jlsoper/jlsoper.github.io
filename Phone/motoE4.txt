@@ -19,7 +19,7 @@ FM Radio
 Pandora
 
 Jango Radio
-NewPipe
+iHeart Radio
 
 
 ////////////

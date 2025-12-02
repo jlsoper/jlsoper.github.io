@@ -7,19 +7,19 @@ tubi
 pluto TV
 peacock
 
-wdaf+ (fox 4 KC)
-wibw 13
 local now
-
+wibw 13
 haystack news
-pbs
-CW
 
 prime video - amazon
 sling
 philo
 
 xumo play
+CW
+true crime network
+
+pbs
 kanopy
 hoopla
 
@@ -35,10 +35,9 @@ pandora
 spotify
 myTuner
 
+american association tv
 espn
 fox sports
-american association tv
 
-true crime network
 playlet
 
