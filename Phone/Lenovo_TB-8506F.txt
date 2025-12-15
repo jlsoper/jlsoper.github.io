@@ -1,26 +1,38 @@
 Notally
-Calendar - etar
+Calendar - fossify
 
 
+Forkgram
+Fennec F-Droid
 
-DuckDuckGo browser
 Calculator
 Settings
 ---
 Clock
 Explorer - Speed software
 
-gPhotos
+gGallery
 Camera
 
 
+K-9 Mail
+Here WeGo Maps
+Translate You (Lingva)
 
+Sync
+
+
+KeepassDX
+OpenSignal
+
+RepairSol2
 
 
 FM Radio
+Pandora
+Jango Radio
 
-
-
+VLC
 NewPipe
 
 
