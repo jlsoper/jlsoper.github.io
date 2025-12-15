@@ -32,6 +32,7 @@ storage : 6.46 used / 16 GB
 Moto E4
 IMEI: 354135091645263
 
+Install Droid-ify
 Install Aurora Store
 
 ////////////
