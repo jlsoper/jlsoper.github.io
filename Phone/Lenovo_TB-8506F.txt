@@ -31,7 +31,7 @@ RepairSol2
 FM Radio
 Pandora
 Jango Radio
-
+iHeart Radio
 VLC
 NewPipe
 

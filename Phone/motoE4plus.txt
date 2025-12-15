@@ -2,8 +2,8 @@ Notally
 Calendar - etar
 
 
-Forkgram
-Fennec F-Droid
+Waterfox
+Big Digital Clock
 
 Calculator
 Settings
@@ -15,20 +15,11 @@ gPhotos
 Camera
 
 
-K-9 Mail
-Organic Maps
-LibreSpeed
-Translate You (Lingva)
-KeepassDX
-
-CPU Info
-
-
 FM Radio
-
-
-Odyssey Music Player
-NewPipe
+Pandora
+Jango Radio
+iHeart Radio
+VLC
 
 
 ////////////
