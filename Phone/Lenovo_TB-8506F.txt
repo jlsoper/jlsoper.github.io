@@ -39,8 +39,8 @@ NewPipe
 ////////////
 02/2022
 
-apps installed : 31
-apps list: 9
+apps installed : 30
+apps list: 8
 storage : 9.33 used / 32 GB
 
 
@@ -69,7 +69,6 @@ LenovoWhatsnew
 Maps
 gPhotos
 YouTube
-YT Music
 
 
 //////////// Uninstall
@@ -79,7 +78,11 @@ gMail
 
 Amazon Music
 Basic Daydreams
+Calculator
+Calendar
 Files by Google
+gMail
 MusicFx
 YT Kids
+YT Music
 
