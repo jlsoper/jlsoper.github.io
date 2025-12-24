@@ -39,8 +39,8 @@ NewPipe
 ////////////
 02/2022
 
-apps installed : 30
-apps list: 8
+apps installed : 31
+apps list: 9
 storage : 9.33 used / 32 GB
 
 
@@ -54,7 +54,6 @@ Chrome
 Digital Wellbeing
 gDrive
 gDuo
-Entertainment Space
 Google
 gOne
 gPlay Books
@@ -64,8 +63,6 @@ gTV
 gPay
 Keep Notes
 Kids Space
-Lenovo ID
-LenovoWhatsnew
 Maps
 gPhotos
 YouTube
@@ -78,7 +75,6 @@ gMail
 
 Amazon Music
 Basic Daydreams
-Calculator
 Calendar
 Files by Google
 gMail
