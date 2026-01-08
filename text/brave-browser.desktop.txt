@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+
+# copy .desktop from /usr/share/applications to ~/.local/share/applications
+Exec=notify-send -t 3000 -i dialog-warning "Error" " "
+
+# make sure Name & Icon match
+Name=Brave Web Browser
+Icon=brave-browser
+
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Network;WebBrowser;
+
