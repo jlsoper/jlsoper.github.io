@@ -1,0 +1,7 @@
+# /etc/apt/sources.list.d/sid.list
+
+deb http://deb.debian.org/debian sid main non-free-firmware
+deb-src http://deb.debian.org/debian sid main non-free-firmware
+
+
+
