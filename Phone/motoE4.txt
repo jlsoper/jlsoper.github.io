@@ -1,9 +1,9 @@
 Notally
-gCal
+Calendar - etar
 
 
-Talkatone
-gMeet
+Fennec F-Droid
+Big Digital Clock
 
 Calculator
 Settings
@@ -39,22 +39,27 @@ storage : 6.46 used / 16 GB
 Moto E4
 IMEI: 354135091645263
 
+Install Aurora Store
 
 ////////////
 
 
+Calendar
 Chrome
 Cloud Print
 com.handmark.metro.launcher.AppStore
 CQATest
 Device Help
 Drive
+Duo
 Facebook App Manager
 Gmail
 Google App
 Google Play Movies & TV
 Google Play Music
+Google Play Store
 Lookout
+Maps
 metroZone
 Moto
 Moto Messaging
