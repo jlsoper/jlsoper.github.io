@@ -2,7 +2,7 @@ Notally
 Calendar - etar
 
 
-Fennec F-Droid
+Musicolet
 Big Digital Clock
 
 Calculator
@@ -16,9 +16,8 @@ Camera
 
 
 K-9 Mail
-gMaps
-gTranslate
-Sync
+Organic Maps
+Translate You (Lingva)
 KeepassDX
 
 
@@ -26,7 +25,8 @@ FM Radio
 Pandora
 Jango Radio
 iHeart Radio
-Musicolet
+
+NewPipe
 
 
 ////////////
