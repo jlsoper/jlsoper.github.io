@@ -1,4 +1,8 @@
 
+direcTV
+pbs
+playlet
+
 roku channel
 cbs
 nbc
@@ -19,9 +23,9 @@ xumo play
 CW
 true crime network
 
-pbs
 kanopy
 hoopla
+ms now
 
 filmrise
 fawesome
@@ -36,8 +40,4 @@ spotify
 myTuner
 
 american association tv
-espn
-fox sports
-
-playlet
 
