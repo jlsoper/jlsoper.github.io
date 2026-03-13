@@ -1,0 +1,20 @@
+## F Keys on Mac keyboards - (fn)
+
+
+F1  - Decrease display brightness
+F2  - Increase display brightness
+
+F3  - Open Mission Control
+F4  - Open Launchpad
+
+F5  - Decrease keyboard brightness
+F6  - Increase keyboard brightness
+
+F7  - Skip back (Audio)
+F8  - Pause / Play (Audio)
+F9  - Skip forward (Audio)
+
+F10 - Mute
+F11 - Volume down
+F12 - Volume Up
+
